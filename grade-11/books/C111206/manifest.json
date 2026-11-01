@@ -1,0 +1,536 @@
+{
+  "schema_version": 1,
+  "book": {
+    "title": "عربی، زبان قرآن (2)",
+    "grade": 11,
+    "branches": [
+      "math",
+      "science"
+    ],
+    "book_code": "C111206",
+    "edition": "1405-1406",
+    "year": "1405-1406",
+    "language": "fa"
+  },
+  "source": {
+    "catalog_url": "http://chap.sch.ir/books/14320",
+    "pdf_url": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/41/C111206.pdf",
+    "local_pdf": "sources/C111206.pdf",
+    "sha256": "1a26ad980eaea0f70adff748a3a9588ba8af0df19da5456f957206a759a3d48f",
+    "pdf_page_count": 112,
+    "retrieved_at": null
+  },
+  "pages": [],
+  "figures": [
+    {
+      "page": 3,
+      "file": "assets/003-page.png",
+      "crop": "full page, rendered 2x",
+      "caption": null,
+      "alt": "تصویر امام خمینی و گفتار ایشان"
+    },
+    {
+      "page": 13,
+      "file": "assets/013-1.png",
+      "crop": "PDF rect (151,56,315,218), rendered 2x",
+      "caption": null,
+      "alt": "دو نفر شخص دیگری را مسخره می‌کنند"
+    },
+    {
+      "page": 13,
+      "file": "assets/013-2.png",
+      "crop": "PDF rect (151,232,312,348), rendered 2x",
+      "caption": null,
+      "alt": "خوشنویسی"
+    },
+    {
+      "page": 15,
+      "file": "assets/015-1.png",
+      "crop": "PDF rect (151, 284, 311, 396), rendered 2x",
+      "caption": null,
+      "alt": "نقشهٔ قاره‌ها"
+    },
+    {
+      "page": 15,
+      "file": "assets/015-2.png",
+      "crop": "PDF rect (151, 486, 311, 599), rendered 2x",
+      "caption": null,
+      "alt": "کوه دماوند"
+    },
+    {
+      "page": 16,
+      "file": "assets/016-1.png",
+      "crop": "PDF rect (151, 298, 311, 410), rendered 2x",
+      "caption": null,
+      "alt": "دو دانش‌آموز"
+    },
+    {
+      "page": 18,
+      "file": "assets/018-1.png",
+      "crop": "PDF rect (115, 410, 353, 577), rendered 2x",
+      "caption": null,
+      "alt": "مراسم قرآن بر سر گرفتن"
+    },
+    {
+      "page": 19,
+      "file": "assets/019-1.png",
+      "crop": "PDF rect (53,405,409,572), rendered 2x",
+      "caption": null,
+      "alt": "تصویر بازسازی جندی‌شاپور"
+    },
+    {
+      "page": 21,
+      "file": "assets/021-1.png",
+      "crop": "PDF rect (73,167,393,574), rendered 2x",
+      "caption": null,
+      "alt": "فروشگاه لباس"
+    },
+    {
+      "page": 22,
+      "file": "assets/022-1.png",
+      "crop": "PDF rect (143,392,327,575), rendered 2x",
+      "caption": null,
+      "alt": "چهار نوجوان در حال گفت‌وگو"
+    },
+    {
+      "page": 29,
+      "file": "assets/029-1.png",
+      "crop": "PDF rect (54,40,433,388), rendered 2x",
+      "caption": null,
+      "alt": "دهانهٔ غار حرا"
+    },
+    {
+      "page": 30,
+      "file": "assets/030-1.png",
+      "crop": "PDF rect (55,375,407,594), rendered 2x",
+      "caption": null,
+      "alt": "معلم و دانش‌آموزان در کلاس"
+    },
+    {
+      "page": 33,
+      "file": "assets/033-1.png",
+      "crop": "PDF rect (55,376,406,595), rendered 2x",
+      "caption": null,
+      "alt": "دانش‌آموزان در حال مطالعهٔ گروهی"
+    },
+    {
+      "page": 36,
+      "file": "assets/036-1.png",
+      "crop": "PDF rect (122,188,339,343), rendered 2x",
+      "caption": null,
+      "alt": "گروهی در حال کار در کنار آب"
+    },
+    {
+      "page": 37,
+      "file": "assets/037-1.png",
+      "crop": "PDF rect (157,402,317,568), rendered 2x",
+      "caption": null,
+      "alt": "مادر و فرزند در حال گفت‌وگو"
+    },
+    {
+      "page": 42,
+      "file": "assets/042-1.png",
+      "crop": "PDF rect (120, 175, 351, 317), rendered 2x",
+      "caption": null,
+      "alt": "منية المريد"
+    },
+    {
+      "page": 42,
+      "file": "assets/042-2.png",
+      "crop": "PDF rect (169, 388, 305, 581), rendered 2x",
+      "caption": null,
+      "alt": "جلد کتاب منیة المرید"
+    },
+    {
+      "page": 43,
+      "file": "assets/043-1.png",
+      "crop": "PDF rect (54,40,433,388), rendered 2x",
+      "caption": null,
+      "alt": "جوانه‌ها در خاک"
+    },
+    {
+      "page": 44,
+      "file": "assets/044-1.png",
+      "crop": "PDF rect (53, 179, 231, 446), rendered 2x",
+      "caption": null,
+      "alt": "درخت انگور برزیلی"
+    },
+    {
+      "page": 44,
+      "file": "assets/044-2.png",
+      "crop": "PDF rect (53, 459, 231, 588), rendered 2x",
+      "caption": null,
+      "alt": "درختان سکویا"
+    },
+    {
+      "page": 45,
+      "file": "assets/045-1.png",
+      "crop": "PDF rect (53, 55, 227, 235), rendered 2x",
+      "caption": null,
+      "alt": "میوهٔ درخت نان"
+    },
+    {
+      "page": 45,
+      "file": "assets/045-2.png",
+      "crop": "PDF rect (53, 363, 408, 463), rendered 2x",
+      "caption": null,
+      "alt": "درخت بلوط و میوهٔ آن"
+    },
+    {
+      "page": 46,
+      "file": "assets/046-1.png",
+      "crop": "PDF rect (122,381,339,596), rendered 2x",
+      "caption": null,
+      "alt": "دو کشاورز در مزرعه"
+    },
+    {
+      "page": 48,
+      "file": "assets/048-1.png",
+      "crop": "PDF rect (96,56,362,205), rendered 2x",
+      "caption": null,
+      "alt": "مردی کنار اسب‌ها"
+    },
+    {
+      "page": 49,
+      "file": "assets/049-1.png",
+      "crop": "PDF rect (94,240,361,399), rendered 2x",
+      "caption": null,
+      "alt": "چراغ در چراغدان"
+    },
+    {
+      "page": 50,
+      "file": "assets/050-1.png",
+      "crop": "PDF rect (132,402,329,545), rendered 2x",
+      "caption": null,
+      "alt": "مسابقهٔ فوتبال"
+    },
+    {
+      "page": 51,
+      "file": "assets/051-1.png",
+      "crop": "PDF rect (158,372,310,449), rendered 2x",
+      "caption": null,
+      "alt": "کاشت نهال"
+    },
+    {
+      "page": 52,
+      "file": "assets/052-1.png",
+      "crop": "PDF rect (83,110,399,590), rendered 2x",
+      "caption": null,
+      "alt": "تصاویر تمرین"
+    },
+    {
+      "page": 54,
+      "file": "assets/054-1.png",
+      "crop": "PDF rect (79,110,402,502), rendered 2x",
+      "caption": null,
+      "alt": "تصاویر بناهای تاریخی"
+    },
+    {
+      "page": 58,
+      "file": "assets/058-1.png",
+      "crop": "PDF rect (53,145,408,548), rendered 2x",
+      "caption": null,
+      "alt": "کودکی با نهال‌ها و نهالستان"
+    },
+    {
+      "page": 59,
+      "file": "assets/059-1.png",
+      "crop": "PDF rect (54,40,433,388), rendered 2x",
+      "caption": null,
+      "alt": "قرآن، رحل و تسبیح"
+    },
+    {
+      "page": 60,
+      "file": "assets/060-1.png",
+      "crop": "PDF rect (29,475,225,608), rendered 2x",
+      "caption": null,
+      "alt": "دو نوجوان در حال گفت‌وگو"
+    },
+    {
+      "page": 61,
+      "file": "assets/061-1.png",
+      "crop": "PDF rect (27,360,171,592), rendered 2x",
+      "caption": null,
+      "alt": "پیکرهٔ سقراط"
+    },
+    {
+      "page": 63,
+      "file": "assets/063-1.png",
+      "crop": "PDF rect (118,243,344,369), rendered 2x",
+      "caption": null,
+      "alt": "سنجاب در حال پریدن"
+    },
+    {
+      "page": 65,
+      "file": "assets/065-1.png",
+      "crop": "PDF rect (124,475,324,589), rendered 2x",
+      "caption": null,
+      "alt": "شخصی در حال سخن گفتن با نقاب‌ها"
+    },
+    {
+      "page": 66,
+      "file": "assets/066-1.png",
+      "crop": "PDF rect (130,464,330,578), rendered 2x",
+      "caption": null,
+      "alt": "مردی دست بر دهان نهاده است"
+    },
+    {
+      "page": 71,
+      "file": "assets/071-1.png",
+      "crop": "PDF rect (118,164,350,309), rendered 2x",
+      "caption": null,
+      "alt": "طرح دو چهره در حال ارتباط"
+    },
+    {
+      "page": 72,
+      "file": "assets/072-1.png",
+      "crop": "PDF rect (53,97,410,596), rendered 2x",
+      "caption": null,
+      "alt": "تصاویر حیوانات، اشیا و میوه‌ها"
+    },
+    {
+      "page": 73,
+      "file": "assets/073-1.png",
+      "crop": "PDF rect (54,40,433,388), rendered 2x",
+      "caption": null,
+      "alt": "تابلوهای راهنما"
+    },
+    {
+      "page": 75,
+      "file": "assets/075-1.png",
+      "crop": "PDF rect (54,335,408,575), rendered 2x",
+      "caption": null,
+      "alt": "استاد و چهار دانشجو در جلسهٔ امتحان"
+    },
+    {
+      "page": 76,
+      "file": "assets/076-1.png",
+      "crop": "PDF rect (50,422,230,597), rendered 2x",
+      "caption": null,
+      "alt": "ساختمان دانشگاه"
+    },
+    {
+      "page": 79,
+      "file": "assets/079-1.png",
+      "crop": "PDF rect (115,432,345,570), rendered 2x",
+      "caption": null,
+      "alt": "کودکان در یک غرفه"
+    },
+    {
+      "page": 80,
+      "file": "assets/080-1.png",
+      "crop": "PDF rect (108,384,322,543), rendered 2x",
+      "caption": null,
+      "alt": "گفت‌وگو در داروخانه"
+    },
+    {
+      "page": 84,
+      "file": "assets/084-1.png",
+      "crop": "PDF rect (119,362,351,507), rendered 2x",
+      "caption": null,
+      "alt": "تصویر نمادین منع دروغ"
+    },
+    {
+      "page": 85,
+      "file": "assets/085-1.png",
+      "crop": "PDF rect (54,40,433,388), rendered 2x",
+      "caption": null,
+      "alt": "سلام به زبان‌های گوناگون"
+    },
+    {
+      "page": 86,
+      "file": "assets/086-1.png",
+      "crop": "PDF rect (54,95,150,212), rendered 2x",
+      "caption": null,
+      "alt": "آنِه ماری شیمل"
+    },
+    {
+      "page": 87,
+      "file": "assets/087-1.png",
+      "crop": "PDF rect (43,329,315,574), rendered 2x",
+      "caption": null,
+      "alt": "سنگ مزار آنه ماری شیمل"
+    },
+    {
+      "page": 94,
+      "file": "assets/094-1.png",
+      "crop": "PDF rect (53,370,408,560), rendered 2x",
+      "caption": null,
+      "alt": "کعبه و مسجدالحرام"
+    },
+    {
+      "page": 97,
+      "file": "assets/097-1.png",
+      "crop": "PDF rect (53,345,408,597), rendered 2x",
+      "caption": null,
+      "alt": "بازسازی بنای سومری"
+    },
+    {
+      "page": 98,
+      "file": "assets/098-1.png",
+      "crop": "PDF rect (53,82,409,611), rendered 2x",
+      "caption": null,
+      "alt": "تصاویر تمرین"
+    },
+    {
+      "page": 99,
+      "file": "assets/099-1.png",
+      "crop": "PDF rect (54,40,433,388), rendered 2x",
+      "caption": null,
+      "alt": "قرآن و پرتوهای نور"
+    },
+    {
+      "page": 100,
+      "file": "assets/100-1.png",
+      "crop": "PDF rect (55,131,429,275), rendered 2x",
+      "caption": null,
+      "alt": "نمونه‌هایی از واژه‌های فارسی و عربی"
+    },
+    {
+      "page": 105,
+      "file": "assets/105-1.png",
+      "crop": "PDF rect (109,318,353,505), rendered 2x",
+      "caption": null,
+      "alt": "دانش‌آموزان در حال وضو گرفتن"
+    },
+    {
+      "page": 109,
+      "file": "assets/109-1.png",
+      "crop": "PDF rect (139,178,323,472), rendered 2x",
+      "caption": null,
+      "alt": "سه کودک در حال بازی با توپ"
+    },
+    {
+      "page": 110,
+      "file": "assets/110-1.png",
+      "crop": "PDF rect (135,136,330,567), rendered 2x",
+      "caption": null,
+      "alt": "کتاب‌های مربوط به واژه‌های معرّب"
+    },
+    {
+      "page": 112,
+      "file": "assets/112-1.png",
+      "crop": "PDF rect (52,177,410,601), rendered 2x",
+      "caption": "اسامی دبیران شرکت‌کننده در اعتبارسنجی",
+      "alt": "جدول اسامی دبیران و استان محل خدمت"
+    }
+  ],
+  "uncertainties": [],
+  "completed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112
+  ],
+  "status": "complete",
+  "next_page": null,
+  "timestamp": "2026-10-29T12:02:57.650597+00:00"
+}

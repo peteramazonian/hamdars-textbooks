@@ -1,0 +1,1253 @@
+{
+  "schema_version": 1,
+  "book": {
+    "title": "هندسه (2)",
+    "grade": 11,
+    "branches": [
+      "math"
+    ],
+    "book_code": "C111213",
+    "edition": "1405-1406",
+    "year": "1405-1406",
+    "language": "fa"
+  },
+  "source": {
+    "catalog_url": "http://chap.sch.ir/books/14322",
+    "pdf_url": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/30/C111213.pdf",
+    "local_pdf": "sources/C111213.pdf",
+    "sha256": "2bf760bf2263662b8f1426652c33e53531052e36d84fbb3023fe5aa5e150e421",
+    "pdf_page_count": 80,
+    "retrieved_at": null
+  },
+  "pages": [
+    {
+      "pdf_page": 1,
+      "file": "pages/001.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 2,
+      "file": "pages/002.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 3,
+      "file": "pages/003.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 4,
+      "file": "pages/004.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 5,
+      "file": "pages/005.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 6,
+      "file": "pages/006.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 7,
+      "file": "pages/007.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 8,
+      "file": "pages/008.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 9,
+      "file": "pages/009.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 10,
+      "file": "pages/010.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 11,
+      "file": "pages/011.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 12,
+      "file": "pages/012.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 13,
+      "file": "pages/013.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 14,
+      "file": "pages/014.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 15,
+      "file": "pages/015.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 16,
+      "file": "pages/016.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 17,
+      "file": "pages/017.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 18,
+      "file": "pages/018.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 19,
+      "file": "pages/019.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 20,
+      "file": "pages/020.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 21,
+      "file": "pages/021.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 22,
+      "file": "pages/022.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 23,
+      "file": "pages/023.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 24,
+      "file": "pages/024.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 25,
+      "file": "pages/025.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 26,
+      "file": "pages/026.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 27,
+      "file": "pages/027.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 28,
+      "file": "pages/028.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 29,
+      "file": "pages/029.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 30,
+      "file": "pages/030.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 31,
+      "file": "pages/031.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 32,
+      "file": "pages/032.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 33,
+      "file": "pages/033.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 34,
+      "file": "pages/034.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 35,
+      "file": "pages/035.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 36,
+      "file": "pages/036.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 37,
+      "file": "pages/037.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 38,
+      "file": "pages/038.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 39,
+      "file": "pages/039.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 40,
+      "file": "pages/040.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 41,
+      "file": "pages/041.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 42,
+      "file": "pages/042.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 43,
+      "file": "pages/043.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 44,
+      "file": "pages/044.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 45,
+      "file": "pages/045.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 46,
+      "file": "pages/046.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 47,
+      "file": "pages/047.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 48,
+      "file": "pages/048.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 49,
+      "file": "pages/049.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 50,
+      "file": "pages/050.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 51,
+      "file": "pages/051.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 52,
+      "file": "pages/052.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 53,
+      "file": "pages/053.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 54,
+      "file": "pages/054.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 55,
+      "file": "pages/055.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 56,
+      "file": "pages/056.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 57,
+      "file": "pages/057.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 58,
+      "file": "pages/058.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 59,
+      "file": "pages/059.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 60,
+      "file": "pages/060.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 61,
+      "file": "pages/061.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 62,
+      "file": "pages/062.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 63,
+      "file": "pages/063.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 64,
+      "file": "pages/064.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 65,
+      "file": "pages/065.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 66,
+      "file": "pages/066.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 67,
+      "file": "pages/067.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 68,
+      "file": "pages/068.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 69,
+      "file": "pages/069.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 70,
+      "file": "pages/070.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 71,
+      "file": "pages/071.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 72,
+      "file": "pages/072.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 73,
+      "file": "pages/073.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 74,
+      "file": "pages/074.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 75,
+      "file": "pages/075.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 76,
+      "file": "pages/076.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 77,
+      "file": "pages/077.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 78,
+      "file": "pages/078.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 79,
+      "file": "pages/079.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 80,
+      "file": "pages/080.md",
+      "status": "transcribed"
+    }
+  ],
+  "figures": [
+    {
+      "pdf_page": 10,
+      "file": "assets/010-figures.png",
+      "crop_bounds_points": [
+        375,
+        330,
+        525,
+        710
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "سه شکل: نقاط A، B و C در نسبت با دایره؛ خط‌های نسبت به دایره؛ و عمود AH بر خط d"
+    },
+    {
+      "pdf_page": 11,
+      "file": "assets/011-figures.png",
+      "crop_bounds_points": [
+        40.0,
+        50.0,
+        195.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 12,
+      "file": "assets/012-figures.png",
+      "crop_bounds_points": [
+        370.0,
+        50.0,
+        525.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 13,
+      "file": "assets/013-figures.png",
+      "crop_bounds_points": [
+        40.0,
+        50.0,
+        195.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 14,
+      "file": "assets/014-figures.png",
+      "crop_bounds_points": [
+        370.0,
+        50.0,
+        525.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 15,
+      "file": "assets/015-figures.png",
+      "crop_bounds_points": [
+        40.0,
+        50.0,
+        195.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 16,
+      "file": "assets/016-figures.png",
+      "crop_bounds_points": [
+        40.0,
+        130.0,
+        530.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های فعالیت و تمرین صفحه ۱۶"
+    },
+    {
+      "pdf_page": 17,
+      "file": "assets/017-figures.png",
+      "crop_bounds_points": [
+        40.0,
+        50.0,
+        195.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 18,
+      "file": "assets/018-figures.png",
+      "crop_bounds_points": [
+        370.0,
+        50.0,
+        525.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 19,
+      "file": "assets/019-figures.png",
+      "crop_bounds_points": [
+        40.0,
+        50.0,
+        195.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 20,
+      "file": "assets/020-figures.png",
+      "crop_bounds_points": [
+        45.0,
+        275.0,
+        365.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "جدول و شکل‌های حالت‌های دو دایره"
+    },
+    {
+      "pdf_page": 21,
+      "file": "assets/021-figures.png",
+      "crop_bounds_points": [
+        40.0,
+        50.0,
+        510.0,
+        380.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "مماس‌های مشترک دو دایره"
+    },
+    {
+      "pdf_page": 22,
+      "file": "assets/022-figures.png",
+      "crop_bounds_points": [
+        45.0,
+        50.0,
+        530.0,
+        700.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "حالت‌های دو دایره و مماس‌های مشترک"
+    },
+    {
+      "pdf_page": 23,
+      "file": "assets/023-figures.png",
+      "crop_bounds_points": [
+        40.0,
+        50.0,
+        195.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 24,
+      "file": "assets/024-figures.png",
+      "crop_bounds_points": [
+        370.0,
+        50.0,
+        525.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 25,
+      "file": "assets/025-figures.png",
+      "crop_bounds_points": [
+        40.0,
+        50.0,
+        195.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 26,
+      "file": "assets/026-figures.png",
+      "crop_bounds_points": [
+        40.0,
+        50.0,
+        530.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 27,
+      "file": "assets/027-figures.png",
+      "crop_bounds_points": [
+        40.0,
+        50.0,
+        530.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 28,
+      "file": "assets/028-figures.png",
+      "crop_bounds_points": [
+        370.0,
+        50.0,
+        525.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 29,
+      "file": "assets/029-figures.png",
+      "crop_bounds_points": [
+        40.0,
+        50.0,
+        195.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 30,
+      "file": "assets/030-figures.png",
+      "crop_bounds_points": [
+        40.0,
+        50.0,
+        530.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 32,
+      "file": "assets/032-figures.png",
+      "crop_bounds_points": [
+        370.0,
+        50.0,
+        525.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 33,
+      "file": "assets/033-figures.png",
+      "crop_bounds_points": [
+        40.0,
+        50.0,
+        195.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 34,
+      "file": "assets/034-figures.png",
+      "crop_bounds_points": [
+        370.0,
+        50.0,
+        525.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 35,
+      "file": "assets/035-figures.png",
+      "crop_bounds_points": [
+        40.0,
+        50.0,
+        530.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 36,
+      "file": "assets/036-figures.png",
+      "crop_bounds_points": [
+        370.0,
+        50.0,
+        525.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 37,
+      "file": "assets/037-figures.png",
+      "crop_bounds_points": [
+        40.0,
+        50.0,
+        195.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 38,
+      "file": "assets/038-figures.png",
+      "crop_bounds_points": [
+        40.0,
+        50.0,
+        530.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 39,
+      "file": "assets/039-figures.png",
+      "crop_bounds_points": [
+        40.0,
+        50.0,
+        195.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 40,
+      "file": "assets/040-figures.png",
+      "crop_bounds_points": [
+        40.0,
+        50.0,
+        530.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 41,
+      "file": "assets/041-figures.png",
+      "crop_bounds_points": [
+        40.0,
+        50.0,
+        195.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 42,
+      "file": "assets/042-figures.png",
+      "crop_bounds_points": [
+        40.0,
+        50.0,
+        530.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 43,
+      "file": "assets/043-figures.png",
+      "crop_bounds_points": [
+        40.0,
+        50.0,
+        530.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 44,
+      "file": "assets/044-figures.png",
+      "crop_bounds_points": [
+        40.0,
+        50.0,
+        530.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 45,
+      "file": "assets/045-figures.png",
+      "crop_bounds_points": [
+        40.0,
+        50.0,
+        530.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 46,
+      "file": "assets/046-figures.png",
+      "crop_bounds_points": [
+        370.0,
+        50.0,
+        525.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 47,
+      "file": "assets/047-figures.png",
+      "crop_bounds_points": [
+        40.0,
+        50.0,
+        195.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 49,
+      "file": "assets/049-figures.png",
+      "crop_bounds_points": [
+        40.0,
+        50.0,
+        530.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 50,
+      "file": "assets/050-figures.png",
+      "crop_bounds_points": [
+        40.0,
+        50.0,
+        530.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 51,
+      "file": "assets/051-figures.png",
+      "crop_bounds_points": [
+        40.0,
+        50.0,
+        530.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 52,
+      "file": "assets/052-figures.png",
+      "crop_bounds_points": [
+        370.0,
+        50.0,
+        525.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 53,
+      "file": "assets/053-figures.png",
+      "crop_bounds_points": [
+        40.0,
+        50.0,
+        195.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 54,
+      "file": "assets/054-figures.png",
+      "crop_bounds_points": [
+        40.0,
+        50.0,
+        530.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 55,
+      "file": "assets/055-figures.png",
+      "crop_bounds_points": [
+        40.0,
+        50.0,
+        530.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 56,
+      "file": "assets/056-figures.png",
+      "crop_bounds_points": [
+        40.0,
+        50.0,
+        530.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 57,
+      "file": "assets/057-figures.png",
+      "crop_bounds_points": [
+        40.0,
+        50.0,
+        530.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 58,
+      "file": "assets/058-figures.png",
+      "crop_bounds_points": [
+        40.0,
+        50.0,
+        530.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 60,
+      "file": "assets/060-figures.png",
+      "crop_bounds_points": [
+        370.0,
+        50.0,
+        525.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 61,
+      "file": "assets/061-figures.png",
+      "crop_bounds_points": [
+        40.0,
+        50.0,
+        195.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 62,
+      "file": "assets/062-figures.png",
+      "crop_bounds_points": [
+        370.0,
+        50.0,
+        525.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 63,
+      "file": "assets/063-figures.png",
+      "crop_bounds_points": [
+        40.0,
+        50.0,
+        195.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 64,
+      "file": "assets/064-figures.png",
+      "crop_bounds_points": [
+        370.0,
+        50.0,
+        525.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 65,
+      "file": "assets/065-figures.png",
+      "crop_bounds_points": [
+        40.0,
+        50.0,
+        195.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 66,
+      "file": "assets/066-figures.png",
+      "crop_bounds_points": [
+        370.0,
+        50.0,
+        525.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 67,
+      "file": "assets/067-figures.png",
+      "crop_bounds_points": [
+        40.0,
+        50.0,
+        195.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 68,
+      "file": "assets/068-figures.png",
+      "crop_bounds_points": [
+        370.0,
+        50.0,
+        525.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 69,
+      "file": "assets/069-figures.png",
+      "crop_bounds_points": [
+        40.0,
+        50.0,
+        195.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 70,
+      "file": "assets/070-figures.png",
+      "crop_bounds_points": [
+        370.0,
+        50.0,
+        525.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 71,
+      "file": "assets/071-figures.png",
+      "crop_bounds_points": [
+        40.0,
+        50.0,
+        195.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 72,
+      "file": "assets/072-figures.png",
+      "crop_bounds_points": [
+        370.0,
+        50.0,
+        525.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 73,
+      "file": "assets/073-figures.png",
+      "crop_bounds_points": [
+        40.0,
+        50.0,
+        195.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 74,
+      "file": "assets/074-figures.png",
+      "crop_bounds_points": [
+        370.0,
+        50.0,
+        525.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    },
+    {
+      "pdf_page": 75,
+      "file": "assets/075-figures.png",
+      "crop_bounds_points": [
+        40.0,
+        50.0,
+        530.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "شکل‌های هندسی صفحه با برچسب‌های اصلی"
+    }
+  ],
+  "uncertainties": [
+    {
+      "pdf_page": 78,
+      "description": "برخی نام‌های جدول اعتبارسنجی به بازبینی دیداری دقیق نیاز دارند."
+    }
+  ],
+  "completed_pages": 80,
+  "status": "transcribed"
+}

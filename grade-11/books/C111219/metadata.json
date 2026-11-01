@@ -1,0 +1,19 @@
+{
+  "book_code": "C111219",
+  "title": "تاریخ (2)",
+  "grade": 11,
+  "branches": [
+    "humanities"
+  ],
+  "edition": "1405-1406",
+  "language": "fa",
+  "source": {
+    "catalog_url": "http://chap.sch.ir/books/14338",
+    "pdf_url": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/38/C111219.pdf",
+    "sha256": "251e1ab465bfbc520a17977b7797994b17e3915d8e826d9d55a20941b0481085",
+    "pdf_page_count": 216
+  },
+  "coverage": "complete",
+  "content_review": "not_validated",
+  "pdf_page_count": 216
+}

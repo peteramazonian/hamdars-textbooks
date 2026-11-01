@@ -1,0 +1,19 @@
+{
+  "book_code": "C111216",
+  "title": "زیست شناسی (2)",
+  "grade": 11,
+  "branches": [
+    "science"
+  ],
+  "edition": "1405-1406",
+  "language": "fa",
+  "source": {
+    "catalog_url": "http://chap.sch.ir/books/14331",
+    "pdf_url": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/41/C111216.pdf",
+    "sha256": "ea24ce40ecafd3f5dbdad5ac0e46984c8fe8d43dab33226bd09bda5c03b3262b",
+    "pdf_page_count": 168
+  },
+  "coverage": "complete",
+  "content_review": "not_validated",
+  "pdf_page_count": 168
+}

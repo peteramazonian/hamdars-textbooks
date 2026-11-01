@@ -1,0 +1,19 @@
+{
+  "book_code": "C111211",
+  "title": "ریاضی (2)",
+  "grade": 11,
+  "branches": [
+    "science"
+  ],
+  "edition": "1405-1406",
+  "language": "fa",
+  "source": {
+    "catalog_url": "http://chap.sch.ir/books/14330",
+    "pdf_url": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/41/C111211.pdf",
+    "sha256": "e5c287975ff848a499fc75ed4889120b1cd6aac6b9feb6357e083da3919185b1",
+    "pdf_page_count": 176
+  },
+  "coverage": "complete",
+  "content_review": "not_validated",
+  "pdf_page_count": 176
+}

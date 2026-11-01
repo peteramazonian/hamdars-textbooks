@@ -1,0 +1,22 @@
+{
+  "book_code": "C111201",
+  "title": "فارسی (2)",
+  "grade": 11,
+  "branches": [
+    "math",
+    "science",
+    "humanities",
+    "islamic"
+  ],
+  "edition": "1405-1406",
+  "language": "fa",
+  "source": {
+    "catalog_url": "http://chap.sch.ir/books/14316",
+    "pdf_url": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/44/C111201.pdf",
+    "sha256": "81eeedb66da7d35423c2dda096b6c9f9cd4a730cbc4c6bef50363057cefb143f",
+    "pdf_page_count": 168
+  },
+  "coverage": "complete",
+  "content_review": "not_validated",
+  "pdf_page_count": 168
+}

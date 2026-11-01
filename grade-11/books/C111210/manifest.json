@@ -1,0 +1,2218 @@
+{
+  "schema_version": 1,
+  "book": {
+    "title": "شیمی (2)",
+    "grade": 11,
+    "branches": [
+      "math",
+      "science"
+    ],
+    "book_code": "C111210",
+    "edition": "1405-1406",
+    "year": "1405-1406",
+    "language": "fa"
+  },
+  "source": {
+    "catalog_url": "http://chap.sch.ir/books/14321",
+    "pdf_url": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/41/C111210.pdf",
+    "local_pdf": "sources/C111210.pdf",
+    "sha256": "c7e35f67ae84d6dedeeefbe3efb77881d39a7620b0e6fc12eeb28358f469f257",
+    "pdf_page_count": 136,
+    "retrieved_at": null
+  },
+  "pages": [
+    {
+      "pdf_page": 1,
+      "file": "pages/001.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 2,
+      "file": "pages/002.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 3,
+      "file": "pages/003.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 4,
+      "file": "pages/004.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 5,
+      "file": "pages/005.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 6,
+      "file": "pages/006.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 7,
+      "file": "pages/007.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 8,
+      "file": "pages/008.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 9,
+      "file": "pages/009.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 10,
+      "file": "pages/010.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 11,
+      "file": "pages/011.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 12,
+      "file": "pages/012.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 13,
+      "file": "pages/013.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 14,
+      "file": "pages/014.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 15,
+      "file": "pages/015.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 16,
+      "file": "pages/016.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 17,
+      "file": "pages/017.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 18,
+      "file": "pages/018.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 19,
+      "file": "pages/019.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 20,
+      "file": "pages/020.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 21,
+      "file": "pages/021.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 22,
+      "file": "pages/022.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 23,
+      "file": "pages/023.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 24,
+      "file": "pages/024.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 25,
+      "file": "pages/025.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 26,
+      "file": "pages/026.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 27,
+      "file": "pages/027.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 28,
+      "file": "pages/028.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 29,
+      "file": "pages/029.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 30,
+      "file": "pages/030.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 31,
+      "file": "pages/031.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 32,
+      "file": "pages/032.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 33,
+      "file": "pages/033.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 34,
+      "file": "pages/034.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 35,
+      "file": "pages/035.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 36,
+      "file": "pages/036.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 37,
+      "file": "pages/037.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 38,
+      "file": "pages/038.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 39,
+      "file": "pages/039.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 40,
+      "file": "pages/040.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 41,
+      "file": "pages/041.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 42,
+      "file": "pages/042.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 43,
+      "file": "pages/043.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 44,
+      "file": "pages/044.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 45,
+      "file": "pages/045.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 46,
+      "file": "pages/046.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 47,
+      "file": "pages/047.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 48,
+      "file": "pages/048.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 49,
+      "file": "pages/049.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 50,
+      "file": "pages/050.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 51,
+      "file": "pages/051.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 52,
+      "file": "pages/052.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 53,
+      "file": "pages/053.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 54,
+      "file": "pages/054.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 55,
+      "file": "pages/055.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 56,
+      "file": "pages/056.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 57,
+      "file": "pages/057.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 58,
+      "file": "pages/058.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 59,
+      "file": "pages/059.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 60,
+      "file": "pages/060.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 61,
+      "file": "pages/061.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 62,
+      "file": "pages/062.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 63,
+      "file": "pages/063.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 64,
+      "file": "pages/064.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 65,
+      "file": "pages/065.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 66,
+      "file": "pages/066.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 67,
+      "file": "pages/067.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 68,
+      "file": "pages/068.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 69,
+      "file": "pages/069.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 70,
+      "file": "pages/070.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 71,
+      "file": "pages/071.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 72,
+      "file": "pages/072.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 73,
+      "file": "pages/073.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 74,
+      "file": "pages/074.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 75,
+      "file": "pages/075.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 76,
+      "file": "pages/076.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 77,
+      "file": "pages/077.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 78,
+      "file": "pages/078.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 79,
+      "file": "pages/079.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 80,
+      "file": "pages/080.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 81,
+      "file": "pages/081.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 82,
+      "file": "pages/082.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 83,
+      "file": "pages/083.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 84,
+      "file": "pages/084.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 85,
+      "file": "pages/085.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 86,
+      "file": "pages/086.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 87,
+      "file": "pages/087.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 88,
+      "file": "pages/088.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 89,
+      "file": "pages/089.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 90,
+      "file": "pages/090.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 91,
+      "file": "pages/091.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 92,
+      "file": "pages/092.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 93,
+      "file": "pages/093.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 94,
+      "file": "pages/094.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 95,
+      "file": "pages/095.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 96,
+      "file": "pages/096.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 97,
+      "file": "pages/097.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 98,
+      "file": "pages/098.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 99,
+      "file": "pages/099.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 100,
+      "file": "pages/100.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 101,
+      "file": "pages/101.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 102,
+      "file": "pages/102.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 103,
+      "file": "pages/103.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 104,
+      "file": "pages/104.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 105,
+      "file": "pages/105.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 106,
+      "file": "pages/106.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 107,
+      "file": "pages/107.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 108,
+      "file": "pages/108.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 109,
+      "file": "pages/109.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 110,
+      "file": "pages/110.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 111,
+      "file": "pages/111.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 112,
+      "file": "pages/112.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 113,
+      "file": "pages/113.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 114,
+      "file": "pages/114.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 115,
+      "file": "pages/115.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 116,
+      "file": "pages/116.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 117,
+      "file": "pages/117.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 118,
+      "file": "pages/118.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 119,
+      "file": "pages/119.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 120,
+      "file": "pages/120.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 121,
+      "file": "pages/121.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 122,
+      "file": "pages/122.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 123,
+      "file": "pages/123.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 124,
+      "file": "pages/124.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 125,
+      "file": "pages/125.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 126,
+      "file": "pages/126.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 127,
+      "file": "pages/127.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 128,
+      "file": "pages/128.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 129,
+      "file": "pages/129.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 130,
+      "file": "pages/130.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 131,
+      "file": "pages/131.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 132,
+      "file": "pages/132.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 133,
+      "file": "pages/133.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 134,
+      "file": "pages/134.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 135,
+      "file": "pages/135.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 136,
+      "file": "pages/136.md",
+      "status": "transcribed"
+    }
+  ],
+  "figures": [
+    {
+      "pdf_page": 9,
+      "file": "assets/009-oil-platform.png",
+      "crop_bounds_points": [
+        0,
+        132,
+        580,
+        460
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "009-oil-platform"
+    },
+    {
+      "pdf_page": 10,
+      "file": "assets/010-materials.png",
+      "crop_bounds_points": [
+        40,
+        390,
+        545,
+        620
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "010-materials"
+    },
+    {
+      "pdf_page": 11,
+      "file": "assets/011-bicycle-process.png",
+      "crop_bounds_points": [
+        55,
+        105,
+        545,
+        265
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "011-bicycle-process"
+    },
+    {
+      "pdf_page": 11,
+      "file": "assets/011-material-cycle.png",
+      "crop_bounds_points": [
+        165,
+        378,
+        540,
+        630
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "011-material-cycle"
+    },
+    {
+      "pdf_page": 12,
+      "file": "assets/012-material-chart.png",
+      "crop_bounds_points": [
+        45,
+        168,
+        390,
+        400
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "012-material-chart"
+    },
+    {
+      "pdf_page": 13,
+      "file": "assets/013-element-map.png",
+      "crop_bounds_points": [
+        25,
+        200,
+        540,
+        480
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "013-element-map"
+    },
+    {
+      "pdf_page": 15,
+      "file": "assets/015-group14.png",
+      "crop_bounds_points": [
+        45,
+        290,
+        545,
+        690
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "015-group14"
+    },
+    {
+      "pdf_page": 16,
+      "file": "assets/016-period3.png",
+      "crop_bounds_points": [
+        35,
+        50,
+        545,
+        400
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "016-period3"
+    },
+    {
+      "pdf_page": 17,
+      "file": "assets/017-table.png",
+      "crop_bounds_points": [
+        170,
+        55,
+        545,
+        230
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "017-table"
+    },
+    {
+      "pdf_page": 18,
+      "file": "assets/018-periodic-table.png",
+      "crop_bounds_points": [
+        40,
+        45,
+        545,
+        305
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "018-periodic-table"
+    },
+    {
+      "pdf_page": 19,
+      "file": "assets/019-atomic-radius.png",
+      "crop_bounds_points": [
+        265,
+        515,
+        465,
+        650
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "019-atomic-radius"
+    },
+    {
+      "pdf_page": 20,
+      "file": "assets/020-reactions.png",
+      "crop_bounds_points": [
+        40,
+        205,
+        420,
+        330
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "020-reactions"
+    },
+    {
+      "pdf_page": 21,
+      "file": "assets/021-radius-chart.png",
+      "crop_bounds_points": [
+        240,
+        190,
+        475,
+        350
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "021-radius-chart"
+    },
+    {
+      "pdf_page": 23,
+      "file": "assets/023-transition-metals.png",
+      "crop_bounds_points": [
+        165,
+        530,
+        545,
+        650
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "023-transition-metals"
+    },
+    {
+      "pdf_page": 24,
+      "file": "assets/024-ion-colors.png",
+      "crop_bounds_points": [
+        420,
+        110,
+        545,
+        440
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "024-ion-colors"
+    },
+    {
+      "pdf_page": 25,
+      "file": "assets/025-gold-uses.png",
+      "crop_bounds_points": [
+        40,
+        230,
+        545,
+        375
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "025-gold-uses"
+    },
+    {
+      "pdf_page": 26,
+      "file": "assets/026-minerals.png",
+      "crop_bounds_points": [
+        90,
+        165,
+        380,
+        330
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "026-minerals"
+    },
+    {
+      "pdf_page": 26,
+      "file": "assets/026-consumption-table.png",
+      "crop_bounds_points": [
+        425,
+        500,
+        540,
+        690
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "026-consumption-table"
+    },
+    {
+      "pdf_page": 33,
+      "file": "assets/033-metal-plant-table.png",
+      "crop_bounds_points": [
+        170,
+        240,
+        540,
+        375
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "033-metal-plant-table"
+    },
+    {
+      "pdf_page": 34,
+      "file": "assets/034-seabed.png",
+      "crop_bounds_points": [
+        40,
+        145,
+        545,
+        305
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "034-seabed"
+    },
+    {
+      "pdf_page": 35,
+      "file": "assets/035-metal-cycle.png",
+      "crop_bounds_points": [
+        190,
+        345,
+        540,
+        600
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "035-metal-cycle"
+    },
+    {
+      "pdf_page": 36,
+      "file": "assets/036-lifecycle.png",
+      "crop_bounds_points": [
+        40,
+        420,
+        255,
+        660
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "036-lifecycle"
+    },
+    {
+      "pdf_page": 37,
+      "file": "assets/037-lifecycle-table.png",
+      "crop_bounds_points": [
+        170,
+        140,
+        545,
+        540
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "037-lifecycle-table"
+    },
+    {
+      "pdf_page": 38,
+      "file": "assets/038-oil-uses.png",
+      "crop_bounds_points": [
+        40,
+        400,
+        545,
+        680
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "038-oil-uses"
+    },
+    {
+      "pdf_page": 39,
+      "file": "assets/039-methane-ethane.png",
+      "crop_bounds_points": [
+        180,
+        545,
+        545,
+        710
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "039-methane-ethane"
+    },
+    {
+      "pdf_page": 40,
+      "file": "assets/040-carbon-structures.png",
+      "crop_bounds_points": [
+        40,
+        180,
+        410,
+        540
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "040-carbon-structures"
+    },
+    {
+      "pdf_page": 41,
+      "file": "assets/041-hydrocarbons.png",
+      "crop_bounds_points": [
+        190,
+        50,
+        520,
+        245
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "041-hydrocarbons"
+    },
+    {
+      "pdf_page": 42,
+      "file": "assets/042-alkane-structures.png",
+      "crop_bounds_points": [
+        40,
+        45,
+        420,
+        600
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "042-alkane-structures"
+    },
+    {
+      "pdf_page": 43,
+      "file": "assets/043-alkane-properties.png",
+      "crop_bounds_points": [
+        185,
+        140,
+        530,
+        410
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "043-alkane-properties"
+    },
+    {
+      "pdf_page": 44,
+      "file": "assets/044-boiling-chart.png",
+      "crop_bounds_points": [
+        115,
+        85,
+        345,
+        325
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "044-boiling-chart"
+    },
+    {
+      "pdf_page": 46,
+      "file": "assets/046-naming.png",
+      "crop_bounds_points": [
+        40,
+        250,
+        420,
+        700
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "046-naming"
+    },
+    {
+      "pdf_page": 47,
+      "file": "assets/047-alkane-exercises.png",
+      "crop_bounds_points": [
+        170,
+        100,
+        545,
+        710
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "047-alkane-exercises"
+    },
+    {
+      "pdf_page": 48,
+      "file": "assets/048-alkene-structures.png",
+      "crop_bounds_points": [
+        45,
+        50,
+        420,
+        230
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "048-alkene-structures"
+    },
+    {
+      "pdf_page": 50,
+      "file": "assets/050-bromine-test.png",
+      "crop_bounds_points": [
+        65,
+        150,
+        410,
+        310
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "050-bromine-test"
+    },
+    {
+      "pdf_page": 51,
+      "file": "assets/051-cyclic.png",
+      "crop_bounds_points": [
+        180,
+        140,
+        520,
+        570
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "051-cyclic"
+    },
+    {
+      "pdf_page": 52,
+      "file": "assets/052-crude-comparison.png",
+      "crop_bounds_points": [
+        90,
+        390,
+        385,
+        540
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "052-crude-comparison"
+    },
+    {
+      "pdf_page": 53,
+      "file": "assets/053-distillation.png",
+      "crop_bounds_points": [
+        180,
+        260,
+        545,
+        520
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "053-distillation"
+    },
+    {
+      "pdf_page": 54,
+      "file": "assets/054-oil-chart.png",
+      "crop_bounds_points": [
+        80,
+        50,
+        365,
+        230
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "054-oil-chart"
+    },
+    {
+      "pdf_page": 56,
+      "file": "assets/056-reactivity-chart.png",
+      "crop_bounds_points": [
+        45,
+        445,
+        400,
+        620
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "056-reactivity-chart"
+    },
+    {
+      "pdf_page": 57,
+      "file": "assets/057-hydrocarbon-exercises.png",
+      "crop_bounds_points": [
+        35,
+        70,
+        545,
+        340
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "057-hydrocarbon-exercises"
+    },
+    {
+      "pdf_page": 60,
+      "file": "assets/060-grain-chart.png",
+      "crop_bounds_points": [
+        90,
+        245,
+        365,
+        465
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "060-grain-chart"
+    },
+    {
+      "pdf_page": 61,
+      "file": "assets/061-food-table.png",
+      "crop_bounds_points": [
+        40,
+        50,
+        160,
+        300
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "061-food-table"
+    },
+    {
+      "pdf_page": 64,
+      "file": "assets/064-water-motion.png",
+      "crop_bounds_points": [
+        120,
+        300,
+        325,
+        480
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "064-water-motion"
+    },
+    {
+      "pdf_page": 65,
+      "file": "assets/065-thermal-exercise.png",
+      "crop_bounds_points": [
+        230,
+        220,
+        500,
+        600
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "065-thermal-exercise"
+    },
+    {
+      "pdf_page": 63,
+      "file": "assets/063-experiment-table.png",
+      "crop_bounds_points": [
+        165,
+        385,
+        545,
+        510
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "063-experiment-table"
+    },
+    {
+      "pdf_page": 67,
+      "file": "assets/067-egg.png",
+      "crop_bounds_points": [
+        210,
+        45,
+        505,
+        162
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "شکل ۲- تخم‌مرغ درون آب (الف) و روغن زیتون (ب) با دمای ۷۵ °C",
+      "alt": "تخم‌مرغ درون آب و روغن زیتون"
+    },
+    {
+      "pdf_page": 67,
+      "file": "assets/067-water-oil.png",
+      "crop_bounds_points": [
+        38,
+        300,
+        545,
+        395
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "",
+      "alt": "آب و روغن زیتون و گرمای دریافتی"
+    },
+    {
+      "pdf_page": 69,
+      "file": "assets/069-diagrams.png",
+      "crop_bounds_points": [
+        280,
+        205,
+        440,
+        605
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "نمودار ۲ و ۳",
+      "alt": "نمودار انرژی هم‌دما شدن شیر و گوارش"
+    },
+    {
+      "pdf_page": 70,
+      "file": "assets/070-fig3.png",
+      "crop_bounds_points": [
+        40,
+        275,
+        545,
+        400
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "شکل ۳",
+      "alt": "مواد غذایی، سوخت خودرو و زغال کک"
+    },
+    {
+      "pdf_page": 70,
+      "file": "assets/070-graph4.png",
+      "crop_bounds_points": [
+        150,
+        520,
+        300,
+        675
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "نمودار ۴- اکسایش گلوکز برای تولید انرژی در بدن",
+      "alt": "نمودار اکسایش گلوکز"
+    },
+    {
+      "pdf_page": 71,
+      "file": "assets/071-fig4.png",
+      "crop_bounds_points": [
+        230,
+        225,
+        475,
+        340
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "شکل ۴- نمونه‌ای از انجام یک واکنش گرماده در دمای ثابت",
+      "alt": "نمونه‌ای از انجام یک واکنش گرماده در دمای ثابت"
+    },
+    {
+      "pdf_page": 72,
+      "file": "assets/072-states.png",
+      "crop_bounds_points": [
+        415,
+        465,
+        545,
+        650
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "تغییر حالت فیزیکی مواد خالص با تغییر انرژی همراه است",
+      "alt": "تغییر حالت فیزیکی مواد خالص"
+    },
+    {
+      "pdf_page": 73,
+      "file": "assets/073-fig5.png",
+      "crop_bounds_points": [
+        190,
+        90,
+        535,
+        290
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "شکل ۵- ساختار یخچال صحرایی",
+      "alt": "ساختار یخچال صحرایی"
+    },
+    {
+      "pdf_page": 74,
+      "file": "assets/074-graph5.png",
+      "crop_bounds_points": [
+        155.0,
+        140.0,
+        290.0,
+        300.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "نمودار ۵- آنتالپی واکنش در فتوسنتز",
+      "alt": "نمودار ۵- آنتالپی واکنش در فتوسنتز"
+    },
+    {
+      "pdf_page": 75,
+      "file": "assets/075-graph6.png",
+      "crop_bounds_points": [
+        290.0,
+        560.0,
+        420.0,
+        705.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "نمودار ۶- آنتالپی پیوند H–H",
+      "alt": "نمودار ۶- آنتالپی پیوند H–H"
+    },
+    {
+      "pdf_page": 77,
+      "file": "assets/077-graph7.png",
+      "crop_bounds_points": [
+        245.0,
+        50.0,
+        465.0,
+        220.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "نمودار ۷- واکنش هیدروژن و کلر",
+      "alt": "نمودار ۷- واکنش هیدروژن و کلر"
+    },
+    {
+      "pdf_page": 77,
+      "file": "assets/077-structure.png",
+      "crop_bounds_points": [
+        45.0,
+        650.0,
+        150.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "فرمول ساختاری هیدرازین",
+      "alt": "فرمول ساختاری هیدرازین"
+    },
+    {
+      "pdf_page": 79,
+      "file": "assets/079-fig6.png",
+      "crop_bounds_points": [
+        35.0,
+        55.0,
+        545.0,
+        180.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "شکل ۶- گروه کربونیل",
+      "alt": "شکل ۶- گروه کربونیل"
+    },
+    {
+      "pdf_page": 79,
+      "file": "assets/079-fig7.png",
+      "crop_bounds_points": [
+        30.0,
+        320.0,
+        545.0,
+        435.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "شکل ۷- ترکیب‌های گشنیز و رازیانه",
+      "alt": "شکل ۷- ترکیب‌های گشنیز و رازیانه"
+    },
+    {
+      "pdf_page": 79,
+      "file": "assets/079-exercise.png",
+      "crop_bounds_points": [
+        35.0,
+        550.0,
+        530.0,
+        675.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "ساختار ترکیب‌های دارچین و زردچوبه",
+      "alt": "ساختار ترکیب‌های دارچین و زردچوبه"
+    },
+    {
+      "pdf_page": 80,
+      "file": "assets/080-structures.png",
+      "crop_bounds_points": [
+        45.0,
+        75.0,
+        410.0,
+        135.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "ساختار دو ترکیب آلی",
+      "alt": "ساختار دو ترکیب آلی"
+    },
+    {
+      "pdf_page": 82,
+      "file": "assets/082-fig8.png",
+      "crop_bounds_points": [
+        420.0,
+        160.0,
+        555.0,
+        360.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "شکل ۸- ساختار گرماسنج لیوانی",
+      "alt": "شکل ۸- ساختار گرماسنج لیوانی"
+    },
+    {
+      "pdf_page": 84,
+      "file": "assets/084-graph.png",
+      "crop_bounds_points": [
+        105.0,
+        450.0,
+        350.0,
+        630.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "نمودار آنتالپی سوختن گرافیت",
+      "alt": "نمودار آنتالپی سوختن گرافیت"
+    },
+    {
+      "pdf_page": 85,
+      "file": "assets/085-graph.png",
+      "crop_bounds_points": [
+        260.0,
+        120.0,
+        455.0,
+        280.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "نمودار تهیه آمونیاک",
+      "alt": "نمودار تهیه آمونیاک"
+    },
+    {
+      "pdf_page": 85,
+      "file": "assets/085-fig10.png",
+      "crop_bounds_points": [
+        40.0,
+        560.0,
+        545.0,
+        690.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "شکل ۱۰- روش‌های نگهداری مواد غذایی",
+      "alt": "شکل ۱۰- روش‌های نگهداری مواد غذایی"
+    },
+    {
+      "pdf_page": 87,
+      "file": "assets/087-fig11.png",
+      "crop_bounds_points": [
+        215.0,
+        340.0,
+        480.0,
+        565.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "شکل ۱۱- مقایسه آهنگ چند فرایند طبیعی",
+      "alt": "شکل ۱۱- مقایسه آهنگ چند فرایند طبیعی"
+    },
+    {
+      "pdf_page": 88,
+      "file": "assets/088-fig12.png",
+      "crop_bounds_points": [
+        40.0,
+        50.0,
+        410.0,
+        375.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "شکل ۱۲- سرعت‌های گوناگون واکنش",
+      "alt": "شکل ۱۲- سرعت‌های گوناگون واکنش"
+    },
+    {
+      "pdf_page": 89,
+      "file": "assets/089-table.png",
+      "crop_bounds_points": [
+        165.0,
+        355.0,
+        540.0,
+        700.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "جدول آزمایش قرص جوشان",
+      "alt": "جدول آزمایش قرص جوشان"
+    },
+    {
+      "pdf_page": 91,
+      "file": "assets/091-experiments.png",
+      "crop_bounds_points": [
+        240.0,
+        50.0,
+        465.0,
+        705.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "تصاویر مقایسه سرعت واکنش‌ها",
+      "alt": "تصاویر مقایسه سرعت واکنش‌ها"
+    },
+    {
+      "pdf_page": 92,
+      "file": "assets/092-fig13.png",
+      "crop_bounds_points": [
+        235.0,
+        340.0,
+        365.0,
+        445.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "شکل ۱۳- بنزوئیک اسید",
+      "alt": "شکل ۱۳- بنزوئیک اسید"
+    },
+    {
+      "pdf_page": 93,
+      "file": "assets/093-cubes.png",
+      "crop_bounds_points": [
+        185.0,
+        110.0,
+        525.0,
+        215.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "برش مکعب به دو مکعب مستطیل",
+      "alt": "برش مکعب به دو مکعب مستطیل"
+    },
+    {
+      "pdf_page": 94,
+      "file": "assets/094-fig14.png",
+      "crop_bounds_points": [
+        40.0,
+        75.0,
+        410.0,
+        220.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "شکل ۱۴- واکنش سفیدکننده با رنگ غذا",
+      "alt": "شکل ۱۴- واکنش سفیدکننده با رنگ غذا"
+    },
+    {
+      "pdf_page": 94,
+      "file": "assets/094-zinc.png",
+      "crop_bounds_points": [
+        40.0,
+        480.0,
+        415.0,
+        575.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "پیشرفت واکنش روی با مس سولفات",
+      "alt": "پیشرفت واکنش روی با مس سولفات"
+    },
+    {
+      "pdf_page": 95,
+      "file": "assets/095-apparatus.png",
+      "crop_bounds_points": [
+        25.0,
+        170.0,
+        165.0,
+        325.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "دستگاه واکنش کلسیم کربنات و اسید",
+      "alt": "دستگاه واکنش کلسیم کربنات و اسید"
+    },
+    {
+      "pdf_page": 96,
+      "file": "assets/096-table.png",
+      "crop_bounds_points": [
+        40.0,
+        65.0,
+        415.0,
+        225.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "جدول مول و سرعت متوسط کربن دی‌اکسید",
+      "alt": "جدول مول و سرعت متوسط کربن دی‌اکسید"
+    },
+    {
+      "pdf_page": 97,
+      "file": "assets/097-graph8.png",
+      "crop_bounds_points": [
+        235.0,
+        50.0,
+        475.0,
+        300.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "نمودار ۸- نمودار مول-زمان برای فرآورده",
+      "alt": "نمودار ۸- نمودار مول-زمان برای فرآورده"
+    },
+    {
+      "pdf_page": 98,
+      "file": "assets/098-graph.png",
+      "crop_bounds_points": [
+        60.0,
+        220.0,
+        390.0,
+        430.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "نمودار تغییر مول‌های رنگ غذا",
+      "alt": "نمودار تغییر مول‌های رنگ غذا"
+    },
+    {
+      "pdf_page": 99,
+      "file": "assets/099-fig15.png",
+      "crop_bounds_points": [
+        40.0,
+        335.0,
+        540.0,
+        425.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "شکل ۱۵- لیکوپن",
+      "alt": "شکل ۱۵- لیکوپن"
+    },
+    {
+      "pdf_page": 99,
+      "file": "assets/099-radicals.png",
+      "crop_bounds_points": [
+        60.0,
+        165.0,
+        140.0,
+        210.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "ساختار لوییس رادیکال‌ها",
+      "alt": "ساختار لوییس رادیکال‌ها"
+    },
+    {
+      "pdf_page": 100,
+      "file": "assets/100-curves.png",
+      "crop_bounds_points": [
+        110.0,
+        50.0,
+        335.0,
+        210.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "منحنی‌های A و B و C",
+      "alt": "منحنی‌های A و B و C"
+    },
+    {
+      "pdf_page": 101,
+      "file": "assets/101-graph.png",
+      "crop_bounds_points": [
+        200.0,
+        275.0,
+        505.0,
+        470.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "نمودار غلظت مولی بر حسب زمان",
+      "alt": "نمودار غلظت مولی بر حسب زمان"
+    },
+    {
+      "pdf_page": 102,
+      "file": "assets/102-graph9.png",
+      "crop_bounds_points": [
+        40.0,
+        455.0,
+        400.0,
+        645.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "نمودار ۹- پیش‌بینی مساحت زمین برای تأمین غذا",
+      "alt": "نمودار ۹- پیش‌بینی مساحت زمین برای تأمین غذا"
+    },
+    {
+      "pdf_page": 104,
+      "file": "assets/104-cholesterol.png",
+      "crop_bounds_points": [
+        90.0,
+        480.0,
+        520.0,
+        605.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "ساختار کلسترول و رسوب در رگ",
+      "alt": "ساختار کلسترول و رسوب در رگ"
+    },
+    {
+      "pdf_page": 105,
+      "file": "assets/105-particles.png",
+      "crop_bounds_points": [
+        30.0,
+        220.0,
+        280.0,
+        390.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "واکنش هیدروژن و ید در زمان‌های مختلف",
+      "alt": "واکنش هیدروژن و ید در زمان‌های مختلف"
+    },
+    {
+      "pdf_page": 106,
+      "file": "assets/106-graph.png",
+      "crop_bounds_points": [
+        40.0,
+        440.0,
+        290.0,
+        690.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "نمودار حجم گاز بر حسب زمان",
+      "alt": "نمودار حجم گاز بر حسب زمان"
+    },
+    {
+      "pdf_page": 108,
+      "file": "assets/108-fig1.png",
+      "crop_bounds_points": [
+        115.0,
+        205.0,
+        345.0,
+        355.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "شکل ۱- پوشش‌ها برای حفاظت بدن",
+      "alt": "شکل ۱- پوشش‌ها برای حفاظت بدن"
+    },
+    {
+      "pdf_page": 108,
+      "file": "assets/108-fig2.png",
+      "crop_bounds_points": [
+        40.0,
+        505.0,
+        415.0,
+        615.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "شکل ۲- پوشاک ویژه",
+      "alt": "شکل ۲- پوشاک ویژه"
+    },
+    {
+      "pdf_page": 109,
+      "file": "assets/109-graph1.png",
+      "crop_bounds_points": [
+        245.0,
+        245.0,
+        485.0,
+        365.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "نمودار ۱- روند تولید الیاف",
+      "alt": "نمودار ۱- روند تولید الیاف"
+    },
+    {
+      "pdf_page": 109,
+      "file": "assets/109-process.png",
+      "crop_bounds_points": [
+        165.0,
+        450.0,
+        545.0,
+        675.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "مراحل تولید پوشاک با جای خالی",
+      "alt": "مراحل تولید پوشاک با جای خالی"
+    },
+    {
+      "pdf_page": 110,
+      "file": "assets/110-fig3.png",
+      "crop_bounds_points": [
+        105.0,
+        565.0,
+        410.0,
+        690.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "شکل ۳- الیاف سلولز",
+      "alt": "شکل ۳- الیاف سلولز"
+    },
+    {
+      "pdf_page": 111,
+      "file": "assets/111-figures.png",
+      "crop_bounds_points": [
+        145.0,
+        115.0,
+        540.0,
+        395.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "تصاویر آب و گندم و پلی‌اتن و روغن و پروپان",
+      "alt": "تصاویر آب و گندم و پلی‌اتن و روغن و پروپان"
+    },
+    {
+      "pdf_page": 113,
+      "file": "assets/113-fig4.png",
+      "crop_bounds_points": [
+        165.0,
+        125.0,
+        540.0,
+        250.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "شکل ۴- واکنش تشکیل پلی‌اتن",
+      "alt": "شکل ۴- واکنش تشکیل پلی‌اتن"
+    },
+    {
+      "pdf_page": 113,
+      "file": "assets/113-fig5.png",
+      "crop_bounds_points": [
+        210.0,
+        465.0,
+        505.0,
+        660.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "شکل ۵- الگوهای تشکیل پلیمر",
+      "alt": "شکل ۵- الگوهای تشکیل پلیمر"
+    },
+    {
+      "pdf_page": 114,
+      "file": "assets/114-table.png",
+      "crop_bounds_points": [
+        50.0,
+        215.0,
+        395.0,
+        690.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "جدول ساختار مونومر و پلیمر",
+      "alt": "جدول ساختار مونومر و پلیمر"
+    },
+    {
+      "pdf_page": 116,
+      "file": "assets/116-fig7.png",
+      "crop_bounds_points": [
+        40.0,
+        140.0,
+        415.0,
+        335.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "شکل ۷- کاربردهای پلی‌اتن",
+      "alt": "شکل ۷- کاربردهای پلی‌اتن"
+    },
+    {
+      "pdf_page": 117,
+      "file": "assets/117-fig8.png",
+      "crop_bounds_points": [
+        180.0,
+        50.0,
+        520.0,
+        230.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "شکل ۸- ساختار دو نوع پلی‌اتن",
+      "alt": "شکل ۸- ساختار دو نوع پلی‌اتن"
+    },
+    {
+      "pdf_page": 118,
+      "file": "assets/118-fig9.png",
+      "crop_bounds_points": [
+        45.0,
+        85.0,
+        410.0,
+        250.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "شکل ۹- ساختار پلی‌استرها",
+      "alt": "شکل ۹- ساختار پلی‌استرها"
+    },
+    {
+      "pdf_page": 118,
+      "file": "assets/118-fig10.png",
+      "crop_bounds_points": [
+        50.0,
+        365.0,
+        380.0,
+        525.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "شکل ۱۰- متیل بوتانوات",
+      "alt": "شکل ۱۰- متیل بوتانوات"
+    },
+    {
+      "pdf_page": 118,
+      "file": "assets/118-fig11.png",
+      "crop_bounds_points": [
+        70.0,
+        615.0,
+        370.0,
+        715.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "شکل ۱۱- گروه عاملی استر",
+      "alt": "شکل ۱۱- گروه عاملی استر"
+    },
+    {
+      "pdf_page": 119,
+      "file": "assets/119-fig12.png",
+      "crop_bounds_points": [
+        185.0,
+        125.0,
+        520.0,
+        285.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "شکل ۱۲- ساختار متانول و اتانول",
+      "alt": "شکل ۱۲- ساختار متانول و اتانول"
+    },
+    {
+      "pdf_page": 119,
+      "file": "assets/119-fig13.png",
+      "crop_bounds_points": [
+        175.0,
+        485.0,
+        475.0,
+        650.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "شکل ۱۳- استیک اسید",
+      "alt": "شکل ۱۳- استیک اسید"
+    },
+    {
+      "pdf_page": 120,
+      "file": "assets/120-graph.png",
+      "crop_bounds_points": [
+        100.0,
+        455.0,
+        355.0,
+        640.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "نمودار انحلال‌پذیری الکل و آلکان",
+      "alt": "نمودار انحلال‌پذیری الکل و آلکان"
+    },
+    {
+      "pdf_page": 121,
+      "file": "assets/121-vitamins.png",
+      "crop_bounds_points": [
+        250.0,
+        325.0,
+        535.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "ساختار ویتامین‌های A و C و D",
+      "alt": "ساختار ویتامین‌های A و C و D"
+    },
+    {
+      "pdf_page": 121,
+      "file": "assets/121-menthol.png",
+      "crop_bounds_points": [
+        50.0,
+        165.0,
+        140.0,
+        285.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "ساختار منتول",
+      "alt": "ساختار منتول"
+    },
+    {
+      "pdf_page": 122,
+      "file": "assets/122-vitamin-k.png",
+      "crop_bounds_points": [
+        185.0,
+        50.0,
+        400.0,
+        175.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "ساختار ویتامین K",
+      "alt": "ساختار ویتامین K"
+    },
+    {
+      "pdf_page": 123,
+      "file": "assets/123-table.png",
+      "crop_bounds_points": [
+        165.0,
+        205.0,
+        540.0,
+        330.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "جدول ساختار استرهای موز و انگور",
+      "alt": "جدول ساختار استرهای موز و انگور"
+    },
+    {
+      "pdf_page": 123,
+      "file": "assets/123-fig14a.png",
+      "crop_bounds_points": [
+        165.0,
+        455.0,
+        540.0,
+        525.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "شکل ۱۴- الف واکنش استری شدن",
+      "alt": "شکل ۱۴- الف واکنش استری شدن"
+    },
+    {
+      "pdf_page": 124,
+      "file": "assets/124-fig14b.png",
+      "crop_bounds_points": [
+        50.0,
+        55.0,
+        400.0,
+        275.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "شکل ۱۴- ب تشکیل پلی‌استر",
+      "alt": "شکل ۱۴- ب تشکیل پلی‌استر"
+    },
+    {
+      "pdf_page": 125,
+      "file": "assets/125-fig16.png",
+      "crop_bounds_points": [
+        205.0,
+        50.0,
+        430.0,
+        135.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "شکل ۱۶- متیل آمین",
+      "alt": "شکل ۱۶- متیل آمین"
+    },
+    {
+      "pdf_page": 125,
+      "file": "assets/125-fig17a.png",
+      "crop_bounds_points": [
+        165.0,
+        195.0,
+        545.0,
+        265.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "شکل ۱۷- الف تشکیل گروه آمیدی",
+      "alt": "شکل ۱۷- الف تشکیل گروه آمیدی"
+    },
+    {
+      "pdf_page": 125,
+      "file": "assets/125-fig17b.png",
+      "crop_bounds_points": [
+        180.0,
+        320.0,
+        535.0,
+        590.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "شکل ۱۷- ب تشکیل پلی‌آمید",
+      "alt": "شکل ۱۷- ب تشکیل پلی‌آمید"
+    },
+    {
+      "pdf_page": 126,
+      "file": "assets/126-fig19.png",
+      "crop_bounds_points": [
+        110.0,
+        430.0,
+        415.0,
+        650.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "شکل ۱۹- تبدیل نشاسته به گلوکز",
+      "alt": "شکل ۱۹- تبدیل نشاسته به گلوکز"
+    },
+    {
+      "pdf_page": 127,
+      "file": "assets/127-fig20.png",
+      "crop_bounds_points": [
+        165.0,
+        165.0,
+        540.0,
+        300.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "شکل ۲۰- تجزیه پلی‌آمید و پلی‌استر",
+      "alt": "شکل ۲۰- تجزیه پلی‌آمید و پلی‌استر"
+    },
+    {
+      "pdf_page": 130,
+      "file": "assets/130-polymers.png",
+      "crop_bounds_points": [
+        185.0,
+        105.0,
+        440.0,
+        195.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "ساختار دو پلیمر",
+      "alt": "ساختار دو پلیمر"
+    },
+    {
+      "pdf_page": 131,
+      "file": "assets/131-polymer.png",
+      "crop_bounds_points": [
+        55.0,
+        165.0,
+        310.0,
+        255.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "ساختار یک پلیمر",
+      "alt": "ساختار یک پلیمر"
+    },
+    {
+      "pdf_page": 135,
+      "file": "assets/135-periodic.png",
+      "crop_bounds_points": [
+        50.0,
+        40.0,
+        555.0,
+        710.0
+      ],
+      "method": "PyMuPDF source page crop at 2x",
+      "caption": "جدول دوره‌ای عنصرها",
+      "alt": "جدول دوره‌ای عنصرها"
+    }
+  ],
+  "uncertainties": [],
+  "completed_pages": 136,
+  "status": "complete"
+}

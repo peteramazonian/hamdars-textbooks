@@ -1,0 +1,5018 @@
+{
+  "schema_version": 1,
+  "book": {
+    "title": "هنر",
+    "grade": 11,
+    "branches": [
+      "math",
+      "science",
+      "humanities",
+      "islamic"
+    ],
+    "book_code": "C110222",
+    "edition": "1405-1406",
+    "year": "1405-1406",
+    "language": "fa"
+  },
+  "source": {
+    "catalog_url": "http://chap.sch.ir/books/14263",
+    "pdf_url": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/693/C110222.pdf",
+    "local_pdf": "sources/C110222.pdf",
+    "sha256": "9a44004beda80f9d4143cc36893a9e413f8dfc75cf532094e1e132543e340525",
+    "pdf_page_count": 144,
+    "retrieved_at": null
+  },
+  "pages": [
+    {
+      "pdf_page": 1,
+      "printed_page": null,
+      "path": "pages/p0001.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0001-source-page.png",
+          "source_pdf_page": 1,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 1 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 2,
+      "printed_page": null,
+      "path": "pages/p0002.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 3,
+      "printed_page": null,
+      "path": "pages/p0003.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0003-source-page.png",
+          "source_pdf_page": 3,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 3 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 4,
+      "printed_page": null,
+      "path": "pages/p0004.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 5,
+      "printed_page": null,
+      "path": "pages/p0005.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0005-source-page.png",
+          "source_pdf_page": 5,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 5 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 6,
+      "printed_page": null,
+      "path": "pages/p0006.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0006-source-page.png",
+          "source_pdf_page": 6,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 6 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 7,
+      "printed_page": null,
+      "path": "pages/p0007.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0007-source-page.png",
+          "source_pdf_page": 7,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 7 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 8,
+      "printed_page": null,
+      "path": "pages/p0008.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0008-source-page.png",
+          "source_pdf_page": 8,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 8 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 9,
+      "printed_page": null,
+      "path": "pages/p0009.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0009-source-page.png",
+          "source_pdf_page": 9,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 9 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 10,
+      "printed_page": null,
+      "path": "pages/p0010.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0010-source-page.png",
+          "source_pdf_page": 10,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 10 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 11,
+      "printed_page": null,
+      "path": "pages/p0011.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0011-source-page.png",
+          "source_pdf_page": 11,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 11 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 12,
+      "printed_page": null,
+      "path": "pages/p0012.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0012-source-page.png",
+          "source_pdf_page": 12,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 12 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 13,
+      "printed_page": null,
+      "path": "pages/p0013.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0013-source-page.png",
+          "source_pdf_page": 13,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 13 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 14,
+      "printed_page": null,
+      "path": "pages/p0014.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0014-source-page.png",
+          "source_pdf_page": 14,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 14 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 15,
+      "printed_page": null,
+      "path": "pages/p0015.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0015-source-page.png",
+          "source_pdf_page": 15,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 15 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 16,
+      "printed_page": null,
+      "path": "pages/p0016.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0016-source-page.png",
+          "source_pdf_page": 16,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 16 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 17,
+      "printed_page": null,
+      "path": "pages/p0017.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0017-source-page.png",
+          "source_pdf_page": 17,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 17 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 18,
+      "printed_page": null,
+      "path": "pages/p0018.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0018-source-page.png",
+          "source_pdf_page": 18,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 18 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 19,
+      "printed_page": null,
+      "path": "pages/p0019.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0019-source-page.png",
+          "source_pdf_page": 19,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 19 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 20,
+      "printed_page": null,
+      "path": "pages/p0020.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0020-source-page.png",
+          "source_pdf_page": 20,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 20 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 21,
+      "printed_page": null,
+      "path": "pages/p0021.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0021-source-page.png",
+          "source_pdf_page": 21,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 21 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 22,
+      "printed_page": null,
+      "path": "pages/p0022.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0022-source-page.png",
+          "source_pdf_page": 22,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 22 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 23,
+      "printed_page": null,
+      "path": "pages/p0023.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0023-source-page.png",
+          "source_pdf_page": 23,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 23 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 24,
+      "printed_page": null,
+      "path": "pages/p0024.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0024-source-page.png",
+          "source_pdf_page": 24,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 24 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 25,
+      "printed_page": null,
+      "path": "pages/p0025.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0025-source-page.png",
+          "source_pdf_page": 25,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 25 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 26,
+      "printed_page": null,
+      "path": "pages/p0026.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0026-source-page.png",
+          "source_pdf_page": 26,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 26 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 27,
+      "printed_page": null,
+      "path": "pages/p0027.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0027-source-page.png",
+          "source_pdf_page": 27,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 27 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 28,
+      "printed_page": null,
+      "path": "pages/p0028.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0028-source-page.png",
+          "source_pdf_page": 28,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 28 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 29,
+      "printed_page": null,
+      "path": "pages/p0029.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0029-source-page.png",
+          "source_pdf_page": 29,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 29 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 30,
+      "printed_page": null,
+      "path": "pages/p0030.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0030-source-page.png",
+          "source_pdf_page": 30,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 30 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 31,
+      "printed_page": null,
+      "path": "pages/p0031.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0031-source-page.png",
+          "source_pdf_page": 31,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 31 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 32,
+      "printed_page": null,
+      "path": "pages/p0032.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0032-source-page.png",
+          "source_pdf_page": 32,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 32 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 33,
+      "printed_page": null,
+      "path": "pages/p0033.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0033-source-page.png",
+          "source_pdf_page": 33,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 33 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 34,
+      "printed_page": null,
+      "path": "pages/p0034.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0034-source-page.png",
+          "source_pdf_page": 34,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 34 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 35,
+      "printed_page": null,
+      "path": "pages/p0035.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0035-source-page.png",
+          "source_pdf_page": 35,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 35 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 36,
+      "printed_page": null,
+      "path": "pages/p0036.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0036-source-page.png",
+          "source_pdf_page": 36,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 36 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 37,
+      "printed_page": null,
+      "path": "pages/p0037.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0037-source-page.png",
+          "source_pdf_page": 37,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 37 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 38,
+      "printed_page": null,
+      "path": "pages/p0038.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0038-source-page.png",
+          "source_pdf_page": 38,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 38 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 39,
+      "printed_page": null,
+      "path": "pages/p0039.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0039-source-page.png",
+          "source_pdf_page": 39,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 39 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 40,
+      "printed_page": null,
+      "path": "pages/p0040.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0040-source-page.png",
+          "source_pdf_page": 40,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 40 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 41,
+      "printed_page": 5,
+      "path": "pages/p0041.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0041-source-page.png",
+          "source_pdf_page": 41,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 41 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 42,
+      "printed_page": null,
+      "path": "pages/p0042.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0042-source-page.png",
+          "source_pdf_page": 42,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 42 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 43,
+      "printed_page": null,
+      "path": "pages/p0043.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0043-source-page.png",
+          "source_pdf_page": 43,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 43 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 44,
+      "printed_page": null,
+      "path": "pages/p0044.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0044-source-page.png",
+          "source_pdf_page": 44,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 44 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 45,
+      "printed_page": 7,
+      "path": "pages/p0045.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0045-source-page.png",
+          "source_pdf_page": 45,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 45 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 46,
+      "printed_page": null,
+      "path": "pages/p0046.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0046-source-page.png",
+          "source_pdf_page": 46,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 46 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 47,
+      "printed_page": null,
+      "path": "pages/p0047.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0047-source-page.png",
+          "source_pdf_page": 47,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 47 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 48,
+      "printed_page": 482,
+      "path": "pages/p0048.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0048-source-page.png",
+          "source_pdf_page": 48,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 48 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 49,
+      "printed_page": null,
+      "path": "pages/p0049.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0049-source-page.png",
+          "source_pdf_page": 49,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 49 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 50,
+      "printed_page": null,
+      "path": "pages/p0050.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0050-source-page.png",
+          "source_pdf_page": 50,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 50 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 51,
+      "printed_page": null,
+      "path": "pages/p0051.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0051-source-page.png",
+          "source_pdf_page": 51,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 51 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 52,
+      "printed_page": null,
+      "path": "pages/p0052.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0052-source-page.png",
+          "source_pdf_page": 52,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 52 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 53,
+      "printed_page": 1,
+      "path": "pages/p0053.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0053-source-page.png",
+          "source_pdf_page": 53,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 53 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 54,
+      "printed_page": 2,
+      "path": "pages/p0054.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0054-source-page.png",
+          "source_pdf_page": 54,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 54 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 55,
+      "printed_page": null,
+      "path": "pages/p0055.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0055-source-page.png",
+          "source_pdf_page": 55,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 55 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 56,
+      "printed_page": null,
+      "path": "pages/p0056.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0056-source-page.png",
+          "source_pdf_page": 56,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 56 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 57,
+      "printed_page": 3,
+      "path": "pages/p0057.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0057-source-page.png",
+          "source_pdf_page": 57,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 57 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 58,
+      "printed_page": null,
+      "path": "pages/p0058.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0058-source-page.png",
+          "source_pdf_page": 58,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 58 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 59,
+      "printed_page": null,
+      "path": "pages/p0059.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0059-source-page.png",
+          "source_pdf_page": 59,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 59 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 60,
+      "printed_page": null,
+      "path": "pages/p0060.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0060-source-page.png",
+          "source_pdf_page": 60,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 60 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 61,
+      "printed_page": null,
+      "path": "pages/p0061.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0061-source-page.png",
+          "source_pdf_page": 61,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 61 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 62,
+      "printed_page": 5,
+      "path": "pages/p0062.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0062-source-page.png",
+          "source_pdf_page": 62,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 62 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 63,
+      "printed_page": null,
+      "path": "pages/p0063.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0063-source-page.png",
+          "source_pdf_page": 63,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 63 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 64,
+      "printed_page": null,
+      "path": "pages/p0064.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0064-source-page.png",
+          "source_pdf_page": 64,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 64 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 65,
+      "printed_page": null,
+      "path": "pages/p0065.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0065-source-page.png",
+          "source_pdf_page": 65,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 65 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 66,
+      "printed_page": null,
+      "path": "pages/p0066.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0066-source-page.png",
+          "source_pdf_page": 66,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 66 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 67,
+      "printed_page": 8,
+      "path": "pages/p0067.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0067-source-page.png",
+          "source_pdf_page": 67,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 67 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 68,
+      "printed_page": null,
+      "path": "pages/p0068.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0068-source-page.png",
+          "source_pdf_page": 68,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 68 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 69,
+      "printed_page": null,
+      "path": "pages/p0069.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0069-source-page.png",
+          "source_pdf_page": 69,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 69 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 70,
+      "printed_page": null,
+      "path": "pages/p0070.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0070-source-page.png",
+          "source_pdf_page": 70,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 70 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 71,
+      "printed_page": null,
+      "path": "pages/p0071.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0071-source-page.png",
+          "source_pdf_page": 71,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 71 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 72,
+      "printed_page": 9,
+      "path": "pages/p0072.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0072-source-page.png",
+          "source_pdf_page": 72,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 72 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 73,
+      "printed_page": null,
+      "path": "pages/p0073.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0073-source-page.png",
+          "source_pdf_page": 73,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 73 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 74,
+      "printed_page": null,
+      "path": "pages/p0074.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0074-source-page.png",
+          "source_pdf_page": 74,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 74 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 75,
+      "printed_page": null,
+      "path": "pages/p0075.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0075-source-page.png",
+          "source_pdf_page": 75,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 75 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 76,
+      "printed_page": null,
+      "path": "pages/p0076.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0076-source-page.png",
+          "source_pdf_page": 76,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 76 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 77,
+      "printed_page": null,
+      "path": "pages/p0077.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0077-source-page.png",
+          "source_pdf_page": 77,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 77 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 78,
+      "printed_page": null,
+      "path": "pages/p0078.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0078-source-page.png",
+          "source_pdf_page": 78,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 78 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 79,
+      "printed_page": null,
+      "path": "pages/p0079.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0079-source-page.png",
+          "source_pdf_page": 79,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 79 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 80,
+      "printed_page": null,
+      "path": "pages/p0080.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0080-source-page.png",
+          "source_pdf_page": 80,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 80 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 81,
+      "printed_page": null,
+      "path": "pages/p0081.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0081-source-page.png",
+          "source_pdf_page": 81,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 81 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 82,
+      "printed_page": null,
+      "path": "pages/p0082.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0082-source-page.png",
+          "source_pdf_page": 82,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 82 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 83,
+      "printed_page": null,
+      "path": "pages/p0083.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0083-source-page.png",
+          "source_pdf_page": 83,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 83 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 84,
+      "printed_page": null,
+      "path": "pages/p0084.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0084-source-page.png",
+          "source_pdf_page": 84,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 84 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 85,
+      "printed_page": null,
+      "path": "pages/p0085.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0085-source-page.png",
+          "source_pdf_page": 85,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 85 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 86,
+      "printed_page": null,
+      "path": "pages/p0086.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0086-source-page.png",
+          "source_pdf_page": 86,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 86 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 87,
+      "printed_page": null,
+      "path": "pages/p0087.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0087-source-page.png",
+          "source_pdf_page": 87,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 87 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 88,
+      "printed_page": null,
+      "path": "pages/p0088.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0088-source-page.png",
+          "source_pdf_page": 88,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 88 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 89,
+      "printed_page": null,
+      "path": "pages/p0089.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0089-source-page.png",
+          "source_pdf_page": 89,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 89 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 90,
+      "printed_page": null,
+      "path": "pages/p0090.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0090-source-page.png",
+          "source_pdf_page": 90,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 90 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 91,
+      "printed_page": null,
+      "path": "pages/p0091.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0091-source-page.png",
+          "source_pdf_page": 91,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 91 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 92,
+      "printed_page": null,
+      "path": "pages/p0092.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0092-source-page.png",
+          "source_pdf_page": 92,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 92 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 93,
+      "printed_page": null,
+      "path": "pages/p0093.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0093-source-page.png",
+          "source_pdf_page": 93,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 93 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 94,
+      "printed_page": null,
+      "path": "pages/p0094.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0094-source-page.png",
+          "source_pdf_page": 94,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 94 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 95,
+      "printed_page": null,
+      "path": "pages/p0095.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0095-source-page.png",
+          "source_pdf_page": 95,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 95 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 96,
+      "printed_page": null,
+      "path": "pages/p0096.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0096-source-page.png",
+          "source_pdf_page": 96,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 96 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 97,
+      "printed_page": null,
+      "path": "pages/p0097.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0097-source-page.png",
+          "source_pdf_page": 97,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 97 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 98,
+      "printed_page": null,
+      "path": "pages/p0098.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0098-source-page.png",
+          "source_pdf_page": 98,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 98 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 99,
+      "printed_page": null,
+      "path": "pages/p0099.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0099-source-page.png",
+          "source_pdf_page": 99,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 99 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 100,
+      "printed_page": null,
+      "path": "pages/p0100.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0100-source-page.png",
+          "source_pdf_page": 100,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 100 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 101,
+      "printed_page": null,
+      "path": "pages/p0101.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0101-source-page.png",
+          "source_pdf_page": 101,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 101 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 102,
+      "printed_page": null,
+      "path": "pages/p0102.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0102-source-page.png",
+          "source_pdf_page": 102,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 102 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 103,
+      "printed_page": null,
+      "path": "pages/p0103.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0103-source-page.png",
+          "source_pdf_page": 103,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 103 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 104,
+      "printed_page": null,
+      "path": "pages/p0104.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0104-source-page.png",
+          "source_pdf_page": 104,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 104 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 105,
+      "printed_page": null,
+      "path": "pages/p0105.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0105-source-page.png",
+          "source_pdf_page": 105,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 105 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 106,
+      "printed_page": null,
+      "path": "pages/p0106.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0106-source-page.png",
+          "source_pdf_page": 106,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 106 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 107,
+      "printed_page": null,
+      "path": "pages/p0107.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0107-source-page.png",
+          "source_pdf_page": 107,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 107 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 108,
+      "printed_page": null,
+      "path": "pages/p0108.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0108-source-page.png",
+          "source_pdf_page": 108,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 108 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 109,
+      "printed_page": 29,
+      "path": "pages/p0109.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0109-source-page.png",
+          "source_pdf_page": 109,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 109 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 110,
+      "printed_page": null,
+      "path": "pages/p0110.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0110-source-page.png",
+          "source_pdf_page": 110,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 110 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 111,
+      "printed_page": null,
+      "path": "pages/p0111.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0111-source-page.png",
+          "source_pdf_page": 111,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 111 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 112,
+      "printed_page": null,
+      "path": "pages/p0112.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0112-source-page.png",
+          "source_pdf_page": 112,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 112 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 113,
+      "printed_page": null,
+      "path": "pages/p0113.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0113-source-page.png",
+          "source_pdf_page": 113,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 113 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 114,
+      "printed_page": null,
+      "path": "pages/p0114.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0114-source-page.png",
+          "source_pdf_page": 114,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 114 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 115,
+      "printed_page": null,
+      "path": "pages/p0115.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0115-source-page.png",
+          "source_pdf_page": 115,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 115 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 116,
+      "printed_page": null,
+      "path": "pages/p0116.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0116-source-page.png",
+          "source_pdf_page": 116,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 116 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 117,
+      "printed_page": 34,
+      "path": "pages/p0117.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0117-source-page.png",
+          "source_pdf_page": 117,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 117 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 118,
+      "printed_page": null,
+      "path": "pages/p0118.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0118-source-page.png",
+          "source_pdf_page": 118,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 118 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 119,
+      "printed_page": null,
+      "path": "pages/p0119.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0119-source-page.png",
+          "source_pdf_page": 119,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 119 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 120,
+      "printed_page": null,
+      "path": "pages/p0120.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0120-source-page.png",
+          "source_pdf_page": 120,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 120 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 121,
+      "printed_page": null,
+      "path": "pages/p0121.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0121-source-page.png",
+          "source_pdf_page": 121,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 121 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 122,
+      "printed_page": null,
+      "path": "pages/p0122.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0122-source-page.png",
+          "source_pdf_page": 122,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 122 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 123,
+      "printed_page": null,
+      "path": "pages/p0123.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0123-source-page.png",
+          "source_pdf_page": 123,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 123 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 124,
+      "printed_page": null,
+      "path": "pages/p0124.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0124-source-page.png",
+          "source_pdf_page": 124,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 124 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 125,
+      "printed_page": null,
+      "path": "pages/p0125.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0125-source-page.png",
+          "source_pdf_page": 125,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 125 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 126,
+      "printed_page": null,
+      "path": "pages/p0126.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0126-source-page.png",
+          "source_pdf_page": 126,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 126 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 127,
+      "printed_page": null,
+      "path": "pages/p0127.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0127-source-page.png",
+          "source_pdf_page": 127,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 127 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 128,
+      "printed_page": null,
+      "path": "pages/p0128.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0128-source-page.png",
+          "source_pdf_page": 128,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 128 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 129,
+      "printed_page": 4,
+      "path": "pages/p0129.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0129-source-page.png",
+          "source_pdf_page": 129,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 129 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 130,
+      "printed_page": null,
+      "path": "pages/p0130.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0130-source-page.png",
+          "source_pdf_page": 130,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 130 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 131,
+      "printed_page": null,
+      "path": "pages/p0131.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0131-source-page.png",
+          "source_pdf_page": 131,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 131 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 132,
+      "printed_page": 6,
+      "path": "pages/p0132.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0132-source-page.png",
+          "source_pdf_page": 132,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 132 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 133,
+      "printed_page": null,
+      "path": "pages/p0133.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0133-source-page.png",
+          "source_pdf_page": 133,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 133 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 134,
+      "printed_page": null,
+      "path": "pages/p0134.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0134-source-page.png",
+          "source_pdf_page": 134,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 134 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 135,
+      "printed_page": null,
+      "path": "pages/p0135.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0135-source-page.png",
+          "source_pdf_page": 135,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 135 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 136,
+      "printed_page": null,
+      "path": "pages/p0136.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0136-source-page.png",
+          "source_pdf_page": 136,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 136 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 137,
+      "printed_page": null,
+      "path": "pages/p0137.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0137-source-page.png",
+          "source_pdf_page": 137,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 137 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 138,
+      "printed_page": null,
+      "path": "pages/p0138.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0138-source-page.png",
+          "source_pdf_page": 138,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 138 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 139,
+      "printed_page": 10,
+      "path": "pages/p0139.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0139-source-page.png",
+          "source_pdf_page": 139,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 139 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 140,
+      "printed_page": null,
+      "path": "pages/p0140.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0140-source-page.png",
+          "source_pdf_page": 140,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 140 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 141,
+      "printed_page": null,
+      "path": "pages/p0141.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0141-source-page.png",
+          "source_pdf_page": 141,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 141 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 142,
+      "printed_page": null,
+      "path": "pages/p0142.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0142-source-page.png",
+          "source_pdf_page": 142,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 142 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 143,
+      "printed_page": null,
+      "path": "pages/p0143.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0143-source-page.png",
+          "source_pdf_page": 143,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 143 از کتاب هنر"
+        }
+      ]
+    },
+    {
+      "pdf_page": 144,
+      "printed_page": null,
+      "path": "pages/p0144.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C110222-p0144-source-page.png",
+          "source_pdf_page": 144,
+          "crop_bounds_points": [
+            0,
+            0,
+            581.1019897460938,
+            765.35400390625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 144 از کتاب هنر"
+        }
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "path": "assets/figures/C110222-p0001-source-page.png",
+      "source_pdf_page": 1,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 1 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0003-source-page.png",
+      "source_pdf_page": 3,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 3 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0005-source-page.png",
+      "source_pdf_page": 5,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 5 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0006-source-page.png",
+      "source_pdf_page": 6,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 6 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0007-source-page.png",
+      "source_pdf_page": 7,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 7 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0008-source-page.png",
+      "source_pdf_page": 8,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 8 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0009-source-page.png",
+      "source_pdf_page": 9,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 9 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0010-source-page.png",
+      "source_pdf_page": 10,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 10 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0011-source-page.png",
+      "source_pdf_page": 11,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 11 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0012-source-page.png",
+      "source_pdf_page": 12,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 12 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0013-source-page.png",
+      "source_pdf_page": 13,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 13 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0014-source-page.png",
+      "source_pdf_page": 14,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 14 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0015-source-page.png",
+      "source_pdf_page": 15,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 15 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0016-source-page.png",
+      "source_pdf_page": 16,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 16 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0017-source-page.png",
+      "source_pdf_page": 17,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 17 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0018-source-page.png",
+      "source_pdf_page": 18,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 18 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0019-source-page.png",
+      "source_pdf_page": 19,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 19 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0020-source-page.png",
+      "source_pdf_page": 20,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 20 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0021-source-page.png",
+      "source_pdf_page": 21,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 21 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0022-source-page.png",
+      "source_pdf_page": 22,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 22 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0023-source-page.png",
+      "source_pdf_page": 23,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 23 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0024-source-page.png",
+      "source_pdf_page": 24,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 24 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0025-source-page.png",
+      "source_pdf_page": 25,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 25 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0026-source-page.png",
+      "source_pdf_page": 26,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 26 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0027-source-page.png",
+      "source_pdf_page": 27,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 27 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0028-source-page.png",
+      "source_pdf_page": 28,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 28 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0029-source-page.png",
+      "source_pdf_page": 29,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 29 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0030-source-page.png",
+      "source_pdf_page": 30,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 30 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0031-source-page.png",
+      "source_pdf_page": 31,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 31 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0032-source-page.png",
+      "source_pdf_page": 32,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 32 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0033-source-page.png",
+      "source_pdf_page": 33,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 33 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0034-source-page.png",
+      "source_pdf_page": 34,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 34 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0035-source-page.png",
+      "source_pdf_page": 35,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 35 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0036-source-page.png",
+      "source_pdf_page": 36,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 36 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0037-source-page.png",
+      "source_pdf_page": 37,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 37 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0038-source-page.png",
+      "source_pdf_page": 38,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 38 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0039-source-page.png",
+      "source_pdf_page": 39,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 39 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0040-source-page.png",
+      "source_pdf_page": 40,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 40 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0041-source-page.png",
+      "source_pdf_page": 41,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 41 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0042-source-page.png",
+      "source_pdf_page": 42,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 42 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0043-source-page.png",
+      "source_pdf_page": 43,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 43 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0044-source-page.png",
+      "source_pdf_page": 44,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 44 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0045-source-page.png",
+      "source_pdf_page": 45,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 45 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0046-source-page.png",
+      "source_pdf_page": 46,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 46 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0047-source-page.png",
+      "source_pdf_page": 47,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 47 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0048-source-page.png",
+      "source_pdf_page": 48,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 48 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0049-source-page.png",
+      "source_pdf_page": 49,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 49 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0050-source-page.png",
+      "source_pdf_page": 50,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 50 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0051-source-page.png",
+      "source_pdf_page": 51,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 51 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0052-source-page.png",
+      "source_pdf_page": 52,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 52 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0053-source-page.png",
+      "source_pdf_page": 53,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 53 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0054-source-page.png",
+      "source_pdf_page": 54,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 54 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0055-source-page.png",
+      "source_pdf_page": 55,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 55 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0056-source-page.png",
+      "source_pdf_page": 56,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 56 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0057-source-page.png",
+      "source_pdf_page": 57,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 57 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0058-source-page.png",
+      "source_pdf_page": 58,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 58 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0059-source-page.png",
+      "source_pdf_page": 59,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 59 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0060-source-page.png",
+      "source_pdf_page": 60,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 60 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0061-source-page.png",
+      "source_pdf_page": 61,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 61 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0062-source-page.png",
+      "source_pdf_page": 62,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 62 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0063-source-page.png",
+      "source_pdf_page": 63,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 63 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0064-source-page.png",
+      "source_pdf_page": 64,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 64 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0065-source-page.png",
+      "source_pdf_page": 65,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 65 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0066-source-page.png",
+      "source_pdf_page": 66,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 66 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0067-source-page.png",
+      "source_pdf_page": 67,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 67 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0068-source-page.png",
+      "source_pdf_page": 68,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 68 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0069-source-page.png",
+      "source_pdf_page": 69,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 69 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0070-source-page.png",
+      "source_pdf_page": 70,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 70 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0071-source-page.png",
+      "source_pdf_page": 71,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 71 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0072-source-page.png",
+      "source_pdf_page": 72,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 72 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0073-source-page.png",
+      "source_pdf_page": 73,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 73 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0074-source-page.png",
+      "source_pdf_page": 74,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 74 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0075-source-page.png",
+      "source_pdf_page": 75,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 75 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0076-source-page.png",
+      "source_pdf_page": 76,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 76 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0077-source-page.png",
+      "source_pdf_page": 77,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 77 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0078-source-page.png",
+      "source_pdf_page": 78,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 78 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0079-source-page.png",
+      "source_pdf_page": 79,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 79 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0080-source-page.png",
+      "source_pdf_page": 80,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 80 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0081-source-page.png",
+      "source_pdf_page": 81,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 81 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0082-source-page.png",
+      "source_pdf_page": 82,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 82 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0083-source-page.png",
+      "source_pdf_page": 83,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 83 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0084-source-page.png",
+      "source_pdf_page": 84,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 84 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0085-source-page.png",
+      "source_pdf_page": 85,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 85 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0086-source-page.png",
+      "source_pdf_page": 86,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 86 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0087-source-page.png",
+      "source_pdf_page": 87,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 87 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0088-source-page.png",
+      "source_pdf_page": 88,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 88 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0089-source-page.png",
+      "source_pdf_page": 89,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 89 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0090-source-page.png",
+      "source_pdf_page": 90,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 90 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0091-source-page.png",
+      "source_pdf_page": 91,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 91 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0092-source-page.png",
+      "source_pdf_page": 92,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 92 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0093-source-page.png",
+      "source_pdf_page": 93,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 93 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0094-source-page.png",
+      "source_pdf_page": 94,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 94 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0095-source-page.png",
+      "source_pdf_page": 95,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 95 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0096-source-page.png",
+      "source_pdf_page": 96,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 96 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0097-source-page.png",
+      "source_pdf_page": 97,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 97 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0098-source-page.png",
+      "source_pdf_page": 98,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 98 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0099-source-page.png",
+      "source_pdf_page": 99,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 99 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0100-source-page.png",
+      "source_pdf_page": 100,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 100 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0101-source-page.png",
+      "source_pdf_page": 101,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 101 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0102-source-page.png",
+      "source_pdf_page": 102,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 102 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0103-source-page.png",
+      "source_pdf_page": 103,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 103 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0104-source-page.png",
+      "source_pdf_page": 104,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 104 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0105-source-page.png",
+      "source_pdf_page": 105,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 105 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0106-source-page.png",
+      "source_pdf_page": 106,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 106 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0107-source-page.png",
+      "source_pdf_page": 107,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 107 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0108-source-page.png",
+      "source_pdf_page": 108,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 108 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0109-source-page.png",
+      "source_pdf_page": 109,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 109 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0110-source-page.png",
+      "source_pdf_page": 110,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 110 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0111-source-page.png",
+      "source_pdf_page": 111,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 111 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0112-source-page.png",
+      "source_pdf_page": 112,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 112 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0113-source-page.png",
+      "source_pdf_page": 113,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 113 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0114-source-page.png",
+      "source_pdf_page": 114,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 114 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0115-source-page.png",
+      "source_pdf_page": 115,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 115 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0116-source-page.png",
+      "source_pdf_page": 116,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 116 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0117-source-page.png",
+      "source_pdf_page": 117,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 117 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0118-source-page.png",
+      "source_pdf_page": 118,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 118 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0119-source-page.png",
+      "source_pdf_page": 119,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 119 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0120-source-page.png",
+      "source_pdf_page": 120,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 120 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0121-source-page.png",
+      "source_pdf_page": 121,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 121 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0122-source-page.png",
+      "source_pdf_page": 122,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 122 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0123-source-page.png",
+      "source_pdf_page": 123,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 123 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0124-source-page.png",
+      "source_pdf_page": 124,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 124 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0125-source-page.png",
+      "source_pdf_page": 125,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 125 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0126-source-page.png",
+      "source_pdf_page": 126,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 126 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0127-source-page.png",
+      "source_pdf_page": 127,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 127 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0128-source-page.png",
+      "source_pdf_page": 128,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 128 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0129-source-page.png",
+      "source_pdf_page": 129,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 129 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0130-source-page.png",
+      "source_pdf_page": 130,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 130 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0131-source-page.png",
+      "source_pdf_page": 131,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 131 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0132-source-page.png",
+      "source_pdf_page": 132,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 132 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0133-source-page.png",
+      "source_pdf_page": 133,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 133 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0134-source-page.png",
+      "source_pdf_page": 134,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 134 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0135-source-page.png",
+      "source_pdf_page": 135,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 135 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0136-source-page.png",
+      "source_pdf_page": 136,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 136 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0137-source-page.png",
+      "source_pdf_page": 137,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 137 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0138-source-page.png",
+      "source_pdf_page": 138,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 138 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0139-source-page.png",
+      "source_pdf_page": 139,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 139 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0140-source-page.png",
+      "source_pdf_page": 140,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 140 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0141-source-page.png",
+      "source_pdf_page": 141,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 141 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0142-source-page.png",
+      "source_pdf_page": 142,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 142 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0143-source-page.png",
+      "source_pdf_page": 143,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 143 از کتاب هنر"
+    },
+    {
+      "path": "assets/figures/C110222-p0144-source-page.png",
+      "source_pdf_page": 144,
+      "crop_bounds_points": [
+        0,
+        0,
+        581.1019897460938,
+        765.35400390625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 144 از کتاب هنر"
+    }
+  ],
+  "uncertainties": [],
+  "completed_pages": 144,
+  "status": "complete"
+}

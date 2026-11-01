@@ -1,0 +1,4316 @@
+{
+  "schema_version": 1,
+  "book": {
+    "title": "فیزیک (2)",
+    "grade": 11,
+    "branches": [
+      "science"
+    ],
+    "book_code": "C111244",
+    "edition": "1405-1406",
+    "year": "1405-1406",
+    "language": "fa"
+  },
+  "source": {
+    "catalog_url": "http://chap.sch.ir/books/14333",
+    "pdf_url": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/41/C111244.pdf",
+    "local_pdf": "sources/C111244.pdf",
+    "sha256": "2fbda9ed4bdedb20ee3182e39e0eb39c15f908770cd7de56fff3d91a6160aac4",
+    "pdf_page_count": 119,
+    "retrieved_at": null
+  },
+  "pages": [
+    {
+      "pdf_page": 1,
+      "file": "pages/001.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 2,
+      "file": "pages/002.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 3,
+      "file": "pages/003.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 4,
+      "file": "pages/004.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 5,
+      "file": "pages/005.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 6,
+      "file": "pages/006.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 7,
+      "file": "pages/007.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 8,
+      "file": "pages/008.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 9,
+      "file": "pages/009.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 10,
+      "file": "pages/010.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 11,
+      "file": "pages/011.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 12,
+      "file": "pages/012.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 13,
+      "file": "pages/013.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 14,
+      "file": "pages/014.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 15,
+      "file": "pages/015.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 16,
+      "file": "pages/016.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 17,
+      "file": "pages/017.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 18,
+      "file": "pages/018.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 19,
+      "file": "pages/019.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 20,
+      "file": "pages/020.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 21,
+      "file": "pages/021.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 22,
+      "file": "pages/022.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 23,
+      "file": "pages/023.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 24,
+      "file": "pages/024.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 25,
+      "file": "pages/025.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 26,
+      "file": "pages/026.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 27,
+      "file": "pages/027.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 28,
+      "file": "pages/028.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 29,
+      "file": "pages/029.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 30,
+      "file": "pages/030.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 31,
+      "file": "pages/031.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 32,
+      "file": "pages/032.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 33,
+      "file": "pages/033.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 34,
+      "file": "pages/034.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 35,
+      "file": "pages/035.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 36,
+      "file": "pages/036.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 37,
+      "file": "pages/037.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 38,
+      "file": "pages/038.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 39,
+      "file": "pages/039.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 40,
+      "file": "pages/040.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 41,
+      "file": "pages/041.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 42,
+      "file": "pages/042.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 43,
+      "file": "pages/043.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 44,
+      "file": "pages/044.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 45,
+      "file": "pages/045.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 46,
+      "file": "pages/046.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 47,
+      "file": "pages/047.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 48,
+      "file": "pages/048.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 49,
+      "file": "pages/049.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 50,
+      "file": "pages/050.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 51,
+      "file": "pages/051.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 52,
+      "file": "pages/052.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 53,
+      "file": "pages/053.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 54,
+      "file": "pages/054.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 55,
+      "file": "pages/055.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 56,
+      "file": "pages/056.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 57,
+      "file": "pages/057.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 58,
+      "file": "pages/058.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 59,
+      "file": "pages/059.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 60,
+      "file": "pages/060.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 61,
+      "file": "pages/061.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 62,
+      "file": "pages/062.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 63,
+      "file": "pages/063.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 64,
+      "file": "pages/064.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 65,
+      "file": "pages/065.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 66,
+      "file": "pages/066.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 67,
+      "file": "pages/067.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 68,
+      "file": "pages/068.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 69,
+      "file": "pages/069.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 70,
+      "file": "pages/070.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 71,
+      "file": "pages/071.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 72,
+      "file": "pages/072.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 73,
+      "file": "pages/073.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 74,
+      "file": "pages/074.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 75,
+      "file": "pages/075.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 76,
+      "file": "pages/076.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 77,
+      "file": "pages/077.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 78,
+      "file": "pages/078.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 79,
+      "file": "pages/079.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 80,
+      "file": "pages/080.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 81,
+      "file": "pages/081.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 82,
+      "file": "pages/082.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 83,
+      "file": "pages/083.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 84,
+      "file": "pages/084.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 85,
+      "file": "pages/085.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 86,
+      "file": "pages/086.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 87,
+      "file": "pages/087.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 88,
+      "file": "pages/088.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 89,
+      "file": "pages/089.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 90,
+      "file": "pages/090.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 91,
+      "file": "pages/091.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 92,
+      "file": "pages/092.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 93,
+      "file": "pages/093.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 94,
+      "file": "pages/094.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 95,
+      "file": "pages/095.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 96,
+      "file": "pages/096.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 97,
+      "file": "pages/097.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 98,
+      "file": "pages/098.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 99,
+      "file": "pages/099.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 100,
+      "file": "pages/100.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 101,
+      "file": "pages/101.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 102,
+      "file": "pages/102.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 103,
+      "file": "pages/103.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 104,
+      "file": "pages/104.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 105,
+      "file": "pages/105.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 106,
+      "file": "pages/106.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 107,
+      "file": "pages/107.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 108,
+      "file": "pages/108.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 109,
+      "file": "pages/109.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 110,
+      "file": "pages/110.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 111,
+      "file": "pages/111.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 112,
+      "file": "pages/112.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 113,
+      "file": "pages/113.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 114,
+      "file": "pages/114.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 115,
+      "file": "pages/115.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 116,
+      "file": "pages/116.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 117,
+      "file": "pages/117.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 118,
+      "file": "pages/118.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 119,
+      "file": "pages/119.md",
+      "status": "transcribed"
+    }
+  ],
+  "figures": [
+    {
+      "file": "assets/001-qr.png",
+      "source_page": 1,
+      "crop_bounds": [
+        78,
+        645,
+        128,
+        710
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "",
+      "alt": "رمز پاسخ سریع"
+    },
+    {
+      "file": "assets/003-portrait.png",
+      "source_page": 3,
+      "crop_bounds": [
+        0,
+        170,
+        405,
+        765
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "",
+      "alt": "تصویر امام خمینی"
+    },
+    {
+      "file": "assets/008-qr.png",
+      "source_page": 8,
+      "crop_bounds": [
+        257,
+        680,
+        307,
+        740
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "",
+      "alt": "رمز نظرسنجی کتاب درسی"
+    },
+    {
+      "file": "assets/009-touch.png",
+      "source_page": 9,
+      "crop_bounds": [
+        60,
+        175,
+        540,
+        565
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "",
+      "alt": "تصویر تلفن همراه با صفحۀ لمسی"
+    },
+    {
+      "file": "assets/009-qr.png",
+      "source_page": 9,
+      "crop_bounds": [
+        410,
+        195,
+        485,
+        270
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "",
+      "alt": "رمز فصل"
+    },
+    {
+      "file": "assets/010-fig1.png",
+      "source_page": 10,
+      "crop_bounds": [
+        410,
+        55,
+        557,
+        167
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۱",
+      "alt": "آذرخش"
+    },
+    {
+      "file": "assets/010-fig2.png",
+      "source_page": 10,
+      "crop_bounds": [
+        410,
+        205,
+        557,
+        305
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۲",
+      "alt": "سلول‌های عصبی"
+    },
+    {
+      "file": "assets/010-fig3.png",
+      "source_page": 10,
+      "crop_bounds": [
+        410,
+        343,
+        557,
+        448
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۳",
+      "alt": "مالش بادکنک به گربه"
+    },
+    {
+      "file": "assets/010-fig4.png",
+      "source_page": 10,
+      "crop_bounds": [
+        50,
+        510,
+        510,
+        695
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۴",
+      "alt": "جذب و دفع میله‌های باردار"
+    },
+    {
+      "file": "assets/011-fig5.png",
+      "source_page": 11,
+      "crop_bounds": [
+        160,
+        120,
+        520,
+        325
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۵",
+      "alt": "دو الکتروسکوپ"
+    },
+    {
+      "file": "assets/011-franklin.png",
+      "source_page": 11,
+      "crop_bounds": [
+        53,
+        60,
+        133,
+        157
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "",
+      "alt": "پرترۀ بنیامین فرانکلین"
+    },
+    {
+      "file": "assets/013-fig6.png",
+      "source_page": 13,
+      "crop_bounds": [
+        48,
+        55,
+        170,
+        235
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "",
+      "alt": "گوی‌های باردار همنام"
+    },
+    {
+      "file": "assets/013-activity.png",
+      "source_page": 13,
+      "crop_bounds": [
+        58,
+        257,
+        168,
+        398
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "",
+      "alt": "آزمایش نی پلاستیکی"
+    },
+    {
+      "file": "assets/013-fig7.png",
+      "source_page": 13,
+      "crop_bounds": [
+        55,
+        410,
+        160,
+        585
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "",
+      "alt": "ترازوی پیچشی کولن"
+    },
+    {
+      "file": "assets/014-fig8.png",
+      "source_page": 14,
+      "crop_bounds": [
+        90,
+        230,
+        405,
+        325
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۸",
+      "alt": "نیروی الکتریکی بین دو بار"
+    },
+    {
+      "file": "assets/014-atom.png",
+      "source_page": 14,
+      "crop_bounds": [
+        45,
+        350,
+        165,
+        475
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "",
+      "alt": "مدل اتم هیدروژن"
+    },
+    {
+      "file": "assets/014-coulomb.png",
+      "source_page": 14,
+      "crop_bounds": [
+        440,
+        59,
+        525,
+        164
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "",
+      "alt": "پرترۀ شارل آگوستین کولن"
+    },
+    {
+      "file": "assets/015-dna.png",
+      "source_page": 15,
+      "crop_bounds": [
+        58,
+        175,
+        260,
+        370
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "",
+      "alt": "ساختار DNA"
+    },
+    {
+      "file": "assets/015-fig9.png",
+      "source_page": 15,
+      "crop_bounds": [
+        47,
+        465,
+        190,
+        610
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۹",
+      "alt": "نیروی برآیند وارد بر بار q0"
+    },
+    {
+      "file": "assets/016-question.png",
+      "source_page": 16,
+      "crop_bounds": [
+        52,
+        97,
+        150,
+        128
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۱ـ۲",
+      "alt": "سه بار روی خط"
+    },
+    {
+      "file": "assets/016-example.png",
+      "source_page": 16,
+      "crop_bounds": [
+        63,
+        201,
+        255,
+        250
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مثال ۱ـ۳",
+      "alt": "سه بار در نقاط A و B و C"
+    },
+    {
+      "file": "assets/016-forces.png",
+      "source_page": 16,
+      "crop_bounds": [
+        193,
+        520,
+        370,
+        565
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "",
+      "alt": "نیروهای وارد بر بار سوم"
+    },
+    {
+      "file": "assets/017-question.png",
+      "source_page": 17,
+      "crop_bounds": [
+        68,
+        155,
+        150,
+        215
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۱ـ۳",
+      "alt": "سه بار در گوشه‌های مربع"
+    },
+    {
+      "file": "assets/017-example.png",
+      "source_page": 17,
+      "crop_bounds": [
+        48,
+        277,
+        220,
+        398
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مثال ۱ـ۴",
+      "alt": "سه بار در مثلث قائم‌الزاویه"
+    },
+    {
+      "file": "assets/017-forces.png",
+      "source_page": 17,
+      "crop_bounds": [
+        55,
+        565,
+        210,
+        665
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "",
+      "alt": "جمع برداری نیروها"
+    },
+    {
+      "file": "assets/018-fig10.png",
+      "source_page": 18,
+      "crop_bounds": [
+        405,
+        165,
+        530,
+        435
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۱۰",
+      "alt": "میدان الکتریکی میلۀ باردار"
+    },
+    {
+      "file": "assets/018-example.png",
+      "source_page": 18,
+      "crop_bounds": [
+        50,
+        557,
+        185,
+        690
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مثال ۱ـ۵",
+      "alt": "بار آزمون در نزدیکی دو گوی و میله"
+    },
+    {
+      "file": "assets/019-fig11.png",
+      "source_page": 19,
+      "crop_bounds": [
+        40,
+        445,
+        160,
+        510
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۱۱",
+      "alt": "بار q و نقطۀ A"
+    },
+    {
+      "file": "assets/020-generator.png",
+      "source_page": 20,
+      "crop_bounds": [
+        57,
+        76,
+        154,
+        218
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "",
+      "alt": "مولد وان دوگراف"
+    },
+    {
+      "file": "assets/020-graph.png",
+      "source_page": 20,
+      "crop_bounds": [
+        57,
+        390,
+        263,
+        548
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "",
+      "alt": "نمودار میدان برحسب فاصله"
+    },
+    {
+      "file": "assets/020-candles.png",
+      "source_page": 20,
+      "crop_bounds": [
+        64,
+        550,
+        254,
+        672
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "",
+      "alt": "دو شمع و مولد وان دوگراف"
+    },
+    {
+      "file": "assets/021-fig12.png",
+      "source_page": 21,
+      "crop_bounds": [
+        35,
+        170,
+        165,
+        370
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۱۲",
+      "alt": "جمع برداری میدان‌ها"
+    },
+    {
+      "file": "assets/021-example.png",
+      "source_page": 21,
+      "crop_bounds": [
+        55,
+        430,
+        280,
+        465
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مثال ۱ـ۷",
+      "alt": "دو بار مثبت و منفی"
+    },
+    {
+      "file": "assets/021-fields.png",
+      "source_page": 21,
+      "crop_bounds": [
+        55,
+        530,
+        275,
+        580
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "",
+      "alt": "میدان‌ها در نقطۀ A"
+    },
+    {
+      "file": "assets/022-fields.png",
+      "source_page": 22,
+      "crop_bounds": [
+        155,
+        205,
+        400,
+        250
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "",
+      "alt": "میدان‌های الکتریکی در B"
+    },
+    {
+      "file": "assets/022-dipole.png",
+      "source_page": 22,
+      "crop_bounds": [
+        55,
+        490,
+        155,
+        660
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "",
+      "alt": "مولکول آب و مدل دوقطبی"
+    },
+    {
+      "file": "assets/023-exercise.png",
+      "source_page": 23,
+      "crop_bounds": [
+        155,
+        122,
+        400,
+        165
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "تمرین ۱ـ۵",
+      "alt": "دو بار و نقطه‌های O و M"
+    },
+    {
+      "file": "assets/023-question.png",
+      "source_page": 23,
+      "crop_bounds": [
+        165,
+        240,
+        380,
+        365
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۱ـ۴",
+      "alt": "میلۀ باردار و خرده‌های کاغذ"
+    },
+    {
+      "file": "assets/023-gecko.png",
+      "source_page": 23,
+      "crop_bounds": [
+        63,
+        420,
+        263,
+        553
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "",
+      "alt": "مارمولک روی دیوار"
+    },
+    {
+      "file": "assets/024-example.png",
+      "source_page": 24,
+      "crop_bounds": [
+        50,
+        72,
+        215,
+        340
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مثال ۱ـ۸",
+      "alt": "دو بار و میدان آنها در صفحۀ مختصات"
+    },
+    {
+      "file": "assets/024-activity.png",
+      "source_page": 24,
+      "crop_bounds": [
+        55,
+        575,
+        230,
+        695
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "فعالیت ۱ـ۲",
+      "alt": "دانه‌ها بین دو الکترود"
+    },
+    {
+      "file": "assets/025-fig13.png",
+      "source_page": 25,
+      "crop_bounds": [
+        155,
+        115,
+        535,
+        310
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۱۳",
+      "alt": "میدان بار مثبت و منفی"
+    },
+    {
+      "file": "assets/025-fig14.png",
+      "source_page": 25,
+      "crop_bounds": [
+        190,
+        350,
+        500,
+        555
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۱۴",
+      "alt": "خطوط میدان بار مثبت و منفی"
+    },
+    {
+      "file": "assets/025-fig15.png",
+      "source_page": 25,
+      "crop_bounds": [
+        40,
+        470,
+        160,
+        575
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۱۵",
+      "alt": "مماس بودن بردار میدان"
+    },
+    {
+      "file": "assets/025-fig16.png",
+      "source_page": 25,
+      "crop_bounds": [
+        45,
+        580,
+        160,
+        705
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۱۶",
+      "alt": "تراکم خطوط میدان"
+    },
+    {
+      "file": "assets/026-fig17.png",
+      "source_page": 26,
+      "crop_bounds": [
+        400,
+        55,
+        550,
+        230
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۱۷",
+      "alt": "خطوط میدان دو بار"
+    },
+    {
+      "file": "assets/026-fig18.png",
+      "source_page": 26,
+      "crop_bounds": [
+        125,
+        135,
+        345,
+        260
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۱۸",
+      "alt": "میدان سه‌بعدی دوقطبی"
+    },
+    {
+      "file": "assets/026-fig19.png",
+      "source_page": 26,
+      "crop_bounds": [
+        410,
+        308,
+        530,
+        485
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۱۹",
+      "alt": "دانه‌ها بین دو الکترود"
+    },
+    {
+      "file": "assets/026-fig20.png",
+      "source_page": 26,
+      "crop_bounds": [
+        385,
+        490,
+        550,
+        705
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۲۰",
+      "alt": "میدان بین صفحات موازی"
+    },
+    {
+      "file": "assets/027-question.png",
+      "source_page": 27,
+      "crop_bounds": [
+        55,
+        80,
+        230,
+        195
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۱ـ۶",
+      "alt": "خطوط میدان و نقاط A و B و C"
+    },
+    {
+      "file": "assets/027-bee.png",
+      "source_page": 27,
+      "crop_bounds": [
+        57,
+        232,
+        225,
+        360
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "فعالیت ۱ـ۳",
+      "alt": "زنبور عسل و گل"
+    },
+    {
+      "file": "assets/027-esp.png",
+      "source_page": 27,
+      "crop_bounds": [
+        55,
+        495,
+        300,
+        650
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "فعالیت ۱ـ۴",
+      "alt": "دودکش پیش و پس از رسوب‌دهنده"
+    },
+    {
+      "file": "assets/028-fig21.png",
+      "source_page": 28,
+      "crop_bounds": [
+        415,
+        50,
+        530,
+        120
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۲۱",
+      "alt": "دو بار مثبت"
+    },
+    {
+      "file": "assets/028-fig22.png",
+      "source_page": 28,
+      "crop_bounds": [
+        410,
+        150,
+        535,
+        360
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۲۲",
+      "alt": "حرکت بار مثبت در میدان یکنواخت"
+    },
+    {
+      "file": "assets/028-fig23.png",
+      "source_page": 28,
+      "crop_bounds": [
+        410,
+        400,
+        530,
+        565
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۲۳",
+      "alt": "سقوط جسم در میدان گرانشی"
+    },
+    {
+      "file": "assets/029-question.png",
+      "source_page": 29,
+      "crop_bounds": [
+        70,
+        225,
+        510,
+        345
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۱ـ۷",
+      "alt": "چهار حالت جابه‌جایی بار"
+    },
+    {
+      "file": "assets/029-example.png",
+      "source_page": 29,
+      "crop_bounds": [
+        50,
+        380,
+        245,
+        475
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مثال ۱ـ۹",
+      "alt": "پرتاب پروتون بین صفحات"
+    },
+    {
+      "file": "assets/030-fig24.png",
+      "source_page": 30,
+      "crop_bounds": [
+        235,
+        155,
+        350,
+        265
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۲۴",
+      "alt": "جابه‌جایی بار میان دو صفحه"
+    },
+    {
+      "file": "assets/030-volta.png",
+      "source_page": 30,
+      "crop_bounds": [
+        445,
+        84,
+        525,
+        183
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "",
+      "alt": "پرترۀ الساندرو ولتا"
+    },
+    {
+      "file": "assets/031-example.png",
+      "source_page": 31,
+      "crop_bounds": [
+        55,
+        75,
+        160,
+        195
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مثال ۱ـ۱۰",
+      "alt": "حرکت الکترون در میدان"
+    },
+    {
+      "file": "assets/031-batteries.png",
+      "source_page": 31,
+      "crop_bounds": [
+        18,
+        475,
+        160,
+        660
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۲۵",
+      "alt": "باتری‌های متداول"
+    },
+    {
+      "file": "assets/032-example.png",
+      "source_page": 32,
+      "crop_bounds": [
+        50,
+        140,
+        225,
+        250
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مثال ۱ـ۱۱",
+      "alt": "باتری خودرو و چراغ"
+    },
+    {
+      "file": "assets/032-neuron.png",
+      "source_page": 32,
+      "crop_bounds": [
+        52,
+        340,
+        285,
+        495
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "فعالیت ۱ـ۵",
+      "alt": "یاختۀ عصبی و اجزای آن"
+    },
+    {
+      "file": "assets/033-crt.png",
+      "source_page": 33,
+      "crop_bounds": [
+        45,
+        98,
+        200,
+        195
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مثال ۱ـ۱۲",
+      "alt": "لامپ پرتو کاتدی"
+    },
+    {
+      "file": "assets/033-faraday.png",
+      "source_page": 33,
+      "crop_bounds": [
+        175,
+        510,
+        510,
+        675
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۲۶",
+      "alt": "آزمایش فاراده"
+    },
+    {
+      "file": "assets/034-fig27.png",
+      "source_page": 34,
+      "crop_bounds": [
+        255,
+        180,
+        380,
+        325
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۲۷",
+      "alt": "میلۀ باردار و گوی فلزی"
+    },
+    {
+      "file": "assets/034-cage.png",
+      "source_page": 34,
+      "crop_bounds": [
+        50,
+        350,
+        250,
+        510
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "فعالیت ۱ـ۶",
+      "alt": "شخص در قفس فاراده"
+    },
+    {
+      "file": "assets/034-fig28.png",
+      "source_page": 34,
+      "crop_bounds": [
+        380,
+        525,
+        520,
+        670
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۲۸",
+      "alt": "اسباب آزمایش توزیع بار"
+    },
+    {
+      "file": "assets/035-fig29.png",
+      "source_page": 35,
+      "crop_bounds": [
+        355,
+        95,
+        480,
+        165
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۲۹",
+      "alt": "تراکم بار در نوک رسانا"
+    },
+    {
+      "file": "assets/035-lightning.png",
+      "source_page": 35,
+      "crop_bounds": [
+        65,
+        185,
+        160,
+        310
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "فعالیت ۱ـ۷",
+      "alt": "برق‌گیر ساختمان"
+    },
+    {
+      "file": "assets/035-corona.png",
+      "source_page": 35,
+      "crop_bounds": [
+        115,
+        480,
+        500,
+        680
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "تخلیۀ هاله‌ای",
+      "alt": "میدان رسانای دوکی و تخلیۀ هاله‌ای"
+    },
+    {
+      "file": "assets/036-camera.png",
+      "source_page": 36,
+      "crop_bounds": [
+        410,
+        55,
+        550,
+        200
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۳۰",
+      "alt": "فلاش دوربین"
+    },
+    {
+      "file": "assets/036-capacitors.png",
+      "source_page": 36,
+      "crop_bounds": [
+        235,
+        245,
+        380,
+        370
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۳۱",
+      "alt": "چند خازن"
+    },
+    {
+      "file": "assets/036-field.png",
+      "source_page": 36,
+      "crop_bounds": [
+        75,
+        250,
+        215,
+        370
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۳۲",
+      "alt": "اجزای خازن باردار"
+    },
+    {
+      "file": "assets/036-plates.png",
+      "source_page": 36,
+      "crop_bounds": [
+        405,
+        380,
+        555,
+        505
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۳۳",
+      "alt": "خازن تخت"
+    },
+    {
+      "file": "assets/036-circuit.png",
+      "source_page": 36,
+      "crop_bounds": [
+        410,
+        550,
+        555,
+        685
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۳۴",
+      "alt": "مدار تقویت‌کننده"
+    },
+    {
+      "file": "assets/037-fig35.png",
+      "source_page": 37,
+      "crop_bounds": [
+        160,
+        38,
+        500,
+        185
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۳۵",
+      "alt": "باردار کردن خازن و میدان بین صفحات"
+    },
+    {
+      "file": "assets/037-example.png",
+      "source_page": 37,
+      "crop_bounds": [
+        55,
+        490,
+        210,
+        615
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مثال ۱ـ۱۳",
+      "alt": "خازن متصل به باتری"
+    },
+    {
+      "file": "assets/038-leyden.png",
+      "source_page": 38,
+      "crop_bounds": [
+        65,
+        75,
+        275,
+        230
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "بطری لیدن",
+      "alt": "ساختار و نمونه بطری لیدن"
+    },
+    {
+      "file": "assets/038-microphone.png",
+      "source_page": 38,
+      "crop_bounds": [
+        410,
+        315,
+        550,
+        665
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۳۶",
+      "alt": "ساختمان میکروفون خازنی"
+    },
+    {
+      "file": "assets/038-dielectric.png",
+      "source_page": 38,
+      "crop_bounds": [
+        220,
+        525,
+        355,
+        655
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۳۷",
+      "alt": "خازن دارای دی‌الکتریک"
+    },
+    {
+      "file": "assets/039-question.png",
+      "source_page": 39,
+      "crop_bounds": [
+        260,
+        265,
+        435,
+        400
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۱ـ۸",
+      "alt": "خازن و ولت‌سنج با و بدون دی‌الکتریک"
+    },
+    {
+      "file": "assets/039-keyboard.png",
+      "source_page": 39,
+      "crop_bounds": [
+        55,
+        440,
+        210,
+        685
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مثال ۱ـ۱۴",
+      "alt": "صفحه‌کلید و ساختمان کلید خازنی"
+    },
+    {
+      "file": "assets/040-airbag.png",
+      "source_page": 40,
+      "crop_bounds": [
+        60,
+        250,
+        260,
+        385
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "فعالیت ۱ـ۸",
+      "alt": "کیسۀ هوای خودرو"
+    },
+    {
+      "file": "assets/040-fig38.png",
+      "source_page": 40,
+      "crop_bounds": [
+        375,
+        395,
+        520,
+        575
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۳۸",
+      "alt": "نقش‌های لیچتنبرگ"
+    },
+    {
+      "file": "assets/040-fig39.png",
+      "source_page": 40,
+      "crop_bounds": [
+        65,
+        580,
+        385,
+        680
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۳۹",
+      "alt": "خازن و مشخصات آن"
+    },
+    {
+      "file": "assets/041-neuron.png",
+      "source_page": 41,
+      "crop_bounds": [
+        55,
+        75,
+        120,
+        178
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "تمرین ۱ـ۱۱",
+      "alt": "مدل غشای یاخته"
+    },
+    {
+      "file": "assets/041-fig40.png",
+      "source_page": 41,
+      "crop_bounds": [
+        40,
+        320,
+        160,
+        475
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۴۰",
+      "alt": "میدان الکتریکی خازن"
+    },
+    {
+      "file": "assets/041-flash.png",
+      "source_page": 41,
+      "crop_bounds": [
+        50,
+        565,
+        260,
+        695
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مثال ۱ـ۱۵",
+      "alt": "مدار فلاش عکاسی"
+    },
+    {
+      "file": "assets/042-defibrillator.png",
+      "source_page": 42,
+      "crop_bounds": [
+        62,
+        235,
+        190,
+        335
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مثال ۱ـ۱۶",
+      "alt": "کاربرد دستگاه رفع لرزش قلب"
+    },
+    {
+      "file": "assets/043-battery.png",
+      "source_page": 43,
+      "crop_bounds": [
+        55,
+        560,
+        290,
+        690
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "باتری اشکانی",
+      "alt": "باتری اشکانی و مقطع آن"
+    },
+    {
+      "file": "assets/044-q4.png",
+      "source_page": 44,
+      "crop_bounds": [
+        355,
+        400,
+        465,
+        485
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مسئله ۴",
+      "alt": "سه بار در مربع"
+    },
+    {
+      "file": "assets/044-q5.png",
+      "source_page": 44,
+      "crop_bounds": [
+        300,
+        560,
+        495,
+        605
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مسئله ۵",
+      "alt": "سه بار روی محور"
+    },
+    {
+      "file": "assets/044-q6.png",
+      "source_page": 44,
+      "crop_bounds": [
+        290,
+        595,
+        325,
+        710
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مسئله ۶",
+      "alt": "دو گوی در لوله"
+    },
+    {
+      "file": "assets/044-q7.png",
+      "source_page": 44,
+      "crop_bounds": [
+        125,
+        150,
+        200,
+        230
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مسئله ۷",
+      "alt": "میدان یکنواخت"
+    },
+    {
+      "file": "assets/044-q9.png",
+      "source_page": 44,
+      "crop_bounds": [
+        95,
+        455,
+        215,
+        485
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مسئله ۹",
+      "alt": "دو بار روی محور"
+    },
+    {
+      "file": "assets/044-q11.png",
+      "source_page": 44,
+      "crop_bounds": [
+        105,
+        625,
+        220,
+        725
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مسئله ۱۱",
+      "alt": "خطوط میدان دو کره"
+    },
+    {
+      "file": "assets/045-q12.png",
+      "source_page": 45,
+      "crop_bounds": [
+        295,
+        110,
+        520,
+        275
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مسئله ۱۲",
+      "alt": "چهار آرایش خطوط میدان"
+    },
+    {
+      "file": "assets/045-q13.png",
+      "source_page": 45,
+      "crop_bounds": [
+        310,
+        415,
+        510,
+        450
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مسئله ۱۳",
+      "alt": "دو بار و نقاط O و A"
+    },
+    {
+      "file": "assets/045-q14.png",
+      "source_page": 45,
+      "crop_bounds": [
+        325,
+        495,
+        475,
+        605
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مسئله ۱۴",
+      "alt": "بادکنک و جریان آب"
+    },
+    {
+      "file": "assets/045-q15.png",
+      "source_page": 45,
+      "crop_bounds": [
+        100,
+        115,
+        225,
+        200
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مسئله ۱۵",
+      "alt": "مسیر بار در میدان"
+    },
+    {
+      "file": "assets/045-q16.png",
+      "source_page": 45,
+      "crop_bounds": [
+        60,
+        315,
+        245,
+        400
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مسئله ۱۶",
+      "alt": "ذره و کرۀ باردار"
+    },
+    {
+      "file": "assets/045-q17.png",
+      "source_page": 45,
+      "crop_bounds": [
+        65,
+        530,
+        245,
+        720
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مسئله ۱۷",
+      "alt": "سه آرایش میدان"
+    },
+    {
+      "file": "assets/046-q20.png",
+      "source_page": 46,
+      "crop_bounds": [
+        355,
+        395,
+        470,
+        520
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مسئله ۲۰",
+      "alt": "گوی فلزی و آونگ باردار"
+    },
+    {
+      "file": "assets/046-q26.png",
+      "source_page": 46,
+      "crop_bounds": [
+        110,
+        515,
+        215,
+        605
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مسئله ۲۶",
+      "alt": "خازن و کلید"
+    },
+    {
+      "file": "assets/047-car.png",
+      "source_page": 47,
+      "crop_bounds": [
+        0,
+        160,
+        565,
+        570
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "فصل ۲",
+      "alt": "خودروی الکتریکی در حال شارژ و رمز فصل"
+    },
+    {
+      "file": "assets/048-fig1.png",
+      "source_page": 48,
+      "crop_bounds": [
+        45,
+        240,
+        405,
+        355
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۱",
+      "alt": "تلفن و باتری و سیم"
+    },
+    {
+      "file": "assets/048-fig2.png",
+      "source_page": 48,
+      "crop_bounds": [
+        410,
+        55,
+        550,
+        185
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۲",
+      "alt": "فوران خورشیدی"
+    },
+    {
+      "file": "assets/048-fig3.png",
+      "source_page": 48,
+      "crop_bounds": [
+        405,
+        225,
+        550,
+        345
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۳",
+      "alt": "شارش بار از مقطع"
+    },
+    {
+      "file": "assets/048-fig4.png",
+      "source_page": 48,
+      "crop_bounds": [
+        410,
+        370,
+        550,
+        435
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۴",
+      "alt": "حرکت کاتوره‌ای الکترون‌ها"
+    },
+    {
+      "file": "assets/048-fig5.png",
+      "source_page": 48,
+      "crop_bounds": [
+        410,
+        465,
+        550,
+        700
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۵",
+      "alt": "مدار ساده و نمادهای آن"
+    },
+    {
+      "file": "assets/049-fig6.png",
+      "source_page": 49,
+      "crop_bounds": [
+        15,
+        65,
+        160,
+        155
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۶",
+      "alt": "شارش خالص بار"
+    },
+    {
+      "file": "assets/049-fig7.png",
+      "source_page": 49,
+      "crop_bounds": [
+        205,
+        110,
+        475,
+        275
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۷",
+      "alt": "مسیر زیگزاگ الکترون"
+    },
+    {
+      "file": "assets/049-ampere.png",
+      "source_page": 49,
+      "crop_bounds": [
+        50,
+        170,
+        125,
+        265
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "",
+      "alt": "پرترۀ آمپر"
+    },
+    {
+      "file": "assets/050-calculator.png",
+      "source_page": 50,
+      "crop_bounds": [
+        30,
+        70,
+        160,
+        175
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مثال ۲ـ۱",
+      "alt": "ماشین‌حساب"
+    },
+    {
+      "file": "assets/050-batteries.png",
+      "source_page": 50,
+      "crop_bounds": [
+        150,
+        390,
+        435,
+        500
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "تمرین ۲ـ۱",
+      "alt": "باتری‌های قلمی و خودرو"
+    },
+    {
+      "file": "assets/051-ion.png",
+      "source_page": 51,
+      "crop_bounds": [
+        65,
+        130,
+        490,
+        275
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "یون‌رانی",
+      "alt": "یون‌رانی از پوست"
+    },
+    {
+      "file": "assets/051-ohm.png",
+      "source_page": 51,
+      "crop_bounds": [
+        65,
+        305,
+        135,
+        395
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "",
+      "alt": "پرترۀ اهم"
+    },
+    {
+      "file": "assets/052-fig8.png",
+      "source_page": 52,
+      "crop_bounds": [
+        335,
+        55,
+        535,
+        265
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۸",
+      "alt": "اسباب تحقیق قانون اهم"
+    },
+    {
+      "file": "assets/052-fig9.png",
+      "source_page": 52,
+      "crop_bounds": [
+        275,
+        535,
+        495,
+        690
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۹",
+      "alt": "نمودار جریان رسانای اهمی"
+    },
+    {
+      "file": "assets/052-fig10.png",
+      "source_page": 52,
+      "crop_bounds": [
+        95,
+        555,
+        250,
+        690
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۱۰",
+      "alt": "نمودار جریان دیود"
+    },
+    {
+      "file": "assets/053-torch.png",
+      "source_page": 53,
+      "crop_bounds": [
+        30,
+        65,
+        105,
+        215
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مثال ۲ـ۲",
+      "alt": "چراغ قوۀ کوچک"
+    },
+    {
+      "file": "assets/053-fig11.png",
+      "source_page": 53,
+      "crop_bounds": [
+        25,
+        270,
+        160,
+        375
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۱۱",
+      "alt": "سیم با مقطع یکنواخت"
+    },
+    {
+      "file": "assets/054-stove.png",
+      "source_page": 54,
+      "crop_bounds": [
+        52,
+        80,
+        205,
+        310
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مثال ۲ـ۳",
+      "alt": "اجاق برقی و المنت"
+    },
+    {
+      "file": "assets/055-fig12.png",
+      "source_page": 55,
+      "crop_bounds": [
+        155,
+        50,
+        515,
+        330
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۱۲",
+      "alt": "رئوستا و پتانسیومتر"
+    },
+    {
+      "file": "assets/055-resistors.png",
+      "source_page": 55,
+      "crop_bounds": [
+        180,
+        515,
+        520,
+        680
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مقاومت‌های ترکیبی",
+      "alt": "مقاومت‌ها و حلقه‌های رنگی"
+    },
+    {
+      "file": "assets/056-thermistor.png",
+      "source_page": 56,
+      "crop_bounds": [
+        90,
+        245,
+        495,
+        365
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "ترمیستورها",
+      "alt": "انواع ترمیستور و نماد آن"
+    },
+    {
+      "file": "assets/056-ldr.png",
+      "source_page": 56,
+      "crop_bounds": [
+        45,
+        490,
+        500,
+        645
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مقاومت نوری",
+      "alt": "نمودار و نمونه‌های LDR"
+    },
+    {
+      "file": "assets/057-ldr.png",
+      "source_page": 57,
+      "crop_bounds": [
+        48,
+        55,
+        250,
+        275
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مدار LDR",
+      "alt": "مدار LDR و LED"
+    },
+    {
+      "file": "assets/057-diode.png",
+      "source_page": 57,
+      "crop_bounds": [
+        75,
+        285,
+        250,
+        425
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "دیود",
+      "alt": "دو جهت دیود در مدار"
+    },
+    {
+      "file": "assets/057-led.png",
+      "source_page": 57,
+      "crop_bounds": [
+        50,
+        435,
+        250,
+        675
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "LED",
+      "alt": "دیودهای نورگسیل و نماد"
+    },
+    {
+      "file": "assets/058-slide.png",
+      "source_page": 58,
+      "crop_bounds": [
+        410,
+        55,
+        535,
+        265
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۱۳",
+      "alt": "سرسرۀ آبی"
+    },
+    {
+      "file": "assets/058-pump.png",
+      "source_page": 58,
+      "crop_bounds": [
+        100,
+        230,
+        355,
+        390
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۱۴",
+      "alt": "تلمبۀ آب و باتری"
+    },
+    {
+      "file": "assets/058-circuit.png",
+      "source_page": 58,
+      "crop_bounds": [
+        410,
+        445,
+        535,
+        590
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۱۵",
+      "alt": "مدار ساده"
+    },
+    {
+      "file": "assets/059-activity.png",
+      "source_page": 59,
+      "crop_bounds": [
+        70,
+        65,
+        175,
+        185
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "فعالیت ۲ـ۲",
+      "alt": "مدار باتری و ولت‌سنج"
+    },
+    {
+      "file": "assets/059-fig16.png",
+      "source_page": 59,
+      "crop_bounds": [
+        190,
+        390,
+        500,
+        455
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۱۶",
+      "alt": "منبع آرمانی و واقعی"
+    },
+    {
+      "file": "assets/059-fig17.png",
+      "source_page": 59,
+      "crop_bounds": [
+        40,
+        505,
+        155,
+        665
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۱۷",
+      "alt": "باتری واقعی و مقاومت"
+    },
+    {
+      "file": "assets/060-fish.png",
+      "source_page": 60,
+      "crop_bounds": [
+        55,
+        80,
+        265,
+        220
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "ماهی الکتریکی",
+      "alt": "ماهی تورپیدو"
+    },
+    {
+      "file": "assets/061-example.png",
+      "source_page": 61,
+      "crop_bounds": [
+        50,
+        75,
+        175,
+        210
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مثال ۲ـ۴",
+      "alt": "مدار باتری و مقاومت"
+    },
+    {
+      "file": "assets/061-activity.png",
+      "source_page": 61,
+      "crop_bounds": [
+        60,
+        265,
+        185,
+        345
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "فعالیت ۲ـ۳",
+      "alt": "مدار اندازه‌گیری مقاومت داخلی"
+    },
+    {
+      "file": "assets/061-fig18.png",
+      "source_page": 61,
+      "crop_bounds": [
+        15,
+        455,
+        160,
+        560
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۱۸",
+      "alt": "بخشی از مدار"
+    },
+    {
+      "file": "assets/062-joule.png",
+      "source_page": 62,
+      "crop_bounds": [
+        65,
+        525,
+        295,
+        695
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "فعالیت ۲ـ۴",
+      "alt": "اسباب آزمایش قانون ژول"
+    },
+    {
+      "file": "assets/063-activity.png",
+      "source_page": 63,
+      "crop_bounds": [
+        60,
+        75,
+        240,
+        225
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "فعالیت ۲ـ۵",
+      "alt": "اندازه‌گیری مقاومت لامپ"
+    },
+    {
+      "file": "assets/063-example.png",
+      "source_page": 63,
+      "crop_bounds": [
+        45,
+        275,
+        215,
+        360
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مثال ۲ـ۶",
+      "alt": "مدار باتری و مقاومت"
+    },
+    {
+      "file": "assets/064-fig19.png",
+      "source_page": 64,
+      "crop_bounds": [
+        410,
+        55,
+        525,
+        190
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۱۹",
+      "alt": "سه مقاومت متوالی"
+    },
+    {
+      "file": "assets/064-fig20.png",
+      "source_page": 64,
+      "crop_bounds": [
+        410,
+        255,
+        525,
+        375
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۲۰",
+      "alt": "مدار معادل"
+    },
+    {
+      "file": "assets/064-exercise.png",
+      "source_page": 64,
+      "crop_bounds": [
+        55,
+        580,
+        190,
+        695
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "تمرین ۲ـ۳",
+      "alt": "مدار سه مقاومت"
+    },
+    {
+      "file": "assets/065-example.png",
+      "source_page": 65,
+      "crop_bounds": [
+        45,
+        70,
+        180,
+        180
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مثال ۲ـ۷",
+      "alt": "مدار اندازه‌گیری مقاومت"
+    },
+    {
+      "file": "assets/065-fig21.png",
+      "source_page": 65,
+      "crop_bounds": [
+        25,
+        315,
+        160,
+        465
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۲۱",
+      "alt": "سه مقاومت موازی"
+    },
+    {
+      "file": "assets/066-fig22.png",
+      "source_page": 66,
+      "crop_bounds": [
+        410,
+        45,
+        525,
+        150
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۲۲",
+      "alt": "مدار معادل"
+    },
+    {
+      "file": "assets/066-pipes.png",
+      "source_page": 66,
+      "crop_bounds": [
+        320,
+        195,
+        550,
+        360
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۲۳",
+      "alt": "لوله‌های موازی و لولۀ معادل"
+    },
+    {
+      "file": "assets/066-example.png",
+      "source_page": 66,
+      "crop_bounds": [
+        45,
+        395,
+        190,
+        490
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مثال ۲ـ۸",
+      "alt": "دو مقاومت موازی"
+    },
+    {
+      "file": "assets/067-example.png",
+      "source_page": 67,
+      "crop_bounds": [
+        45,
+        70,
+        175,
+        240
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مثال ۲ـ۹",
+      "alt": "دو مدار مقاومت"
+    },
+    {
+      "file": "assets/067-exercise.png",
+      "source_page": 67,
+      "crop_bounds": [
+        45,
+        430,
+        175,
+        560
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "تمرین ۲ـ۴",
+      "alt": "مدار سه مقاومت موازی"
+    },
+    {
+      "file": "assets/068-house.png",
+      "source_page": 68,
+      "crop_bounds": [
+        45,
+        55,
+        185,
+        315
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مثال ۲ـ۱۰",
+      "alt": "سیم‌کشی خانگی و وسایل"
+    },
+    {
+      "file": "assets/069-example.png",
+      "source_page": 69,
+      "crop_bounds": [
+        40,
+        170,
+        245,
+        275
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مثال ۲ـ۱۱",
+      "alt": "مدار ترکیبی"
+    },
+    {
+      "file": "assets/069-equivalent.png",
+      "source_page": 69,
+      "crop_bounds": [
+        45,
+        405,
+        200,
+        530
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "",
+      "alt": "مدار معادل"
+    },
+    {
+      "file": "assets/070-q1.png",
+      "source_page": 70,
+      "crop_bounds": [
+        300,
+        95,
+        510,
+        275
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مسئله ۱",
+      "alt": "سه اتصال باتری و لامپ"
+    },
+    {
+      "file": "assets/070-q2.png",
+      "source_page": 70,
+      "crop_bounds": [
+        310,
+        350,
+        500,
+        415
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مسئله ۲",
+      "alt": "مدار لامپ"
+    },
+    {
+      "file": "assets/070-q3.png",
+      "source_page": 70,
+      "crop_bounds": [
+        290,
+        480,
+        515,
+        620
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مسئله ۳",
+      "alt": "دریل و دو نوع اتصال"
+    },
+    {
+      "file": "assets/070-q6.png",
+      "source_page": 70,
+      "crop_bounds": [
+        95,
+        380,
+        195,
+        460
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مسئله ۶",
+      "alt": "نمودار جریان ولتاژ"
+    },
+    {
+      "file": "assets/071-mower.png",
+      "source_page": 71,
+      "crop_bounds": [
+        310,
+        115,
+        495,
+        215
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مسئله ۸",
+      "alt": "ماشین چمن‌زنی"
+    },
+    {
+      "file": "assets/071-q9.png",
+      "source_page": 71,
+      "crop_bounds": [
+        280,
+        355,
+        540,
+        435
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مسئله ۹",
+      "alt": "مشابهت مکانیکی مدار"
+    },
+    {
+      "file": "assets/071-q11.png",
+      "source_page": 71,
+      "crop_bounds": [
+        315,
+        585,
+        480,
+        705
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مسئله ۱۱",
+      "alt": "مدار باتری و اندازه‌گیرها"
+    },
+    {
+      "file": "assets/071-appliances.png",
+      "source_page": 71,
+      "crop_bounds": [
+        55,
+        250,
+        260,
+        350
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مسئله ۱۳",
+      "alt": "کتری و اتوی برقی"
+    },
+    {
+      "file": "assets/071-q15.png",
+      "source_page": 71,
+      "crop_bounds": [
+        105,
+        605,
+        220,
+        705
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مسئله ۱۵",
+      "alt": "مدار مقاومت متغیر"
+    },
+    {
+      "file": "assets/072-q18.png",
+      "source_page": 72,
+      "crop_bounds": [
+        280,
+        330,
+        405,
+        460
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مسئله ۱۸",
+      "alt": "چهار لامپ موازی"
+    },
+    {
+      "file": "assets/072-q20.png",
+      "source_page": 72,
+      "crop_bounds": [
+        285,
+        585,
+        515,
+        690
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مسئله ۲۰",
+      "alt": "سه مدار مقاومت"
+    },
+    {
+      "file": "assets/072-q23.png",
+      "source_page": 72,
+      "crop_bounds": [
+        70,
+        225,
+        245,
+        340
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مسئله ۲۳",
+      "alt": "سه لامپ و کلید"
+    },
+    {
+      "file": "assets/072-q24.png",
+      "source_page": 72,
+      "crop_bounds": [
+        65,
+        395,
+        255,
+        490
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مسئله ۲۴",
+      "alt": "سه لامپ و کلید"
+    },
+    {
+      "file": "assets/073-card.png",
+      "source_page": 73,
+      "crop_bounds": [
+        0,
+        160,
+        565,
+        540
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "فصل ۳",
+      "alt": "کارت بانکی و دستگاه کارت‌خوان"
+    },
+    {
+      "file": "assets/074-lodestone.png",
+      "source_page": 74,
+      "crop_bounds": [
+        410,
+        50,
+        545,
+        225
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۱",
+      "alt": "سنگ آهنربای طبیعی"
+    },
+    {
+      "file": "assets/074-compass.png",
+      "source_page": 74,
+      "crop_bounds": [
+        410,
+        230,
+        545,
+        375
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۲",
+      "alt": "قطب‌نمای قدیمی"
+    },
+    {
+      "file": "assets/074-poles.png",
+      "source_page": 74,
+      "crop_bounds": [
+        410,
+        400,
+        545,
+        500
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۳",
+      "alt": "براده در قطب‌های آهنربا"
+    },
+    {
+      "file": "assets/074-needle.png",
+      "source_page": 74,
+      "crop_bounds": [
+        410,
+        510,
+        545,
+        690
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۴",
+      "alt": "آهنربا کردن سوزن"
+    },
+    {
+      "file": "assets/075-question.png",
+      "source_page": 75,
+      "crop_bounds": [
+        55,
+        70,
+        420,
+        245
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۳ـ۲",
+      "alt": "قطعه‌قطعه کردن آهنربا و القای مغناطیسی"
+    },
+    {
+      "file": "assets/075-cells.png",
+      "source_page": 75,
+      "crop_bounds": [
+        55,
+        285,
+        185,
+        405
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "نانوذره‌های مغناطیسی",
+      "alt": "تصویر میکروسکوپی یاخته‌ها"
+    },
+    {
+      "file": "assets/075-fig5.png",
+      "source_page": 75,
+      "crop_bounds": [
+        50,
+        430,
+        180,
+        580
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۵",
+      "alt": "جذب میخ به آهنربا"
+    },
+    {
+      "file": "assets/075-activity.png",
+      "source_page": 75,
+      "crop_bounds": [
+        55,
+        590,
+        185,
+        705
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "فعالیت ۳ـ۱",
+      "alt": "آهنربا و عقربۀ مغناطیسی"
+    },
+    {
+      "file": "assets/076-fig6.png",
+      "source_page": 76,
+      "crop_bounds": [
+        65,
+        195,
+        390,
+        320
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۶",
+      "alt": "جهت و خطوط میدان آهنربا"
+    },
+    {
+      "file": "assets/076-question.png",
+      "source_page": 76,
+      "crop_bounds": [
+        55,
+        335,
+        210,
+        535
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۳ـ۳",
+      "alt": "آهنربا و خطوط میدان"
+    },
+    {
+      "file": "assets/076-activity.png",
+      "source_page": 76,
+      "crop_bounds": [
+        60,
+        570,
+        195,
+        705
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "فعالیت ۳ـ۲",
+      "alt": "مسیر عقربه دور آهنربا"
+    },
+    {
+      "file": "assets/077-experiment.png",
+      "source_page": 77,
+      "crop_bounds": [
+        45,
+        210,
+        325,
+        385
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "آزمایش ۳ـ۱",
+      "alt": "برادۀ آهن اطراف آهنرباها"
+    },
+    {
+      "file": "assets/077-earth.png",
+      "source_page": 77,
+      "crop_bounds": [
+        45,
+        420,
+        215,
+        680
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۷",
+      "alt": "میدان مغناطیسی زمین"
+    },
+    {
+      "file": "assets/078-animals.png",
+      "source_page": 78,
+      "crop_bounds": [
+        145,
+        400,
+        435,
+        530
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "جهت‌یابی جانداران",
+      "alt": "خرچنگ و باکتری"
+    },
+    {
+      "file": "assets/078-fig8.png",
+      "source_page": 78,
+      "crop_bounds": [
+        355,
+        530,
+        530,
+        650
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۸",
+      "alt": "میدان آهنربای C شکل"
+    },
+    {
+      "file": "assets/079-fig9.png",
+      "source_page": 79,
+      "crop_bounds": [
+        155,
+        235,
+        535,
+        375
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۹",
+      "alt": "قاعدۀ دست راست"
+    },
+    {
+      "file": "assets/079-fig10.png",
+      "source_page": 79,
+      "crop_bounds": [
+        15,
+        450,
+        155,
+        620
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۱۰",
+      "alt": "نیروی عمود بر سرعت و میدان"
+    },
+    {
+      "file": "assets/079-tesla.png",
+      "source_page": 79,
+      "crop_bounds": [
+        60,
+        55,
+        130,
+        140
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "",
+      "alt": "پرترۀ تسلا"
+    },
+    {
+      "file": "assets/080-example.png",
+      "source_page": 80,
+      "crop_bounds": [
+        55,
+        185,
+        175,
+        340
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مثال ۳ـ۱",
+      "alt": "بردارهای سرعت، میدان و نیرو"
+    },
+    {
+      "file": "assets/080-question.png",
+      "source_page": 80,
+      "crop_bounds": [
+        55,
+        445,
+        510,
+        670
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۳ـ۴",
+      "alt": "جهت نیرو، سرعت و میدان"
+    },
+    {
+      "file": "assets/080-gauss.png",
+      "source_page": 80,
+      "crop_bounds": [
+        430,
+        50,
+        520,
+        155
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "",
+      "alt": "پرترۀ گاوس"
+    },
+    {
+      "file": "assets/081-q2.png",
+      "source_page": 81,
+      "crop_bounds": [
+        55,
+        125,
+        265,
+        195
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "تمرین ۳ـ۱، سؤال ۲",
+      "alt": "سه ذره در میدان"
+    },
+    {
+      "file": "assets/081-q3.png",
+      "source_page": 81,
+      "crop_bounds": [
+        65,
+        210,
+        150,
+        320
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "تمرین ۳ـ۱، سؤال ۳",
+      "alt": "جهت سرعت و نیرو"
+    },
+    {
+      "file": "assets/081-motor.png",
+      "source_page": 81,
+      "crop_bounds": [
+        150,
+        515,
+        515,
+        690
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۱۱",
+      "alt": "طرح موتور الکتریکی"
+    },
+    {
+      "file": "assets/082-experiment.png",
+      "source_page": 82,
+      "crop_bounds": [
+        85,
+        220,
+        440,
+        385
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "آزمایش ۳ـ۲",
+      "alt": "وسایل بررسی نیروی سیم حامل جریان"
+    },
+    {
+      "file": "assets/082-fig12.png",
+      "source_page": 82,
+      "crop_bounds": [
+        45,
+        510,
+        505,
+        700
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۱۲",
+      "alt": "نیروی سیم و قاعدۀ دست راست"
+    },
+    {
+      "file": "assets/083-fig13.png",
+      "source_page": 83,
+      "crop_bounds": [
+        45,
+        50,
+        195,
+        205
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۱۳",
+      "alt": "سیم در میدان"
+    },
+    {
+      "file": "assets/083-question.png",
+      "source_page": 83,
+      "crop_bounds": [
+        55,
+        270,
+        185,
+        435
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۳ـ۵",
+      "alt": "میلۀ رسانا در آهنربا"
+    },
+    {
+      "file": "assets/083-exercise.png",
+      "source_page": 83,
+      "crop_bounds": [
+        115,
+        660,
+        355,
+        705
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "تمرین ۳ـ۲",
+      "alt": "سیم و میدان زمین"
+    },
+    {
+      "file": "assets/084-exercise.png",
+      "source_page": 84,
+      "crop_bounds": [
+        55,
+        55,
+        245,
+        160
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "تمرین ۳ـ۲",
+      "alt": "سیم CD در میدان"
+    },
+    {
+      "file": "assets/084-compasses.png",
+      "source_page": 84,
+      "crop_bounds": [
+        130,
+        490,
+        330,
+        700
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۱۴",
+      "alt": "عقربه‌ها پیرامون سیم"
+    },
+    {
+      "file": "assets/084-oersted.png",
+      "source_page": 84,
+      "crop_bounds": [
+        425,
+        285,
+        515,
+        385
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "",
+      "alt": "پرترۀ اورستد"
+    },
+    {
+      "file": "assets/085-experiment.png",
+      "source_page": 85,
+      "crop_bounds": [
+        45,
+        135,
+        235,
+        285
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "آزمایش ۳ـ۳",
+      "alt": "سیم و قطب‌نماها"
+    },
+    {
+      "file": "assets/085-fig15.png",
+      "source_page": 85,
+      "crop_bounds": [
+        35,
+        380,
+        155,
+        550
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۱۵",
+      "alt": "قاعدۀ دست راست"
+    },
+    {
+      "file": "assets/085-question.png",
+      "source_page": 85,
+      "crop_bounds": [
+        60,
+        575,
+        245,
+        690
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۳ـ۶",
+      "alt": "میدان اطراف سیم"
+    },
+    {
+      "file": "assets/086-q1.png",
+      "source_page": 86,
+      "crop_bounds": [
+        55,
+        65,
+        250,
+        175
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۳ـ۷، سؤال ۱",
+      "alt": "میدان اطراف سیم"
+    },
+    {
+      "file": "assets/086-q2.png",
+      "source_page": 86,
+      "crop_bounds": [
+        65,
+        190,
+        245,
+        290
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۳ـ۷، سؤال ۲",
+      "alt": "مدار قطب‌نما"
+    },
+    {
+      "file": "assets/086-q3.png",
+      "source_page": 86,
+      "crop_bounds": [
+        65,
+        305,
+        245,
+        390
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۳ـ۷، سؤال ۳",
+      "alt": "دو سیم موازی"
+    },
+    {
+      "file": "assets/086-squid.png",
+      "source_page": 86,
+      "crop_bounds": [
+        55,
+        455,
+        240,
+        590
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "میدان‌های بدن",
+      "alt": "دستگاه اسکوئید"
+    },
+    {
+      "file": "assets/087-fig16.png",
+      "source_page": 87,
+      "crop_bounds": [
+        180,
+        205,
+        490,
+        445
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۱۶",
+      "alt": "نیرو بین دو سیم موازی"
+    },
+    {
+      "file": "assets/087-fig17.png",
+      "source_page": 87,
+      "crop_bounds": [
+        160,
+        555,
+        520,
+        710
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۱۷",
+      "alt": "میدان حلقه حامل جریان"
+    },
+    {
+      "file": "assets/088-fig18.png",
+      "source_page": 88,
+      "crop_bounds": [
+        45,
+        115,
+        405,
+        275
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۱۸",
+      "alt": "میدان حلقه و آهنربا"
+    },
+    {
+      "file": "assets/088-question.png",
+      "source_page": 88,
+      "crop_bounds": [
+        55,
+        300,
+        210,
+        375
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۳ـ۸",
+      "alt": "حلقه و جهت میدان"
+    },
+    {
+      "file": "assets/088-speaker.png",
+      "source_page": 88,
+      "crop_bounds": [
+        60,
+        520,
+        465,
+        680
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "طرز کار بلندگو",
+      "alt": "اجزای بلندگو"
+    },
+    {
+      "file": "assets/089-coil.png",
+      "source_page": 89,
+      "crop_bounds": [
+        55,
+        55,
+        150,
+        185
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۱۹",
+      "alt": "پیچه"
+    },
+    {
+      "file": "assets/089-solenoid.png",
+      "source_page": 89,
+      "crop_bounds": [
+        35,
+        295,
+        520,
+        400
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۲۰",
+      "alt": "میدان سیم‌لوله"
+    },
+    {
+      "file": "assets/090-question.png",
+      "source_page": 90,
+      "crop_bounds": [
+        50,
+        155,
+        270,
+        250
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۳ـ۹",
+      "alt": "سیم‌لوله و آهنربای آویزان"
+    },
+    {
+      "file": "assets/090-activity.png",
+      "source_page": 90,
+      "crop_bounds": [
+        135,
+        330,
+        445,
+        470
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "فعالیت ۳ـ۵",
+      "alt": "طرح میدان‌های مغناطیسی"
+    },
+    {
+      "file": "assets/090-electromagnet.png",
+      "source_page": 90,
+      "crop_bounds": [
+        405,
+        475,
+        515,
+        705
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۲۱",
+      "alt": "سیم‌لوله و آهنربای صنعتی"
+    },
+    {
+      "file": "assets/091-activity6.png",
+      "source_page": 91,
+      "crop_bounds": [
+        50,
+        75,
+        340,
+        220
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "فعالیت ۳ـ۶",
+      "alt": "آهنربای الکتریکی"
+    },
+    {
+      "file": "assets/091-fig22.png",
+      "source_page": 91,
+      "crop_bounds": [
+        15,
+        310,
+        155,
+        495
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۲۲",
+      "alt": "دوقطبی‌های پارامغناطیسی"
+    },
+    {
+      "file": "assets/091-activity7.png",
+      "source_page": 91,
+      "crop_bounds": [
+        50,
+        620,
+        200,
+        700
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "فعالیت ۳ـ۷",
+      "alt": "آهنربا و لولۀ آزمایش"
+    },
+    {
+      "file": "assets/092-domains.png",
+      "source_page": 92,
+      "crop_bounds": [
+        45,
+        375,
+        460,
+        500
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۲۳",
+      "alt": "حوزه‌های مغناطیسی در میدان‌های مختلف"
+    },
+    {
+      "file": "assets/093-question.png",
+      "source_page": 93,
+      "crop_bounds": [
+        48.0,
+        72.0,
+        205.0,
+        200.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۳ـ۱۰",
+      "alt": "پرسش ۳ـ۱۰"
+    },
+    {
+      "file": "assets/093-experiment.png",
+      "source_page": 93,
+      "crop_bounds": [
+        48.0,
+        467.0,
+        245.0,
+        649.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "آزمایش ۳ـ۴",
+      "alt": "آزمایش ۳ـ۴"
+    },
+    {
+      "file": "assets/094-faraday.png",
+      "source_page": 94,
+      "crop_bounds": [
+        232.0,
+        160.0,
+        406.0,
+        278.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۲۴",
+      "alt": "شکل ۳ـ۲۴"
+    },
+    {
+      "file": "assets/094-area.png",
+      "source_page": 94,
+      "crop_bounds": [
+        72.0,
+        408.0,
+        390.0,
+        533.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۲۵",
+      "alt": "شکل ۳ـ۲۵"
+    },
+    {
+      "file": "assets/094-rotation.png",
+      "source_page": 94,
+      "crop_bounds": [
+        72.0,
+        550.0,
+        390.0,
+        670.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۲۶",
+      "alt": "شکل ۳ـ۲۶"
+    },
+    {
+      "file": "assets/095-flux.png",
+      "source_page": 95,
+      "crop_bounds": [
+        10.0,
+        75.0,
+        150.0,
+        235.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۲۷",
+      "alt": "شکل ۳ـ۲۷"
+    },
+    {
+      "file": "assets/095-example.png",
+      "source_page": 95,
+      "crop_bounds": [
+        110.0,
+        585.0,
+        460.0,
+        720.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مثال ۳ـ۴",
+      "alt": "مثال ۳ـ۴"
+    },
+    {
+      "file": "assets/096-exercise.png",
+      "source_page": 96,
+      "crop_bounds": [
+        150.0,
+        425.0,
+        410.0,
+        510.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "تمرین ۳ـ۴",
+      "alt": "تمرین ۳ـ۴"
+    },
+    {
+      "file": "assets/097-example.png",
+      "source_page": 97,
+      "crop_bounds": [
+        45.0,
+        365.0,
+        135.0,
+        488.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مثال ۳ـ۵",
+      "alt": "مثال ۳ـ۵"
+    },
+    {
+      "file": "assets/098-graph.png",
+      "source_page": 98,
+      "crop_bounds": [
+        50.0,
+        70.0,
+        230.0,
+        143.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مثال ۳ـ۶",
+      "alt": "مثال ۳ـ۶"
+    },
+    {
+      "file": "assets/098-exercise.png",
+      "source_page": 98,
+      "crop_bounds": [
+        55.0,
+        278.0,
+        205.0,
+        424.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "تمرین ۳ـ۵",
+      "alt": "تمرین ۳ـ۵"
+    },
+    {
+      "file": "assets/098-bicycle.png",
+      "source_page": 98,
+      "crop_bounds": [
+        48.0,
+        557.0,
+        190.0,
+        694.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۳ـ۱۲",
+      "alt": "پرسش ۳ـ۱۲"
+    },
+    {
+      "file": "assets/099-card.png",
+      "source_page": 99,
+      "crop_bounds": [
+        150.0,
+        180.0,
+        455.0,
+        310.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "کارت اعتباری و کارت‌خوان",
+      "alt": "کارت اعتباری و کارت‌خوان"
+    },
+    {
+      "file": "assets/099-tms.png",
+      "source_page": 99,
+      "crop_bounds": [
+        50.0,
+        340.0,
+        210.0,
+        485.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "معاینۀ مغز",
+      "alt": "معاینۀ مغز"
+    },
+    {
+      "file": "assets/100-lenz.png",
+      "source_page": 100,
+      "crop_bounds": [
+        45.0,
+        215.0,
+        405.0,
+        335.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۲۸",
+      "alt": "شکل ۳ـ۲۸"
+    },
+    {
+      "file": "assets/100-questions.png",
+      "source_page": 100,
+      "crop_bounds": [
+        45.0,
+        410.0,
+        265.0,
+        705.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۳ـ۱۳",
+      "alt": "پرسش ۳ـ۱۳"
+    },
+    {
+      "file": "assets/101-loop.png",
+      "source_page": 101,
+      "crop_bounds": [
+        55.0,
+        60.0,
+        255.0,
+        170.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۳ـ۱۳",
+      "alt": "پرسش ۳ـ۱۳"
+    },
+    {
+      "file": "assets/101-inductors.png",
+      "source_page": 101,
+      "crop_bounds": [
+        305.0,
+        560.0,
+        470.0,
+        705.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۲۹",
+      "alt": "شکل ۳ـ۲۹"
+    },
+    {
+      "file": "assets/102-circuit.png",
+      "source_page": 102,
+      "crop_bounds": [
+        410.0,
+        50.0,
+        552.0,
+        180.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۳۰",
+      "alt": "شکل ۳ـ۳۰"
+    },
+    {
+      "file": "assets/102-experiment.png",
+      "source_page": 102,
+      "crop_bounds": [
+        50.0,
+        215.0,
+        240.0,
+        450.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "آزمایش ۳ـ۵",
+      "alt": "آزمایش ۳ـ۵"
+    },
+    {
+      "file": "assets/103-mutual.png",
+      "source_page": 103,
+      "crop_bounds": [
+        210.0,
+        210.0,
+        515.0,
+        355.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "القای متقابل",
+      "alt": "القای متقابل"
+    },
+    {
+      "file": "assets/103-board.png",
+      "source_page": 103,
+      "crop_bounds": [
+        60.0,
+        360.0,
+        210.0,
+        470.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "القاگرهای مجاور",
+      "alt": "القاگرهای مجاور"
+    },
+    {
+      "file": "assets/104-components.png",
+      "source_page": 104,
+      "crop_bounds": [
+        400.0,
+        55.0,
+        550.0,
+        180.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۳۱",
+      "alt": "شکل ۳ـ۳۱"
+    },
+    {
+      "file": "assets/104-spark.png",
+      "source_page": 104,
+      "crop_bounds": [
+        50.0,
+        535.0,
+        180.0,
+        650.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شمع خودرو",
+      "alt": "شمع خودرو"
+    },
+    {
+      "file": "assets/105-circuits.png",
+      "source_page": 105,
+      "crop_bounds": [
+        45.0,
+        55.0,
+        150.0,
+        205.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۳۲",
+      "alt": "شکل ۳ـ۳۲"
+    },
+    {
+      "file": "assets/105-sine.png",
+      "source_page": 105,
+      "crop_bounds": [
+        45.0,
+        310.0,
+        160.0,
+        410.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۳۳",
+      "alt": "شکل ۳ـ۳۳"
+    },
+    {
+      "file": "assets/105-generator.png",
+      "source_page": 105,
+      "crop_bounds": [
+        255.0,
+        390.0,
+        510.0,
+        550.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۳۴",
+      "alt": "شکل ۳ـ۳۴"
+    },
+    {
+      "file": "assets/106-wave.png",
+      "source_page": 106,
+      "crop_bounds": [
+        400.0,
+        55.0,
+        550.0,
+        175.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۳۵",
+      "alt": "شکل ۳ـ۳۵"
+    },
+    {
+      "file": "assets/106-generator.png",
+      "source_page": 106,
+      "crop_bounds": [
+        45.0,
+        320.0,
+        390.0,
+        470.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۳۶",
+      "alt": "شکل ۳ـ۳۶"
+    },
+    {
+      "file": "assets/106-example.png",
+      "source_page": 106,
+      "crop_bounds": [
+        55.0,
+        505.0,
+        280.0,
+        625.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "مثال ۳ـ۸",
+      "alt": "مثال ۳ـ۸"
+    },
+    {
+      "file": "assets/107-transmission.png",
+      "source_page": 107,
+      "crop_bounds": [
+        160.0,
+        360.0,
+        525.0,
+        500.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۳۷",
+      "alt": "شکل ۳ـ۳۷"
+    },
+    {
+      "file": "assets/108-q1.png",
+      "source_page": 108,
+      "crop_bounds": [
+        315.0,
+        130.0,
+        500.0,
+        235.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۱",
+      "alt": "پرسش ۱"
+    },
+    {
+      "file": "assets/108-q2.png",
+      "source_page": 108,
+      "crop_bounds": [
+        300.0,
+        355.0,
+        515.0,
+        465.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۲",
+      "alt": "پرسش ۲"
+    },
+    {
+      "file": "assets/108-q3.png",
+      "source_page": 108,
+      "crop_bounds": [
+        310.0,
+        520.0,
+        530.0,
+        705.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۳",
+      "alt": "پرسش ۳"
+    },
+    {
+      "file": "assets/108-q4.png",
+      "source_page": 108,
+      "crop_bounds": [
+        75.0,
+        315.0,
+        240.0,
+        450.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۴",
+      "alt": "پرسش ۴"
+    },
+    {
+      "file": "assets/108-q5.png",
+      "source_page": 108,
+      "crop_bounds": [
+        50.0,
+        510.0,
+        270.0,
+        675.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۵",
+      "alt": "پرسش ۵"
+    },
+    {
+      "file": "assets/109-q6.png",
+      "source_page": 109,
+      "crop_bounds": [
+        330.0,
+        130.0,
+        490.0,
+        225.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۶",
+      "alt": "پرسش ۶"
+    },
+    {
+      "file": "assets/109-q8.png",
+      "source_page": 109,
+      "crop_bounds": [
+        300.0,
+        470.0,
+        500.0,
+        570.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۸",
+      "alt": "پرسش ۸"
+    },
+    {
+      "file": "assets/109-q9.png",
+      "source_page": 109,
+      "crop_bounds": [
+        55.0,
+        45.0,
+        260.0,
+        180.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۹ بخش ب و پ",
+      "alt": "پرسش ۹ بخش ب و پ"
+    },
+    {
+      "file": "assets/109-q10.png",
+      "source_page": 109,
+      "crop_bounds": [
+        45.0,
+        370.0,
+        255.0,
+        525.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۱۰",
+      "alt": "پرسش ۱۰"
+    },
+    {
+      "file": "assets/109-q11.png",
+      "source_page": 109,
+      "crop_bounds": [
+        95.0,
+        605.0,
+        245.0,
+        710.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۱۱",
+      "alt": "پرسش ۱۱"
+    },
+    {
+      "file": "assets/109-q9a.png",
+      "source_page": 109,
+      "crop_bounds": [
+        320.0,
+        640.0,
+        490.0,
+        710.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۹ بخش الف",
+      "alt": "پرسش ۹ بخش الف"
+    },
+    {
+      "file": "assets/110-q12.png",
+      "source_page": 110,
+      "crop_bounds": [
+        305.0,
+        125.0,
+        505.0,
+        195.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۱۲",
+      "alt": "پرسش ۱۲"
+    },
+    {
+      "file": "assets/110-q14.png",
+      "source_page": 110,
+      "crop_bounds": [
+        315.0,
+        410.0,
+        495.0,
+        600.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۱۴",
+      "alt": "پرسش ۱۴"
+    },
+    {
+      "file": "assets/110-q15.png",
+      "source_page": 110,
+      "crop_bounds": [
+        90.0,
+        55.0,
+        260.0,
+        180.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۱۵",
+      "alt": "پرسش ۱۵"
+    },
+    {
+      "file": "assets/110-q16.png",
+      "source_page": 110,
+      "crop_bounds": [
+        20.0,
+        230.0,
+        290.0,
+        440.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۱۶",
+      "alt": "پرسش ۱۶"
+    },
+    {
+      "file": "assets/110-q17.png",
+      "source_page": 110,
+      "crop_bounds": [
+        45.0,
+        535.0,
+        245.0,
+        710.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۱۷",
+      "alt": "پرسش ۱۷"
+    },
+    {
+      "file": "assets/111-q18.png",
+      "source_page": 111,
+      "crop_bounds": [
+        300.0,
+        130.0,
+        490.0,
+        300.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۱۸",
+      "alt": "پرسش ۱۸"
+    },
+    {
+      "file": "assets/111-q19.png",
+      "source_page": 111,
+      "crop_bounds": [
+        320.0,
+        460.0,
+        460.0,
+        635.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۱۹",
+      "alt": "پرسش ۱۹"
+    },
+    {
+      "file": "assets/111-q21.png",
+      "source_page": 111,
+      "crop_bounds": [
+        100.0,
+        190.0,
+        230.0,
+        305.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۲۱",
+      "alt": "پرسش ۲۱"
+    },
+    {
+      "file": "assets/111-q22.png",
+      "source_page": 111,
+      "crop_bounds": [
+        70.0,
+        440.0,
+        240.0,
+        555.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۲۲",
+      "alt": "پرسش ۲۲"
+    },
+    {
+      "file": "assets/111-q23.png",
+      "source_page": 111,
+      "crop_bounds": [
+        45.0,
+        605.0,
+        270.0,
+        695.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۲۳",
+      "alt": "پرسش ۲۳"
+    },
+    {
+      "file": "assets/112-q24.png",
+      "source_page": 112,
+      "crop_bounds": [
+        320.0,
+        100.0,
+        510.0,
+        180.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۲۴",
+      "alt": "پرسش ۲۴"
+    },
+    {
+      "file": "assets/112-q25.png",
+      "source_page": 112,
+      "crop_bounds": [
+        295.0,
+        185.0,
+        395.0,
+        300.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۲۵",
+      "alt": "پرسش ۲۵"
+    },
+    {
+      "file": "assets/112-q26.png",
+      "source_page": 112,
+      "crop_bounds": [
+        320.0,
+        400.0,
+        480.0,
+        500.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۲۶",
+      "alt": "پرسش ۲۶"
+    },
+    {
+      "file": "assets/112-q27.png",
+      "source_page": 112,
+      "crop_bounds": [
+        300.0,
+        555.0,
+        510.0,
+        635.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۲۷",
+      "alt": "پرسش ۲۷"
+    },
+    {
+      "file": "assets/112-q28.png",
+      "source_page": 112,
+      "crop_bounds": [
+        30.0,
+        145.0,
+        290.0,
+        215.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۲۸",
+      "alt": "پرسش ۲۸"
+    },
+    {
+      "file": "assets/112-q29.png",
+      "source_page": 112,
+      "crop_bounds": [
+        70.0,
+        305.0,
+        245.0,
+        390.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۲۹",
+      "alt": "پرسش ۲۹"
+    },
+    {
+      "file": "assets/112-q30.png",
+      "source_page": 112,
+      "crop_bounds": [
+        75.0,
+        495.0,
+        245.0,
+        590.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "پرسش ۳۰",
+      "alt": "پرسش ۳۰"
+    },
+    {
+      "file": "assets/119-qr.png",
+      "source_page": 119,
+      "crop_bounds": [
+        420.0,
+        118.0,
+        465.0,
+        165.0
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "سامانۀ نظرسنجی",
+      "alt": "سامانۀ نظرسنجی"
+    }
+  ],
+  "uncertainties": [],
+  "completed_pages": 119,
+  "status": "complete"
+}

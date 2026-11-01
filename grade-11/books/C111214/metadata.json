@@ -1,0 +1,19 @@
+{
+  "book_code": "C111214",
+  "title": "حسابان (1)",
+  "grade": 11,
+  "branches": [
+    "math"
+  ],
+  "edition": "1405-1406",
+  "language": "fa",
+  "source": {
+    "catalog_url": "http://chap.sch.ir/books/14323",
+    "pdf_url": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/30/C111214.pdf",
+    "sha256": "90df61785a842f60bd2291c7c0c35d2d35b494843ec66fceab474da980337678",
+    "pdf_page_count": 160
+  },
+  "coverage": "complete",
+  "content_review": "not_validated",
+  "pdf_page_count": 160
+}

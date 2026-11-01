@@ -1,0 +1,1896 @@
+{
+  "schema_version": 1,
+  "book": {
+    "title": "زیست شناسی (2)",
+    "grade": 11,
+    "branches": [
+      "science"
+    ],
+    "book_code": "C111216",
+    "edition": "1405-1406",
+    "year": "1405-1406",
+    "language": "fa"
+  },
+  "source": {
+    "catalog_url": "http://chap.sch.ir/books/14331",
+    "pdf_url": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/41/C111216.pdf",
+    "local_pdf": "sources/C111216.pdf",
+    "sha256": "ea24ce40ecafd3f5dbdad5ac0e46984c8fe8d43dab33226bd09bda5c03b3262b",
+    "pdf_page_count": 168,
+    "retrieved_at": null
+  },
+  "pages": [
+    {
+      "pdf_page": 1,
+      "file": "pages/001.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 2,
+      "file": "pages/002.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 3,
+      "file": "pages/003.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 4,
+      "file": "pages/004.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 5,
+      "file": "pages/005.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 6,
+      "file": "pages/006.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 7,
+      "file": "pages/007.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 8,
+      "file": "pages/008.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 9,
+      "file": "pages/009.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 10,
+      "file": "pages/010.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 11,
+      "file": "pages/011.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 12,
+      "file": "pages/012.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 13,
+      "file": "pages/013.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 14,
+      "file": "pages/014.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 15,
+      "file": "pages/015.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 16,
+      "file": "pages/016.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 17,
+      "file": "pages/017.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 18,
+      "file": "pages/018.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 19,
+      "file": "pages/019.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 20,
+      "file": "pages/020.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 21,
+      "file": "pages/021.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 22,
+      "file": "pages/022.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 23,
+      "file": "pages/023.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 24,
+      "file": "pages/024.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 25,
+      "file": "pages/025.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 26,
+      "file": "pages/026.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 27,
+      "file": "pages/027.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 28,
+      "file": "pages/028.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 29,
+      "file": "pages/029.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 30,
+      "file": "pages/030.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 31,
+      "file": "pages/031.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 32,
+      "file": "pages/032.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 33,
+      "file": "pages/033.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 34,
+      "file": "pages/034.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 35,
+      "file": "pages/035.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 36,
+      "file": "pages/036.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 37,
+      "file": "pages/037.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 38,
+      "file": "pages/038.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 39,
+      "file": "pages/039.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 40,
+      "file": "pages/040.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 41,
+      "file": "pages/041.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 42,
+      "file": "pages/042.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 43,
+      "file": "pages/043.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 44,
+      "file": "pages/044.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 45,
+      "file": "pages/045.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 46,
+      "file": "pages/046.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 47,
+      "file": "pages/047.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 48,
+      "file": "pages/048.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 49,
+      "file": "pages/049.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 50,
+      "file": "pages/050.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 51,
+      "file": "pages/051.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 52,
+      "file": "pages/052.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 53,
+      "file": "pages/053.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 54,
+      "file": "pages/054.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 55,
+      "file": "pages/055.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 56,
+      "file": "pages/056.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 57,
+      "file": "pages/057.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 58,
+      "file": "pages/058.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 59,
+      "file": "pages/059.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 60,
+      "file": "pages/060.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 61,
+      "file": "pages/061.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 62,
+      "file": "pages/062.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 63,
+      "file": "pages/063.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 64,
+      "file": "pages/064.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 65,
+      "file": "pages/065.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 66,
+      "file": "pages/066.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 67,
+      "file": "pages/067.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 68,
+      "file": "pages/068.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 69,
+      "file": "pages/069.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 70,
+      "file": "pages/070.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 71,
+      "file": "pages/071.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 72,
+      "file": "pages/072.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 73,
+      "file": "pages/073.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 74,
+      "file": "pages/074.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 75,
+      "file": "pages/075.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 76,
+      "file": "pages/076.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 77,
+      "file": "pages/077.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 78,
+      "file": "pages/078.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 79,
+      "file": "pages/079.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 80,
+      "file": "pages/080.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 81,
+      "file": "pages/081.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 82,
+      "file": "pages/082.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 83,
+      "file": "pages/083.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 84,
+      "file": "pages/084.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 85,
+      "file": "pages/085.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 86,
+      "file": "pages/086.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 87,
+      "file": "pages/087.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 88,
+      "file": "pages/088.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 89,
+      "file": "pages/089.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 90,
+      "file": "pages/090.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 91,
+      "file": "pages/091.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 92,
+      "file": "pages/092.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 93,
+      "file": "pages/093.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 94,
+      "file": "pages/094.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 95,
+      "file": "pages/095.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 96,
+      "file": "pages/096.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 97,
+      "file": "pages/097.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 98,
+      "file": "pages/098.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 99,
+      "file": "pages/099.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 100,
+      "file": "pages/100.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 101,
+      "file": "pages/101.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 102,
+      "file": "pages/102.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 103,
+      "file": "pages/103.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 104,
+      "file": "pages/104.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 105,
+      "file": "pages/105.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 106,
+      "file": "pages/106.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 107,
+      "file": "pages/107.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 108,
+      "file": "pages/108.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 109,
+      "file": "pages/109.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 110,
+      "file": "pages/110.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 111,
+      "file": "pages/111.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 112,
+      "file": "pages/112.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 113,
+      "file": "pages/113.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 114,
+      "file": "pages/114.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 115,
+      "file": "pages/115.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 116,
+      "file": "pages/116.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 117,
+      "file": "pages/117.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 118,
+      "file": "pages/118.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 119,
+      "file": "pages/119.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 120,
+      "file": "pages/120.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 121,
+      "file": "pages/121.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 122,
+      "file": "pages/122.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 123,
+      "file": "pages/123.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 124,
+      "file": "pages/124.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 125,
+      "file": "pages/125.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 126,
+      "file": "pages/126.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 127,
+      "file": "pages/127.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 128,
+      "file": "pages/128.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 129,
+      "file": "pages/129.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 130,
+      "file": "pages/130.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 131,
+      "file": "pages/131.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 132,
+      "file": "pages/132.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 133,
+      "file": "pages/133.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 134,
+      "file": "pages/134.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 135,
+      "file": "pages/135.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 136,
+      "file": "pages/136.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 137,
+      "file": "pages/137.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 138,
+      "file": "pages/138.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 139,
+      "file": "pages/139.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 140,
+      "file": "pages/140.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 141,
+      "file": "pages/141.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 142,
+      "file": "pages/142.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 143,
+      "file": "pages/143.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 144,
+      "file": "pages/144.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 145,
+      "file": "pages/145.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 146,
+      "file": "pages/146.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 147,
+      "file": "pages/147.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 148,
+      "file": "pages/148.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 149,
+      "file": "pages/149.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 150,
+      "file": "pages/150.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 151,
+      "file": "pages/151.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 152,
+      "file": "pages/152.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 153,
+      "file": "pages/153.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 154,
+      "file": "pages/154.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 155,
+      "file": "pages/155.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 156,
+      "file": "pages/156.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 157,
+      "file": "pages/157.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 158,
+      "file": "pages/158.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 159,
+      "file": "pages/159.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 160,
+      "file": "pages/160.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 161,
+      "file": "pages/161.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 162,
+      "file": "pages/162.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 163,
+      "file": "pages/163.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 164,
+      "file": "pages/164.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 165,
+      "file": "pages/165.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 166,
+      "file": "pages/166.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 167,
+      "file": "pages/167.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 168,
+      "file": "pages/168.md",
+      "status": "transcribed"
+    }
+  ],
+  "figures": [
+    {
+      "page": 5,
+      "file": "assets/005-page.png",
+      "crop": "full PDF page rendered 1.5x",
+      "caption": null,
+      "alt": "تصویر امام خمینی"
+    },
+    {
+      "page": 9,
+      "file": "assets/009-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": null,
+      "alt": "ثبت نوار مغزی"
+    },
+    {
+      "page": 10,
+      "file": "assets/010-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱ـ یاخته عصبی؛ شکل ۲ـ الف) غلاف میلین، ب) چگونگی ساخت آن",
+      "alt": "یاخته عصبی و غلاف میلین با برچسب‌ها"
+    },
+    {
+      "page": 11,
+      "file": "assets/011-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۳ـ انواع یاخته‌های عصبی",
+      "alt": "شکل ۳ـ انواع یاخته‌های عصبی"
+    },
+    {
+      "page": 12,
+      "file": "assets/012-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۴ پتانسیل آرامش و شکل ۵ کانال نشتی و پمپ سدیم ـ پتاسیم",
+      "alt": "شکل ۴ پتانسیل آرامش و شکل ۵ کانال نشتی و پمپ سدیم ـ پتاسیم"
+    },
+    {
+      "page": 13,
+      "file": "assets/013-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۶ چگونگی ایجاد پتانسیل عمل",
+      "alt": "شکل ۶ چگونگی ایجاد پتانسیل عمل"
+    },
+    {
+      "page": 14,
+      "file": "assets/014-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۷ هدایت پیام عصبی و شکل ۸ هدایت جهشی",
+      "alt": "شکل ۷ هدایت پیام عصبی و شکل ۸ هدایت جهشی"
+    },
+    {
+      "page": 15,
+      "file": "assets/015-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۹ تصویر همایه و آزاد شدن ناقل عصبی",
+      "alt": "شکل ۹ تصویر همایه و آزاد شدن ناقل عصبی"
+    },
+    {
+      "page": 17,
+      "file": "assets/017-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل‌های ۱۰ تا ۱۲ دستگاه عصبی، برش مغز و نخاع و پرده‌های مننژ",
+      "alt": "شکل‌های ۱۰ تا ۱۲ دستگاه عصبی، برش مغز و نخاع و پرده‌های مننژ"
+    },
+    {
+      "page": 18,
+      "file": "assets/018-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل‌های ۱۳ و ۱۴ بخش‌های مغز و لوب‌های مخ",
+      "alt": "شکل‌های ۱۳ و ۱۴ بخش‌های مغز و لوب‌های مخ"
+    },
+    {
+      "page": 19,
+      "file": "assets/019-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱۵ نیمۀ چپ مغز",
+      "alt": "شکل ۱۵ نیمۀ چپ مغز"
+    },
+    {
+      "page": 20,
+      "file": "assets/020-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱۶ سامانۀ کناره‌ای",
+      "alt": "شکل ۱۶ سامانۀ کناره‌ای"
+    },
+    {
+      "page": 21,
+      "file": "assets/021-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱۷ مصرف گلوکز مغز در فرد سالم و مصرف‌کنندۀ کوکائین",
+      "alt": "شکل ۱۷ مصرف گلوکز مغز در فرد سالم و مصرف‌کنندۀ کوکائین"
+    },
+    {
+      "page": 22,
+      "file": "assets/022-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "سطح پشتی و شکمی مغز و بخش‌های درونی مغز",
+      "alt": "سطح پشتی و شکمی مغز و بخش‌های درونی مغز"
+    },
+    {
+      "page": 23,
+      "file": "assets/023-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱۸ عصب نخاعی و تصویر اعصاب مغزی و نخاعی",
+      "alt": "شکل ۱۸ عصب نخاعی و تصویر اعصاب مغزی و نخاعی"
+    },
+    {
+      "page": 24,
+      "file": "assets/024-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱۹ انعکاس عقب کشیدن دست",
+      "alt": "شکل ۱۹ انعکاس عقب کشیدن دست"
+    },
+    {
+      "page": 25,
+      "file": "assets/025-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "نقش دستگاه آسیمپیک و پادآسیمپیک در اندام‌های بدن",
+      "alt": "نقش دستگاه آسیمپیک و پادآسیمپیک در اندام‌های بدن"
+    },
+    {
+      "page": 26,
+      "file": "assets/026-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۲۰ ساختارهای عصبی هیدر، پلاناریا و ملخ",
+      "alt": "شکل ۲۰ ساختارهای عصبی هیدر، پلاناریا و ملخ"
+    },
+    {
+      "page": 27,
+      "file": "assets/027-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "تصویر مژک‌های یاختۀ گیرندۀ شنوایی با میکروسکوپ الکترونی",
+      "alt": "تصویر مژک‌های یاختۀ گیرندۀ شنوایی با میکروسکوپ الکترونی"
+    },
+    {
+      "page": 28,
+      "file": "assets/028-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱ ایجاد پیام عصبی به وسیلۀ گیرندۀ فشار",
+      "alt": "شکل ۱ ایجاد پیام عصبی به وسیلۀ گیرندۀ فشار"
+    },
+    {
+      "page": 29,
+      "file": "assets/029-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۲ گیرنده‌های پوست",
+      "alt": "شکل ۲ گیرنده‌های پوست"
+    },
+    {
+      "page": 30,
+      "file": "assets/030-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۳ گیرنده‌های حس وضعیت در زردپی",
+      "alt": "شکل ۳ گیرنده‌های حس وضعیت در زردپی"
+    },
+    {
+      "page": 31,
+      "file": "assets/031-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۴ بخش‌های کرۀ چشم و عدسی",
+      "alt": "شکل ۴ بخش‌های کرۀ چشم و عدسی"
+    },
+    {
+      "page": 32,
+      "file": "assets/032-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۵ گیرنده‌های نوری و یاخته‌های عصبی شبکیه",
+      "alt": "شکل ۵ گیرنده‌های نوری و یاخته‌های عصبی شبکیه"
+    },
+    {
+      "page": 33,
+      "file": "assets/033-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۵ مشاهدۀ شبکیه و شکل ۶ تطابق برای دیدن اجسام",
+      "alt": "شکل ۵ مشاهدۀ شبکیه و شکل ۶ تطابق برای دیدن اجسام"
+    },
+    {
+      "page": 34,
+      "file": "assets/034-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۷ اصلاح نزدیک‌بینی و دوربینی",
+      "alt": "شکل ۷ اصلاح نزدیک‌بینی و دوربینی"
+    },
+    {
+      "page": 35,
+      "file": "assets/035-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۸ چشم طبیعی و آستیگمات؛ تصاویر تشریح چشم",
+      "alt": "شکل ۸ چشم طبیعی و آستیگمات؛ تصاویر تشریح چشم"
+    },
+    {
+      "page": 36,
+      "file": "assets/036-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "تصاویر تشریح چشم و لایۀ درخشان چشم گاو",
+      "alt": "تصاویر تشریح چشم و لایۀ درخشان چشم گاو"
+    },
+    {
+      "page": 37,
+      "file": "assets/037-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۹ بخش‌های تشکیل‌دهندۀ گوش",
+      "alt": "شکل ۹ بخش‌های تشکیل‌دهندۀ گوش"
+    },
+    {
+      "page": 38,
+      "file": "assets/038-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱۰ یاخته‌های مژک‌دار حلزون گوش",
+      "alt": "شکل ۱۰ یاخته‌های مژک‌دار حلزون گوش"
+    },
+    {
+      "page": 39,
+      "file": "assets/039-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱۱ گیرنده‌های تعادلی و شکل ۱۲ گیرنده‌های بویایی",
+      "alt": "شکل ۱۱ گیرنده‌های تعادلی و شکل ۱۲ گیرنده‌های بویایی"
+    },
+    {
+      "page": 40,
+      "file": "assets/040-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱۳ گیرنده‌های چشایی و شکل ۱۴ مسیر پیام‌های بینایی",
+      "alt": "شکل ۱۳ گیرنده‌های چشایی و شکل ۱۴ مسیر پیام‌های بینایی"
+    },
+    {
+      "page": 41,
+      "file": "assets/041-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱۵ خط جانبی ماهی و شکل ۱۶ گیرندۀ شیمیایی مگس",
+      "alt": "شکل ۱۵ خط جانبی ماهی و شکل ۱۶ گیرندۀ شیمیایی مگس"
+    },
+    {
+      "page": 42,
+      "file": "assets/042-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱۷ پردۀ صماخ جیرجیرک و شکل ۱۸ چشم مرکب حشرات",
+      "alt": "شکل ۱۷ پردۀ صماخ جیرجیرک و شکل ۱۸ چشم مرکب حشرات"
+    },
+    {
+      "page": 43,
+      "file": "assets/043-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱۹ گیرندۀ فروسرخ مار زنگی و تصویر حرارتی شکار",
+      "alt": "شکل ۱۹ گیرندۀ فروسرخ مار زنگی و تصویر حرارتی شکار"
+    },
+    {
+      "page": 44,
+      "file": "assets/044-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "مغز ماهی و بخش‌های آن",
+      "alt": "مغز ماهی و بخش‌های آن"
+    },
+    {
+      "page": 45,
+      "file": "assets/045-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "دست مصنوعی",
+      "alt": "دست مصنوعی"
+    },
+    {
+      "page": 46,
+      "file": "assets/046-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱ اسکلت انسان",
+      "alt": "شکل ۱ اسکلت انسان"
+    },
+    {
+      "page": 47,
+      "file": "assets/047-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۲ انواع استخوان و جدول وظایف اسکلت",
+      "alt": "شکل ۲ انواع استخوان و جدول وظایف اسکلت"
+    },
+    {
+      "page": 48,
+      "file": "assets/048-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۳ ساختار بخشی از تنۀ استخوان دراز",
+      "alt": "شکل ۳ ساختار بخشی از تنۀ استخوان دراز"
+    },
+    {
+      "page": 49,
+      "file": "assets/049-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۴ شکستگی ران و شکل ۵ پوکی استخوان",
+      "alt": "شکل ۴ شکستگی ران و شکل ۵ پوکی استخوان"
+    },
+    {
+      "page": 50,
+      "file": "assets/050-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "جدول میانگین تراکم استخوان و شکل ۶ مفصل ثابت جمجمه",
+      "alt": "جدول میانگین تراکم استخوان و شکل ۶ مفصل ثابت جمجمه"
+    },
+    {
+      "page": 51,
+      "file": "assets/051-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل‌های ۷ و ۸ مفصل و انواع مفصل متحرک؛ رباط صلیبی",
+      "alt": "شکل‌های ۷ و ۸ مفصل و انواع مفصل متحرک؛ رباط صلیبی"
+    },
+    {
+      "page": 52,
+      "file": "assets/052-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "مقایسۀ مفصل سالم و آسیب‌دیده در روماتیسم مفصلی",
+      "alt": "مقایسۀ مفصل سالم و آسیب‌دیده در روماتیسم مفصلی"
+    },
+    {
+      "page": 53,
+      "file": "assets/053-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۹ ماهیچه‌های اسکلتی بدن انسان",
+      "alt": "شکل ۹ ماهیچه‌های اسکلتی بدن انسان"
+    },
+    {
+      "page": 54,
+      "file": "assets/054-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱۰ عملکرد ماهیچه‌های متقابل و جدول اعمال ماهیچه‌های اسکلتی",
+      "alt": "شکل ۱۰ عملکرد ماهیچه‌های متقابل و جدول اعمال ماهیچه‌های اسکلتی"
+    },
+    {
+      "page": 55,
+      "file": "assets/055-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱۱ ساختار ماهیچۀ اسکلتی",
+      "alt": "شکل ۱۱ ساختار ماهیچۀ اسکلتی"
+    },
+    {
+      "page": 56,
+      "file": "assets/056-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل‌های ۱۲ تا ۱۴ تار ماهیچه، سارکومر و مولکول میوزین",
+      "alt": "شکل‌های ۱۲ تا ۱۴ تار ماهیچه، سارکومر و مولکول میوزین"
+    },
+    {
+      "page": 57,
+      "file": "assets/057-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱۵ طرح ساده انقباض سارکومرها",
+      "alt": "شکل ۱۵ طرح ساده انقباض سارکومرها"
+    },
+    {
+      "page": 58,
+      "file": "assets/058-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱۶ نحوۀ انقباض ماهیچه",
+      "alt": "شکل ۱۶ نحوۀ انقباض ماهیچه"
+    },
+    {
+      "page": 59,
+      "file": "assets/059-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱۷ تارهای ماهیچه‌ای تند و کند",
+      "alt": "شکل ۱۷ تارهای ماهیچه‌ای تند و کند"
+    },
+    {
+      "page": 61,
+      "file": "assets/061-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "تصویر اندازه‌گیری قند خون",
+      "alt": "تصویر اندازه‌گیری قند خون"
+    },
+    {
+      "page": 62,
+      "file": "assets/062-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل‌های ۱ و ۲ پیک شیمیایی و مقایسه هورمون و ناقل عصبی",
+      "alt": "شکل‌های ۱ و ۲ پیک شیمیایی و مقایسه هورمون و ناقل عصبی"
+    },
+    {
+      "page": 63,
+      "file": "assets/063-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل‌های ۳ و ۴ غده‌های درون‌ریز و برون‌ریز",
+      "alt": "شکل‌های ۳ و ۴ غده‌های درون‌ریز و برون‌ریز"
+    },
+    {
+      "page": 64,
+      "file": "assets/064-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۵ غدۀ هیپوفیز",
+      "alt": "شکل ۵ غدۀ هیپوفیز"
+    },
+    {
+      "page": 65,
+      "file": "assets/065-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۶ صفحات رشد استخوان",
+      "alt": "شکل ۶ صفحات رشد استخوان"
+    },
+    {
+      "page": 66,
+      "file": "assets/066-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل‌های ۷ و ۸ و ساختار هورمون‌های تیروئیدی",
+      "alt": "شکل‌های ۷ و ۸ و ساختار هورمون‌های تیروئیدی"
+    },
+    {
+      "page": 67,
+      "file": "assets/067-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل‌های ۹ و ۱۰ غدد پاراتیروئید و فوق کلیه",
+      "alt": "شکل‌های ۹ و ۱۰ غدد پاراتیروئید و فوق کلیه"
+    },
+    {
+      "page": 68,
+      "file": "assets/068-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱۱ لوزالمعده",
+      "alt": "شکل ۱۱ لوزالمعده"
+    },
+    {
+      "page": 69,
+      "file": "assets/069-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱۲ جایگاه غدۀ اپی‌فیز",
+      "alt": "شکل ۱۲ جایگاه غدۀ اپی‌فیز"
+    },
+    {
+      "page": 70,
+      "file": "assets/070-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱۳ تنظیم بازخورد گلوکز",
+      "alt": "شکل ۱۳ تنظیم بازخورد گلوکز"
+    },
+    {
+      "page": 71,
+      "file": "assets/071-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "تصویر واکسیناسیون کودک",
+      "alt": "تصویر واکسیناسیون کودک"
+    },
+    {
+      "page": 72,
+      "file": "assets/072-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱ لایه‌های مختلف پوست",
+      "alt": "شکل ۱ لایه‌های مختلف پوست"
+    },
+    {
+      "page": 74,
+      "file": "assets/074-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۲ درشت‌خوار در حال بیگانه‌خواری",
+      "alt": "شکل ۲ درشت‌خوار در حال بیگانه‌خواری"
+    },
+    {
+      "page": 75,
+      "file": "assets/075-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۳ نحوۀ عملکرد یاخته‌های دارینه‌ای",
+      "alt": "شکل ۳ نحوۀ عملکرد یاخته‌های دارینه‌ای"
+    },
+    {
+      "page": 76,
+      "file": "assets/076-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل‌های ۴ و ۵ و تصویر گویچه‌های سفید در فعالیت ۳",
+      "alt": "شکل‌های ۴ و ۵ و تصویر گویچه‌های سفید در فعالیت ۳"
+    },
+    {
+      "page": 77,
+      "file": "assets/077-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل‌های ۶ و ۷ ائوزینوفیل‌ها و یاختۀ کشندۀ طبیعی",
+      "alt": "شکل‌های ۶ و ۷ ائوزینوفیل‌ها و یاختۀ کشندۀ طبیعی"
+    },
+    {
+      "page": 78,
+      "file": "assets/078-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۸ نحوۀ عملکرد پروتئین‌های مکمل",
+      "alt": "شکل ۸ نحوۀ عملکرد پروتئین‌های مکمل"
+    },
+    {
+      "page": 79,
+      "file": "assets/079-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۹ فرایند التهاب",
+      "alt": "شکل ۹ فرایند التهاب"
+    },
+    {
+      "page": 80,
+      "file": "assets/080-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل‌های ۱۰ و ۱۱ بلوغ و عملکرد لنفوسیت‌ها",
+      "alt": "شکل‌های ۱۰ و ۱۱ بلوغ و عملکرد لنفوسیت‌ها"
+    },
+    {
+      "page": 81,
+      "file": "assets/081-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل‌های ۱۲ تا ۱۴ ساختار و عملکرد پادتن",
+      "alt": "شکل‌های ۱۲ تا ۱۴ ساختار و عملکرد پادتن"
+    },
+    {
+      "page": 82,
+      "file": "assets/082-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱۵ پاسخ اولیه و ثانویۀ ایمنی",
+      "alt": "شکل ۱۵ پاسخ اولیه و ثانویۀ ایمنی"
+    },
+    {
+      "page": 83,
+      "file": "assets/083-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱۶ لنفوسیت‌های خاطره",
+      "alt": "شکل ۱۶ لنفوسیت‌های خاطره"
+    },
+    {
+      "page": 84,
+      "file": "assets/084-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱۷ نحوۀ عملکرد واکسن",
+      "alt": "شکل ۱۷ نحوۀ عملکرد واکسن"
+    },
+    {
+      "page": 85,
+      "file": "assets/085-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱۸ ویروس HIV در حال آزاد شدن از یاخته",
+      "alt": "شکل ۱۸ ویروس HIV در حال آزاد شدن از یاخته"
+    },
+    {
+      "page": 86,
+      "file": "assets/086-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "تصویر ویروس کوویدـ۱۹",
+      "alt": "تصویر ویروس کوویدـ۱۹"
+    },
+    {
+      "page": 87,
+      "file": "assets/087-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "تصویر یاخته، فام‌تن و دنا",
+      "alt": "تصویر یاخته، فام‌تن و دنا"
+    },
+    {
+      "page": 88,
+      "file": "assets/088-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل‌های ۱ و ۲ فشردگی و ساختار فام‌تن",
+      "alt": "شکل‌های ۱ و ۲ فشردگی و ساختار فام‌تن"
+    },
+    {
+      "page": 89,
+      "file": "assets/089-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۳ کاریوتیپ انسان",
+      "alt": "شکل ۳ کاریوتیپ انسان"
+    },
+    {
+      "page": 90,
+      "file": "assets/090-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۴ مراحل مختلف چرخۀ یاخته",
+      "alt": "شکل ۴ مراحل مختلف چرخۀ یاخته"
+    },
+    {
+      "page": 92,
+      "file": "assets/092-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل‌های ۵ و ۶ دوک تقسیم و رشتمان",
+      "alt": "شکل‌های ۵ و ۶ دوک تقسیم و رشتمان"
+    },
+    {
+      "page": 93,
+      "file": "assets/093-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۷ مراحل تقسیم رشتمان",
+      "alt": "شکل ۷ مراحل تقسیم رشتمان"
+    },
+    {
+      "page": 94,
+      "file": "assets/094-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل‌های ۸ و ۹ تقسیم سیتوپلاسم",
+      "alt": "شکل‌های ۸ و ۹ تقسیم سیتوپلاسم"
+    },
+    {
+      "page": 95,
+      "file": "assets/095-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "تصاویر میکروسکوپی چرخۀ یاخته‌ای در فعالیت ۲",
+      "alt": "تصاویر میکروسکوپی چرخۀ یاخته‌ای در فعالیت ۲"
+    },
+    {
+      "page": 96,
+      "file": "assets/096-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل‌های ۱۰ و ۱۱ نقاط وارسی و تومورها",
+      "alt": "شکل‌های ۱۰ و ۱۱ نقاط وارسی و تومورها"
+    },
+    {
+      "page": 97,
+      "file": "assets/097-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱۲ مراحل رشد و پخش یاخته‌های سرطانی",
+      "alt": "شکل ۱۲ مراحل رشد و پخش یاخته‌های سرطانی"
+    },
+    {
+      "page": 99,
+      "file": "assets/099-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱۳ حذف پرده‌های میانی انگشتان پرندگان",
+      "alt": "شکل ۱۳ حذف پرده‌های میانی انگشتان پرندگان"
+    },
+    {
+      "page": 100,
+      "file": "assets/100-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱۴ طرح ساده‌ای از تقسیم کاستمان",
+      "alt": "شکل ۱۴ طرح ساده‌ای از تقسیم کاستمان"
+    },
+    {
+      "page": 101,
+      "file": "assets/101-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل‌های ۱۵ و ۱۶ چهارتایه و مراحل کاستمان",
+      "alt": "شکل‌های ۱۵ و ۱۶ چهارتایه و مراحل کاستمان"
+    },
+    {
+      "page": 102,
+      "file": "assets/102-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱۷ تعداد فام‌تن‌ها در لادهای مختلف",
+      "alt": "شکل ۱۷ تعداد فام‌تن‌ها در لادهای مختلف"
+    },
+    {
+      "page": 103,
+      "file": "assets/103-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱۸ کاریوتیپ فرد مبتلا به نشانگان داون",
+      "alt": "شکل ۱۸ کاریوتیپ فرد مبتلا به نشانگان داون"
+    },
+    {
+      "page": 104,
+      "file": "assets/104-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "نمودار رابطۀ سن مادر و درصد موارد مبتلا به نشانگان داون",
+      "alt": "نمودار رابطۀ سن مادر و درصد موارد مبتلا به نشانگان داون"
+    },
+    {
+      "page": 105,
+      "file": "assets/105-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "تصویر جنین در رحم",
+      "alt": "تصویر جنین در رحم"
+    },
+    {
+      "page": 106,
+      "file": "assets/106-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱ دستگاه تولیدمثل در مرد",
+      "alt": "شکل ۱ دستگاه تولیدمثل در مرد"
+    },
+    {
+      "page": 107,
+      "file": "assets/107-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۲ بیضه و مراحل تولید زامه",
+      "alt": "شکل ۲ بیضه و مراحل تولید زامه"
+    },
+    {
+      "page": 108,
+      "file": "assets/108-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۳ ساختار زامۀ انسان",
+      "alt": "شکل ۳ ساختار زامۀ انسان"
+    },
+    {
+      "page": 109,
+      "file": "assets/109-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل‌های ۴ و ۵ مسیر زامه و تنظیم هورمونی",
+      "alt": "شکل‌های ۴ و ۵ مسیر زامه و تنظیم هورمونی"
+    },
+    {
+      "page": 110,
+      "file": "assets/110-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل‌های ۶ و ۷ دستگاه تولیدمثل زن و انبانک اولیه",
+      "alt": "شکل‌های ۶ و ۷ دستگاه تولیدمثل زن و انبانک اولیه"
+    },
+    {
+      "page": 112,
+      "file": "assets/112-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۸ مراحل تخمک‌زایی و تشکیل تخم",
+      "alt": "شکل ۸ مراحل تخمک‌زایی و تشکیل تخم"
+    },
+    {
+      "page": 113,
+      "file": "assets/113-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۹ چرخۀ تخمدانی",
+      "alt": "شکل ۹ چرخۀ تخمدانی"
+    },
+    {
+      "page": 114,
+      "file": "assets/114-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱۰ چرخۀ رحمی",
+      "alt": "شکل ۱۰ چرخۀ رحمی"
+    },
+    {
+      "page": 115,
+      "file": "assets/115-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱۱ تنظیم هورمونی دستگاه تولیدمثل در زن",
+      "alt": "شکل ۱۱ تنظیم هورمونی دستگاه تولیدمثل در زن"
+    },
+    {
+      "page": 116,
+      "file": "assets/116-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱۲ نفوذ زامه در تخمک",
+      "alt": "شکل ۱۲ نفوذ زامه در تخمک"
+    },
+    {
+      "page": 117,
+      "file": "assets/117-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱۳ مراحل اولیۀ رشد جنین",
+      "alt": "شکل ۱۳ مراحل اولیۀ رشد جنین"
+    },
+    {
+      "page": 118,
+      "file": "assets/118-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱۴ پرده‌های اطراف جنین و یاخته‌های بنیادی",
+      "alt": "شکل ۱۴ پرده‌های اطراف جنین و یاخته‌های بنیادی"
+    },
+    {
+      "page": 119,
+      "file": "assets/119-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱۵ دوقلوهای ناهمسان و همسان",
+      "alt": "شکل ۱۵ دوقلوهای ناهمسان و همسان"
+    },
+    {
+      "page": 120,
+      "file": "assets/120-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱۶ ارتباط جنین و جفت از طریق بند ناف",
+      "alt": "شکل ۱۶ ارتباط جنین و جفت از طریق بند ناف"
+    },
+    {
+      "page": 122,
+      "file": "assets/122-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "جنین در هفته‌های مختلف بعد از لقاح",
+      "alt": "جنین در هفته‌های مختلف بعد از لقاح"
+    },
+    {
+      "page": 123,
+      "file": "assets/123-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱۷ رفتار جفت‌گیری در ماهی",
+      "alt": "شکل ۱۷ رفتار جفت‌گیری در ماهی"
+    },
+    {
+      "page": 124,
+      "file": "assets/124-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل‌های ۱۸ و ۱۹ انواع بکرزایی و نرماده",
+      "alt": "شکل‌های ۱۸ و ۱۹ انواع بکرزایی و نرماده"
+    },
+    {
+      "page": 125,
+      "file": "assets/125-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۲۰ لایۀ ژله‌ای اطراف تخم‌های قورباغه",
+      "alt": "شکل ۲۰ لایۀ ژله‌ای اطراف تخم‌های قورباغه"
+    },
+    {
+      "page": 126,
+      "file": "assets/126-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۲۱ تخم‌های لاک‌پشت، پرنده و پلاتی‌پوس",
+      "alt": "شکل ۲۱ تخم‌های لاک‌پشت، پرنده و پلاتی‌پوس"
+    },
+    {
+      "page": 127,
+      "file": "assets/127-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "تصویر زنبور بر گل",
+      "alt": "تصویر زنبور بر گل"
+    },
+    {
+      "page": 128,
+      "file": "assets/128-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱ تشکیل درخت‌های جدید از جوانه‌های روی ریشه و گروه‌بندی گیاهان",
+      "alt": "شکل ۱ تشکیل درخت‌های جدید از جوانه‌های روی ریشه و گروه‌بندی گیاهان"
+    },
+    {
+      "page": 129,
+      "file": "assets/129-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۲ روش‌های متفاوت تکثیر رویشی",
+      "alt": "شکل ۲ روش‌های متفاوت تکثیر رویشی"
+    },
+    {
+      "page": 130,
+      "file": "assets/130-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۳ ساقه‌های تخصص‌یافته برای تولیدمثل غیرجنسی و تصویر تثبیت خاک",
+      "alt": "شکل ۳ ساقه‌های تخصص‌یافته برای تولیدمثل غیرجنسی و تصویر تثبیت خاک"
+    },
+    {
+      "page": 131,
+      "file": "assets/131-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۴ ایجاد گیاه از کال در کشت بافت و گیاه در شیشه",
+      "alt": "شکل ۴ ایجاد گیاه از کال در کشت بافت و گیاه در شیشه"
+    },
+    {
+      "page": 132,
+      "file": "assets/132-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۵ گل آلبالو و مادگی تک‌برچه‌ای و چندبرچه‌ای",
+      "alt": "شکل ۵ گل آلبالو و مادگی تک‌برچه‌ای و چندبرچه‌ای"
+    },
+    {
+      "page": 133,
+      "file": "assets/133-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۶ گل‌های تک جنسی در گیاه کدو و چندین گل",
+      "alt": "شکل ۶ گل‌های تک جنسی در گیاه کدو و چندین گل"
+    },
+    {
+      "page": 134,
+      "file": "assets/134-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۷ تشکیل دانه‌های گرده و کیسۀ رویانی و تصویر زعفران",
+      "alt": "شکل ۷ تشکیل دانه‌های گرده و کیسۀ رویانی و تصویر زعفران"
+    },
+    {
+      "page": 135,
+      "file": "assets/135-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل‌های ۸ و ۹ گرده‌افشانی و لقاح",
+      "alt": "شکل‌های ۸ و ۹ گرده‌افشانی و لقاح"
+    },
+    {
+      "page": 136,
+      "file": "assets/136-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱۰ درون‌دانه در نارگیل و شکل ۱۱ گرده‌افشانی به‌وسیلۀ جانوران",
+      "alt": "شکل ۱۰ درون‌دانه در نارگیل و شکل ۱۱ گرده‌افشانی به‌وسیلۀ جانوران"
+    },
+    {
+      "page": 137,
+      "file": "assets/137-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل‌های ۱۲ و ۱۳ گل قاصد و بلوط و گل رافلزیا",
+      "alt": "شکل‌های ۱۲ و ۱۳ گل قاصد و بلوط و گل رافلزیا"
+    },
+    {
+      "page": 138,
+      "file": "assets/138-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱۴ تشکیل رویان در دانه",
+      "alt": "شکل ۱۴ تشکیل رویان در دانه"
+    },
+    {
+      "page": 139,
+      "file": "assets/139-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل فعالیت ۶ دانه‌های لوبیا و ذرت",
+      "alt": "شکل فعالیت ۶ دانه‌های لوبیا و ذرت"
+    },
+    {
+      "page": 140,
+      "file": "assets/140-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل‌های ۱۵ و ۱۶ رویش دانه و میوه",
+      "alt": "شکل‌های ۱۵ و ۱۶ رویش دانه و میوه"
+    },
+    {
+      "page": 141,
+      "file": "assets/141-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "مراحل تشکیل میوۀ سیب، شکل فعالیت ۷ و شکل ۱۷ پراکنش میوه‌ها",
+      "alt": "مراحل تشکیل میوۀ سیب، شکل فعالیت ۷ و شکل ۱۷ پراکنش میوه‌ها"
+    },
+    {
+      "page": 142,
+      "file": "assets/142-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل فعالیت ۸ و شکل ۱۸ دانه‌های نارس موز",
+      "alt": "شکل فعالیت ۸ و شکل ۱۸ دانه‌های نارس موز"
+    },
+    {
+      "page": 143,
+      "file": "assets/143-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱۹ گیاهان یک‌ساله، دو ساله و چندساله و تصاویر انواع میوه",
+      "alt": "شکل ۱۹ گیاهان یک‌ساله، دو ساله و چندساله و تصاویر انواع میوه"
+    },
+    {
+      "page": 144,
+      "file": "assets/144-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل فعالیت ۹ چرخۀ زندگی یک گیاه نهان‌دانه با جاهای خالی",
+      "alt": "شکل فعالیت ۹ چرخۀ زندگی یک گیاه نهان‌دانه با جاهای خالی"
+    },
+    {
+      "page": 145,
+      "file": "assets/145-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "تصویر پاسخ برگ گیاه به لمس",
+      "alt": "تصویر پاسخ برگ گیاه به لمس"
+    },
+    {
+      "page": 146,
+      "file": "assets/146-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل‌های ۱ و ۲ خم شدن گیاهان به سمت نور و آزمایش داروین‌ها",
+      "alt": "شکل‌های ۱ و ۲ خم شدن گیاهان به سمت نور و آزمایش داروین‌ها"
+    },
+    {
+      "page": 147,
+      "file": "assets/147-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل‌های ۳ و ۴ آزمایش اکسین و پاسخ به نور",
+      "alt": "شکل‌های ۳ و ۴ آزمایش اکسین و پاسخ به نور"
+    },
+    {
+      "page": 148,
+      "file": "assets/148-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۵ تأثیر اکسین بر ایجاد ریشه",
+      "alt": "شکل ۵ تأثیر اکسین بر ایجاد ریشه"
+    },
+    {
+      "page": 149,
+      "file": "assets/149-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۶ چیرگی رأسی",
+      "alt": "شکل ۶ چیرگی رأسی"
+    },
+    {
+      "page": 150,
+      "file": "assets/150-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل فعالیت ۱ و شکل ۷ اثر جیبرلین",
+      "alt": "شکل فعالیت ۱ و شکل ۷ اثر جیبرلین"
+    },
+    {
+      "page": 151,
+      "file": "assets/151-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل‌های ۸ و ۹ جیبرلین و روزنه‌ها",
+      "alt": "شکل‌های ۸ و ۹ جیبرلین و روزنه‌ها"
+    },
+    {
+      "page": 152,
+      "file": "assets/152-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱۰ گوجه‌فرنگی‌ها و گل‌های اطلسی",
+      "alt": "شکل ۱۰ گوجه‌فرنگی‌ها و گل‌های اطلسی"
+    },
+    {
+      "page": 153,
+      "file": "assets/153-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱۱ ریزش برگ با تشکیل لایۀ جداکننده",
+      "alt": "شکل ۱۱ ریزش برگ با تشکیل لایۀ جداکننده"
+    },
+    {
+      "page": 155,
+      "file": "assets/155-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل‌های ۱۲ و ۱۳ گل‌دهی و تأثیر گرانش زمین",
+      "alt": "شکل‌های ۱۲ و ۱۳ گل‌دهی و تأثیر گرانش زمین"
+    },
+    {
+      "page": 156,
+      "file": "assets/156-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱۴ پاسخ گیاهان به تماس",
+      "alt": "شکل ۱۴ پاسخ گیاهان به تماس"
+    },
+    {
+      "page": 157,
+      "file": "assets/157-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل‌های ۱۵ و ۱۶ سدهای دفاعی گیاه",
+      "alt": "شکل‌های ۱۵ و ۱۶ سدهای دفاعی گیاه"
+    },
+    {
+      "page": 158,
+      "file": "assets/158-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۱۷ سنگوارۀ حشره و تصویر گون سمی",
+      "alt": "شکل ۱۷ سنگوارۀ حشره و تصویر گون سمی"
+    },
+    {
+      "page": 159,
+      "file": "assets/159-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل‌های ۱۸ و ۱۹ مرگ یاخته‌ای و محافظت گیاهان توسط مورچه‌ها و کاساوا",
+      "alt": "شکل‌های ۱۸ و ۱۹ مرگ یاخته‌ای و محافظت گیاهان توسط مورچه‌ها و کاساوا"
+    },
+    {
+      "page": 160,
+      "file": "assets/160-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "شکل ۲۰ روابط گیاه تنباکو، حشره و زنبور وحشی و تصویر کرچک",
+      "alt": "شکل ۲۰ روابط گیاه تنباکو، حشره و زنبور وحشی و تصویر کرچک"
+    },
+    {
+      "page": 161,
+      "file": "assets/161-page.png",
+      "crop": "full PDF page rendered 1.6x",
+      "caption": "تصویر کتاب‌ها",
+      "alt": "تصویر کتاب‌ها"
+    }
+  ],
+  "uncertainties": [
+    {
+      "pdf_page": 2,
+      "note": "برخی نام‌ها و ارقام ریز شناسنامه نیازمند بازبینی بصری‌اند."
+    }
+  ],
+  "completed_pages": 168,
+  "status": "complete"
+}

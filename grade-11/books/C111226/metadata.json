@@ -1,0 +1,20 @@
+{
+  "book_code": "C111226",
+  "title": "فلسفه (1)",
+  "grade": 11,
+  "branches": [
+    "humanities",
+    "islamic"
+  ],
+  "edition": "1405-1406",
+  "language": "fa",
+  "source": {
+    "catalog_url": "http://chap.sch.ir/books/14341",
+    "pdf_url": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/44/C111226.pdf",
+    "sha256": "f8c6c56bb1bb9dd277e2e129a4ba344109b614fecc7738e4ce7aeed4e26999bb",
+    "pdf_page_count": 104
+  },
+  "coverage": "complete",
+  "content_review": "not_validated",
+  "pdf_page_count": 104
+}

@@ -1,0 +1,19 @@
+{
+  "book_code": "C111222",
+  "title": "جامعه شناسی (2)",
+  "grade": 11,
+  "branches": [
+    "humanities"
+  ],
+  "edition": "1405-1406",
+  "language": "fa",
+  "source": {
+    "catalog_url": "http://chap.sch.ir/books/14339",
+    "pdf_url": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/38/C111222.pdf",
+    "sha256": "4a7fb8365c9c9b9d978ceb6e23282c9323c5a80b9727622e27bcd32d306c521e",
+    "pdf_page_count": 148
+  },
+  "coverage": "complete",
+  "content_review": "not_validated",
+  "pdf_page_count": 148
+}

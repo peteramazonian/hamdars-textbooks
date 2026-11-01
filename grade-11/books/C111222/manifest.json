@@ -1,0 +1,2698 @@
+{
+  "schema_version": 1,
+  "book": {
+    "title": "جامعه شناسی (2)",
+    "grade": 11,
+    "branches": [
+      "humanities"
+    ],
+    "book_code": "C111222",
+    "edition": "1405-1406",
+    "year": "1405-1406",
+    "language": "fa"
+  },
+  "source": {
+    "catalog_url": "http://chap.sch.ir/books/14339",
+    "pdf_url": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/38/C111222.pdf",
+    "local_pdf": "sources/C111222.pdf",
+    "sha256": "4a7fb8365c9c9b9d978ceb6e23282c9323c5a80b9727622e27bcd32d306c521e",
+    "pdf_page_count": 148,
+    "retrieved_at": null
+  },
+  "pages": [
+    {
+      "pdf_page": 1,
+      "printed_page": null,
+      "path": "pages/p0001.md",
+      "coverage": "complete",
+      "review_status": "native extraction visually checked",
+      "figures": []
+    },
+    {
+      "pdf_page": 2,
+      "printed_page": null,
+      "path": "pages/p0002.md",
+      "coverage": "complete",
+      "review_status": "native extraction visually checked",
+      "figures": []
+    },
+    {
+      "pdf_page": 3,
+      "printed_page": null,
+      "path": "pages/p0003.md",
+      "coverage": "complete",
+      "review_status": "native extraction visually checked",
+      "figures": []
+    },
+    {
+      "pdf_page": 4,
+      "printed_page": null,
+      "path": "pages/p0004.md",
+      "coverage": "complete",
+      "review_status": "native extraction visually checked",
+      "figures": []
+    },
+    {
+      "pdf_page": 5,
+      "printed_page": null,
+      "path": "pages/p0005.md",
+      "coverage": "complete",
+      "review_status": "visually checked and corrected from source image",
+      "figures": []
+    },
+    {
+      "pdf_page": 6,
+      "printed_page": null,
+      "path": "pages/p0006.md",
+      "coverage": "complete",
+      "review_status": "visually checked and corrected from source image",
+      "figures": []
+    },
+    {
+      "pdf_page": 7,
+      "printed_page": null,
+      "path": "pages/p0007.md",
+      "coverage": "complete",
+      "review_status": "native text checked against page images",
+      "figures": []
+    },
+    {
+      "pdf_page": 8,
+      "printed_page": null,
+      "path": "pages/p0008.md",
+      "coverage": "complete",
+      "review_status": "native text checked against page images",
+      "figures": []
+    },
+    {
+      "pdf_page": 9,
+      "printed_page": null,
+      "path": "pages/p0009.md",
+      "coverage": "complete",
+      "review_status": "native text checked against page images",
+      "figures": []
+    },
+    {
+      "pdf_page": 10,
+      "printed_page": null,
+      "path": "pages/p0010.md",
+      "coverage": "complete",
+      "review_status": "native text checked against page images",
+      "figures": []
+    },
+    {
+      "pdf_page": 11,
+      "printed_page": 3,
+      "path": "pages/p0011.md",
+      "coverage": "complete",
+      "review_status": "native text visually verified against source",
+      "figures": []
+    },
+    {
+      "pdf_page": 12,
+      "printed_page": 4,
+      "path": "pages/p0012.md",
+      "coverage": "complete",
+      "review_status": "native text visually verified against source",
+      "figures": []
+    },
+    {
+      "pdf_page": 13,
+      "printed_page": 5,
+      "path": "pages/p0013.md",
+      "coverage": "complete",
+      "review_status": "native text visually verified against source",
+      "figures": []
+    },
+    {
+      "pdf_page": 14,
+      "printed_page": 6,
+      "path": "pages/p0014.md",
+      "coverage": "complete",
+      "review_status": "native text visually verified against source",
+      "figures": []
+    },
+    {
+      "pdf_page": 15,
+      "printed_page": 7,
+      "path": "pages/p0015.md",
+      "coverage": "complete",
+      "review_status": "native text visually verified against source",
+      "figures": []
+    },
+    {
+      "pdf_page": 16,
+      "printed_page": 8,
+      "path": "pages/p0016.md",
+      "coverage": "complete",
+      "review_status": "native text reviewed against images",
+      "figures": []
+    },
+    {
+      "pdf_page": 17,
+      "printed_page": 9,
+      "path": "pages/p0017.md",
+      "coverage": "complete",
+      "review_status": "native text reviewed against images",
+      "figures": []
+    },
+    {
+      "pdf_page": 18,
+      "printed_page": 10,
+      "path": "pages/p0018.md",
+      "coverage": "complete",
+      "review_status": "native text reviewed against images",
+      "figures": []
+    },
+    {
+      "pdf_page": 19,
+      "printed_page": 11,
+      "path": "pages/p0019.md",
+      "coverage": "complete",
+      "review_status": "native text reviewed against images",
+      "figures": []
+    },
+    {
+      "pdf_page": 20,
+      "printed_page": 12,
+      "path": "pages/p0020.md",
+      "coverage": "complete",
+      "review_status": "native text reviewed against images",
+      "figures": []
+    },
+    {
+      "pdf_page": 21,
+      "printed_page": 13,
+      "path": "pages/p0021.md",
+      "coverage": "complete",
+      "review_status": "native text visually verified",
+      "figures": []
+    },
+    {
+      "pdf_page": 22,
+      "printed_page": 14,
+      "path": "pages/p0022.md",
+      "coverage": "complete",
+      "review_status": "native text visually verified",
+      "figures": []
+    },
+    {
+      "pdf_page": 23,
+      "printed_page": 15,
+      "path": "pages/p0023.md",
+      "coverage": "complete",
+      "review_status": "native text visually verified",
+      "figures": []
+    },
+    {
+      "pdf_page": 24,
+      "printed_page": 16,
+      "path": "pages/p0024.md",
+      "coverage": "complete",
+      "review_status": "native text visually verified",
+      "figures": []
+    },
+    {
+      "pdf_page": 25,
+      "printed_page": 17,
+      "path": "pages/p0025.md",
+      "coverage": "complete",
+      "review_status": "native text visually verified",
+      "figures": []
+    },
+    {
+      "pdf_page": 26,
+      "printed_page": 18,
+      "path": "pages/p0026.md",
+      "coverage": "complete",
+      "review_status": "native text visually checked",
+      "figures": []
+    },
+    {
+      "pdf_page": 27,
+      "printed_page": 19,
+      "path": "pages/p0027.md",
+      "coverage": "complete",
+      "review_status": "native text visually checked",
+      "figures": []
+    },
+    {
+      "pdf_page": 28,
+      "printed_page": 20,
+      "path": "pages/p0028.md",
+      "coverage": "complete",
+      "review_status": "native text visually checked",
+      "figures": []
+    },
+    {
+      "pdf_page": 29,
+      "printed_page": 21,
+      "path": "pages/p0029.md",
+      "coverage": "complete",
+      "review_status": "native text visually checked",
+      "figures": []
+    },
+    {
+      "pdf_page": 30,
+      "printed_page": 22,
+      "path": "pages/p0030.md",
+      "coverage": "complete",
+      "review_status": "native text visually checked",
+      "figures": []
+    },
+    {
+      "pdf_page": 31,
+      "printed_page": 23,
+      "path": "pages/p0031.md",
+      "coverage": "complete",
+      "review_status": "native extraction verified against source image",
+      "figures": []
+    },
+    {
+      "pdf_page": 32,
+      "printed_page": 24,
+      "path": "pages/p0032.md",
+      "coverage": "complete",
+      "review_status": "native extraction verified against source image",
+      "figures": []
+    },
+    {
+      "pdf_page": 33,
+      "printed_page": 25,
+      "path": "pages/p0033.md",
+      "coverage": "complete",
+      "review_status": "native extraction verified against source image",
+      "figures": []
+    },
+    {
+      "pdf_page": 34,
+      "printed_page": 26,
+      "path": "pages/p0034.md",
+      "coverage": "complete",
+      "review_status": "native extraction verified against source image",
+      "figures": []
+    },
+    {
+      "pdf_page": 35,
+      "printed_page": 27,
+      "path": "pages/p0035.md",
+      "coverage": "complete",
+      "review_status": "native extraction verified against source image",
+      "figures": []
+    },
+    {
+      "pdf_page": 36,
+      "printed_page": 28,
+      "path": "pages/p0036.md",
+      "coverage": "complete",
+      "review_status": "native extraction verified against source image",
+      "figures": []
+    },
+    {
+      "pdf_page": 37,
+      "printed_page": 29,
+      "path": "pages/p0037.md",
+      "coverage": "complete",
+      "review_status": "native text visually checked",
+      "figures": []
+    },
+    {
+      "pdf_page": 38,
+      "printed_page": 30,
+      "path": "pages/p0038.md",
+      "coverage": "complete",
+      "review_status": "native text visually checked",
+      "figures": []
+    },
+    {
+      "pdf_page": 39,
+      "printed_page": 31,
+      "path": "pages/p0039.md",
+      "coverage": "complete",
+      "review_status": "native text visually checked",
+      "figures": []
+    },
+    {
+      "pdf_page": 40,
+      "printed_page": 32,
+      "path": "pages/p0040.md",
+      "coverage": "complete",
+      "review_status": "native text visually checked",
+      "figures": []
+    },
+    {
+      "pdf_page": 41,
+      "printed_page": 33,
+      "path": "pages/p0041.md",
+      "coverage": "complete",
+      "review_status": "native text visually checked",
+      "figures": []
+    },
+    {
+      "pdf_page": 42,
+      "printed_page": 34,
+      "path": "pages/p0042.md",
+      "coverage": "complete",
+      "review_status": "native text visually checked",
+      "figures": []
+    },
+    {
+      "pdf_page": 43,
+      "printed_page": 35,
+      "path": "pages/p0043.md",
+      "coverage": "complete",
+      "review_status": "native extraction reviewed against source page image",
+      "figures": []
+    },
+    {
+      "pdf_page": 44,
+      "printed_page": 36,
+      "path": "pages/p0044.md",
+      "coverage": "complete",
+      "review_status": "native extraction reviewed against source page image",
+      "figures": []
+    },
+    {
+      "pdf_page": 45,
+      "printed_page": 37,
+      "path": "pages/p0045.md",
+      "coverage": "complete",
+      "review_status": "native extraction reviewed against source page image",
+      "figures": []
+    },
+    {
+      "pdf_page": 46,
+      "printed_page": 38,
+      "path": "pages/p0046.md",
+      "coverage": "complete",
+      "review_status": "native extraction reviewed against source page image",
+      "figures": []
+    },
+    {
+      "pdf_page": 47,
+      "printed_page": 39,
+      "path": "pages/p0047.md",
+      "coverage": "complete",
+      "review_status": "native extraction reviewed against source page image",
+      "figures": []
+    },
+    {
+      "pdf_page": 48,
+      "printed_page": 40,
+      "path": "pages/p0048.md",
+      "coverage": "complete",
+      "review_status": "native text verified with source reading order",
+      "figures": []
+    },
+    {
+      "pdf_page": 49,
+      "printed_page": 41,
+      "path": "pages/p0049.md",
+      "coverage": "complete",
+      "review_status": "native text verified with source reading order",
+      "figures": []
+    },
+    {
+      "pdf_page": 50,
+      "printed_page": 42,
+      "path": "pages/p0050.md",
+      "coverage": "complete",
+      "review_status": "native text verified with source reading order",
+      "figures": []
+    },
+    {
+      "pdf_page": 51,
+      "printed_page": 43,
+      "path": "pages/p0051.md",
+      "coverage": "complete",
+      "review_status": "native text verified with source reading order",
+      "figures": []
+    },
+    {
+      "pdf_page": 52,
+      "printed_page": 44,
+      "path": "pages/p0052.md",
+      "coverage": "complete",
+      "review_status": "native text verified with source reading order",
+      "figures": []
+    },
+    {
+      "pdf_page": 53,
+      "printed_page": 45,
+      "path": "pages/p0053.md",
+      "coverage": "complete",
+      "review_status": "native text verified with source reading order",
+      "figures": []
+    },
+    {
+      "pdf_page": 54,
+      "printed_page": 46,
+      "path": "pages/p0054.md",
+      "coverage": "complete",
+      "review_status": "native extraction checked against source page image",
+      "figures": []
+    },
+    {
+      "pdf_page": 55,
+      "printed_page": 47,
+      "path": "pages/p0055.md",
+      "coverage": "complete",
+      "review_status": "native extraction checked against source page image",
+      "figures": []
+    },
+    {
+      "pdf_page": 56,
+      "printed_page": 48,
+      "path": "pages/p0056.md",
+      "coverage": "complete",
+      "review_status": "native extraction checked against source page image",
+      "figures": []
+    },
+    {
+      "pdf_page": 57,
+      "printed_page": 49,
+      "path": "pages/p0057.md",
+      "coverage": "complete",
+      "review_status": "native extraction checked against source page image",
+      "figures": []
+    },
+    {
+      "pdf_page": 58,
+      "printed_page": 50,
+      "path": "pages/p0058.md",
+      "coverage": "complete",
+      "review_status": "native extraction checked against source page image",
+      "figures": []
+    },
+    {
+      "pdf_page": 59,
+      "printed_page": 51,
+      "path": "pages/p0059.md",
+      "coverage": "complete",
+      "review_status": "native extraction checked against source page image",
+      "figures": []
+    },
+    {
+      "pdf_page": 60,
+      "printed_page": 52,
+      "path": "pages/p0060.md",
+      "coverage": "complete",
+      "review_status": "native extraction visually checked against source page",
+      "figures": []
+    },
+    {
+      "pdf_page": 61,
+      "printed_page": 53,
+      "path": "pages/p0061.md",
+      "coverage": "complete",
+      "review_status": "native text visually checked; diagram saved from source crop",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0061-diagram.png",
+          "source_pdf_page": 61,
+          "crop_bounds_points": [
+            50,
+            120,
+            550,
+            690
+          ],
+          "crop_method": "PyMuPDF page-region crop at 2x",
+          "caption": "پله‌های تحولات فرهنگی غرب",
+          "alt": "نمودار پله‌ای تحولات فرهنگی غرب با برچسب‌های درون شکل"
+        }
+      ]
+    },
+    {
+      "pdf_page": 62,
+      "printed_page": 54,
+      "path": "pages/p0062.md",
+      "coverage": "complete",
+      "review_status": "page layout visually checked; response spaces left empty",
+      "figures": []
+    },
+    {
+      "pdf_page": 63,
+      "printed_page": null,
+      "path": "pages/p0063.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0063-source-page.png",
+          "source_pdf_page": 63,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 63 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 64,
+      "printed_page": null,
+      "path": "pages/p0064.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0064-source-page.png",
+          "source_pdf_page": 64,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 64 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 65,
+      "printed_page": null,
+      "path": "pages/p0065.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 66,
+      "printed_page": null,
+      "path": "pages/p0066.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0066-source-page.png",
+          "source_pdf_page": 66,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 66 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 67,
+      "printed_page": null,
+      "path": "pages/p0067.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0067-source-page.png",
+          "source_pdf_page": 67,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 67 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 68,
+      "printed_page": null,
+      "path": "pages/p0068.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 69,
+      "printed_page": null,
+      "path": "pages/p0069.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0069-source-page.png",
+          "source_pdf_page": 69,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 69 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 70,
+      "printed_page": null,
+      "path": "pages/p0070.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 71,
+      "printed_page": null,
+      "path": "pages/p0071.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 72,
+      "printed_page": null,
+      "path": "pages/p0072.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0072-source-page.png",
+          "source_pdf_page": 72,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 72 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 73,
+      "printed_page": null,
+      "path": "pages/p0073.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 74,
+      "printed_page": null,
+      "path": "pages/p0074.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0074-source-page.png",
+          "source_pdf_page": 74,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 74 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 75,
+      "printed_page": null,
+      "path": "pages/p0075.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 76,
+      "printed_page": null,
+      "path": "pages/p0076.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0076-source-page.png",
+          "source_pdf_page": 76,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 76 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 77,
+      "printed_page": null,
+      "path": "pages/p0077.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0077-source-page.png",
+          "source_pdf_page": 77,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 77 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 78,
+      "printed_page": null,
+      "path": "pages/p0078.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0078-source-page.png",
+          "source_pdf_page": 78,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 78 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 79,
+      "printed_page": null,
+      "path": "pages/p0079.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 80,
+      "printed_page": null,
+      "path": "pages/p0080.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 81,
+      "printed_page": null,
+      "path": "pages/p0081.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0081-source-page.png",
+          "source_pdf_page": 81,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 81 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 82,
+      "printed_page": null,
+      "path": "pages/p0082.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 83,
+      "printed_page": null,
+      "path": "pages/p0083.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0083-source-page.png",
+          "source_pdf_page": 83,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 83 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 84,
+      "printed_page": null,
+      "path": "pages/p0084.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0084-source-page.png",
+          "source_pdf_page": 84,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 84 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 85,
+      "printed_page": null,
+      "path": "pages/p0085.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0085-source-page.png",
+          "source_pdf_page": 85,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 85 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 86,
+      "printed_page": null,
+      "path": "pages/p0086.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0086-source-page.png",
+          "source_pdf_page": 86,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 86 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 87,
+      "printed_page": null,
+      "path": "pages/p0087.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0087-source-page.png",
+          "source_pdf_page": 87,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 87 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 88,
+      "printed_page": null,
+      "path": "pages/p0088.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0088-source-page.png",
+          "source_pdf_page": 88,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 88 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 89,
+      "printed_page": null,
+      "path": "pages/p0089.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0089-source-page.png",
+          "source_pdf_page": 89,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 89 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 90,
+      "printed_page": null,
+      "path": "pages/p0090.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 91,
+      "printed_page": null,
+      "path": "pages/p0091.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0091-source-page.png",
+          "source_pdf_page": 91,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 91 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 92,
+      "printed_page": null,
+      "path": "pages/p0092.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0092-source-page.png",
+          "source_pdf_page": 92,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 92 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 93,
+      "printed_page": null,
+      "path": "pages/p0093.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0093-source-page.png",
+          "source_pdf_page": 93,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 93 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 94,
+      "printed_page": null,
+      "path": "pages/p0094.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0094-source-page.png",
+          "source_pdf_page": 94,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 94 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 95,
+      "printed_page": null,
+      "path": "pages/p0095.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 96,
+      "printed_page": null,
+      "path": "pages/p0096.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0096-source-page.png",
+          "source_pdf_page": 96,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 96 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 97,
+      "printed_page": null,
+      "path": "pages/p0097.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0097-source-page.png",
+          "source_pdf_page": 97,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 97 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 98,
+      "printed_page": null,
+      "path": "pages/p0098.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 99,
+      "printed_page": null,
+      "path": "pages/p0099.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0099-source-page.png",
+          "source_pdf_page": 99,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 99 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 100,
+      "printed_page": null,
+      "path": "pages/p0100.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0100-source-page.png",
+          "source_pdf_page": 100,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 100 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 101,
+      "printed_page": null,
+      "path": "pages/p0101.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0101-source-page.png",
+          "source_pdf_page": 101,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 101 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 102,
+      "printed_page": null,
+      "path": "pages/p0102.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0102-source-page.png",
+          "source_pdf_page": 102,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 102 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 103,
+      "printed_page": null,
+      "path": "pages/p0103.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0103-source-page.png",
+          "source_pdf_page": 103,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 103 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 104,
+      "printed_page": null,
+      "path": "pages/p0104.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 105,
+      "printed_page": null,
+      "path": "pages/p0105.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 106,
+      "printed_page": null,
+      "path": "pages/p0106.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0106-source-page.png",
+          "source_pdf_page": 106,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 106 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 107,
+      "printed_page": null,
+      "path": "pages/p0107.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 108,
+      "printed_page": null,
+      "path": "pages/p0108.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 109,
+      "printed_page": null,
+      "path": "pages/p0109.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0109-source-page.png",
+          "source_pdf_page": 109,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 109 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 110,
+      "printed_page": null,
+      "path": "pages/p0110.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 111,
+      "printed_page": null,
+      "path": "pages/p0111.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 112,
+      "printed_page": 104,
+      "path": "pages/p0112.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 113,
+      "printed_page": null,
+      "path": "pages/p0113.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0113-source-page.png",
+          "source_pdf_page": 113,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 113 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 114,
+      "printed_page": null,
+      "path": "pages/p0114.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 115,
+      "printed_page": null,
+      "path": "pages/p0115.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0115-source-page.png",
+          "source_pdf_page": 115,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 115 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 116,
+      "printed_page": null,
+      "path": "pages/p0116.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 117,
+      "printed_page": null,
+      "path": "pages/p0117.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0117-source-page.png",
+          "source_pdf_page": 117,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 117 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 118,
+      "printed_page": null,
+      "path": "pages/p0118.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 119,
+      "printed_page": null,
+      "path": "pages/p0119.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0119-source-page.png",
+          "source_pdf_page": 119,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 119 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 120,
+      "printed_page": null,
+      "path": "pages/p0120.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0120-source-page.png",
+          "source_pdf_page": 120,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 120 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 121,
+      "printed_page": null,
+      "path": "pages/p0121.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 122,
+      "printed_page": null,
+      "path": "pages/p0122.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 123,
+      "printed_page": null,
+      "path": "pages/p0123.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0123-source-page.png",
+          "source_pdf_page": 123,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 123 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 124,
+      "printed_page": null,
+      "path": "pages/p0124.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0124-source-page.png",
+          "source_pdf_page": 124,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 124 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 125,
+      "printed_page": null,
+      "path": "pages/p0125.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0125-source-page.png",
+          "source_pdf_page": 125,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 125 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 126,
+      "printed_page": null,
+      "path": "pages/p0126.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 127,
+      "printed_page": null,
+      "path": "pages/p0127.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0127-source-page.png",
+          "source_pdf_page": 127,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 127 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 128,
+      "printed_page": null,
+      "path": "pages/p0128.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 129,
+      "printed_page": null,
+      "path": "pages/p0129.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0129-source-page.png",
+          "source_pdf_page": 129,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 129 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 130,
+      "printed_page": null,
+      "path": "pages/p0130.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0130-source-page.png",
+          "source_pdf_page": 130,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 130 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 131,
+      "printed_page": null,
+      "path": "pages/p0131.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 132,
+      "printed_page": null,
+      "path": "pages/p0132.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0132-source-page.png",
+          "source_pdf_page": 132,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 132 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 133,
+      "printed_page": null,
+      "path": "pages/p0133.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 134,
+      "printed_page": null,
+      "path": "pages/p0134.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0134-source-page.png",
+          "source_pdf_page": 134,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 134 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 135,
+      "printed_page": null,
+      "path": "pages/p0135.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 136,
+      "printed_page": null,
+      "path": "pages/p0136.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0136-source-page.png",
+          "source_pdf_page": 136,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 136 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 137,
+      "printed_page": null,
+      "path": "pages/p0137.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0137-source-page.png",
+          "source_pdf_page": 137,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 137 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 138,
+      "printed_page": null,
+      "path": "pages/p0138.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 139,
+      "printed_page": null,
+      "path": "pages/p0139.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0139-source-page.png",
+          "source_pdf_page": 139,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 139 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 140,
+      "printed_page": null,
+      "path": "pages/p0140.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0140-source-page.png",
+          "source_pdf_page": 140,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 140 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 141,
+      "printed_page": null,
+      "path": "pages/p0141.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0141-source-page.png",
+          "source_pdf_page": 141,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 141 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 142,
+      "printed_page": null,
+      "path": "pages/p0142.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0142-source-page.png",
+          "source_pdf_page": 142,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 142 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 143,
+      "printed_page": null,
+      "path": "pages/p0143.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0143-source-page.png",
+          "source_pdf_page": 143,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 143 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 144,
+      "printed_page": null,
+      "path": "pages/p0144.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 145,
+      "printed_page": null,
+      "path": "pages/p0145.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0145-source-page.png",
+          "source_pdf_page": 145,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 145 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 146,
+      "printed_page": null,
+      "path": "pages/p0146.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0146-source-page.png",
+          "source_pdf_page": 146,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 146 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 147,
+      "printed_page": null,
+      "path": "pages/p0147.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 148,
+      "printed_page": null,
+      "path": "pages/p0148.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111222-p0148-source-page.png",
+          "source_pdf_page": 148,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 148 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+        }
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "path": "assets/figures/C111222-p0061-diagram.png",
+      "source_pdf_page": 61,
+      "crop_bounds_points": [
+        50,
+        120,
+        550,
+        690
+      ],
+      "crop_method": "PyMuPDF page-region crop at 2x",
+      "caption": "پله‌های تحولات فرهنگی غرب",
+      "alt": "نمودار پله‌ای تحولات فرهنگی غرب با برچسب‌های درون شکل"
+    },
+    {
+      "path": "assets/figures/C111222-p0063-source-page.png",
+      "source_pdf_page": 63,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 63 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0064-source-page.png",
+      "source_pdf_page": 64,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 64 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0066-source-page.png",
+      "source_pdf_page": 66,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 66 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0067-source-page.png",
+      "source_pdf_page": 67,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 67 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0069-source-page.png",
+      "source_pdf_page": 69,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 69 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0072-source-page.png",
+      "source_pdf_page": 72,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 72 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0074-source-page.png",
+      "source_pdf_page": 74,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 74 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0076-source-page.png",
+      "source_pdf_page": 76,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 76 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0077-source-page.png",
+      "source_pdf_page": 77,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 77 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0078-source-page.png",
+      "source_pdf_page": 78,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 78 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0081-source-page.png",
+      "source_pdf_page": 81,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 81 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0083-source-page.png",
+      "source_pdf_page": 83,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 83 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0084-source-page.png",
+      "source_pdf_page": 84,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 84 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0085-source-page.png",
+      "source_pdf_page": 85,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 85 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0086-source-page.png",
+      "source_pdf_page": 86,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 86 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0087-source-page.png",
+      "source_pdf_page": 87,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 87 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0088-source-page.png",
+      "source_pdf_page": 88,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 88 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0089-source-page.png",
+      "source_pdf_page": 89,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 89 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0091-source-page.png",
+      "source_pdf_page": 91,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 91 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0092-source-page.png",
+      "source_pdf_page": 92,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 92 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0093-source-page.png",
+      "source_pdf_page": 93,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 93 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0094-source-page.png",
+      "source_pdf_page": 94,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 94 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0096-source-page.png",
+      "source_pdf_page": 96,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 96 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0097-source-page.png",
+      "source_pdf_page": 97,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 97 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0099-source-page.png",
+      "source_pdf_page": 99,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 99 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0100-source-page.png",
+      "source_pdf_page": 100,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 100 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0101-source-page.png",
+      "source_pdf_page": 101,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 101 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0102-source-page.png",
+      "source_pdf_page": 102,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 102 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0103-source-page.png",
+      "source_pdf_page": 103,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 103 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0106-source-page.png",
+      "source_pdf_page": 106,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 106 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0109-source-page.png",
+      "source_pdf_page": 109,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 109 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0113-source-page.png",
+      "source_pdf_page": 113,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 113 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0115-source-page.png",
+      "source_pdf_page": 115,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 115 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0117-source-page.png",
+      "source_pdf_page": 117,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 117 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0119-source-page.png",
+      "source_pdf_page": 119,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 119 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0120-source-page.png",
+      "source_pdf_page": 120,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 120 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0123-source-page.png",
+      "source_pdf_page": 123,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 123 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0124-source-page.png",
+      "source_pdf_page": 124,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 124 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0125-source-page.png",
+      "source_pdf_page": 125,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 125 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0127-source-page.png",
+      "source_pdf_page": 127,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 127 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0129-source-page.png",
+      "source_pdf_page": 129,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 129 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0130-source-page.png",
+      "source_pdf_page": 130,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 130 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0132-source-page.png",
+      "source_pdf_page": 132,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 132 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0134-source-page.png",
+      "source_pdf_page": 134,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 134 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0136-source-page.png",
+      "source_pdf_page": 136,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 136 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0137-source-page.png",
+      "source_pdf_page": 137,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 137 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0139-source-page.png",
+      "source_pdf_page": 139,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 139 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0140-source-page.png",
+      "source_pdf_page": 140,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 140 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0141-source-page.png",
+      "source_pdf_page": 141,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 141 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0142-source-page.png",
+      "source_pdf_page": 142,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 142 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0143-source-page.png",
+      "source_pdf_page": 143,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 143 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0145-source-page.png",
+      "source_pdf_page": 145,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 145 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0146-source-page.png",
+      "source_pdf_page": 146,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 146 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    },
+    {
+      "path": "assets/figures/C111222-p0148-source-page.png",
+      "source_pdf_page": 148,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 148 از کتاب جامعه‌شناسی (۲)، شامل عناصر تصویری صفحه"
+    }
+  ],
+  "uncertainties": [],
+  "completed_pages": 148,
+  "status": "complete"
+}

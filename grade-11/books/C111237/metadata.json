@@ -1,0 +1,20 @@
+{
+  "book_code": "C111237",
+  "title": "زمین شناسی",
+  "grade": 11,
+  "branches": [
+    "math",
+    "science"
+  ],
+  "edition": "1405-1406",
+  "language": "fa",
+  "source": {
+    "catalog_url": "http://chap.sch.ir/books/14332",
+    "pdf_url": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/41/C111237.pdf",
+    "sha256": "d3933fd129e01b66c3ab681b1c849175fc6202f59a2fd87eb436522cb8182f54",
+    "pdf_page_count": 128
+  },
+  "coverage": "complete",
+  "content_review": "not_validated",
+  "pdf_page_count": 128
+}

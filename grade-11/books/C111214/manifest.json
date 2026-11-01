@@ -1,0 +1,3657 @@
+{
+  "schema_version": 1,
+  "book": {
+    "title": "حسابان (1)",
+    "grade": 11,
+    "branches": [
+      "math"
+    ],
+    "book_code": "C111214",
+    "edition": "1405-1406",
+    "year": "1405-1406",
+    "language": "fa"
+  },
+  "source": {
+    "catalog_url": "http://chap.sch.ir/books/14323",
+    "pdf_url": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/30/C111214.pdf",
+    "local_pdf": "sources/C111214.pdf",
+    "sha256": "90df61785a842f60bd2291c7c0c35d2d35b494843ec66fceab474da980337678",
+    "pdf_page_count": 160,
+    "retrieved_at": null
+  },
+  "pages": [
+    {
+      "pdf_page": 1,
+      "file": "pages/0001.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 2,
+      "file": "pages/0002.md",
+      "status": "transcribed",
+      "uncertainties": [
+        "Some small credit names and address numerals require review."
+      ]
+    },
+    {
+      "pdf_page": 3,
+      "file": "pages/0003.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 4,
+      "file": "pages/0004.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 5,
+      "file": "pages/0005.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 6,
+      "file": "pages/0006.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 7,
+      "file": "pages/0007.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 8,
+      "printed_page": 2,
+      "file": "pages/0008.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 9,
+      "printed_page": 3,
+      "file": "pages/0009.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 10,
+      "printed_page": 4,
+      "file": "pages/0010.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 11,
+      "printed_page": 5,
+      "file": "pages/0011.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 12,
+      "printed_page": 6,
+      "file": "pages/0012.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 13,
+      "printed_page": 7,
+      "file": "pages/0013.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 14,
+      "printed_page": 8,
+      "file": "pages/0014.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 15,
+      "printed_page": 9,
+      "file": "pages/0015.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 16,
+      "printed_page": 10,
+      "file": "pages/0016.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 17,
+      "printed_page": 11,
+      "file": "pages/0017.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 18,
+      "printed_page": 12,
+      "file": "pages/0018.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 19,
+      "printed_page": 13,
+      "file": "pages/0019.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 20,
+      "printed_page": 14,
+      "file": "pages/0020.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 21,
+      "printed_page": 15,
+      "file": "pages/0021.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 22,
+      "printed_page": 16,
+      "file": "pages/0022.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 23,
+      "printed_page": 17,
+      "file": "pages/0023.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 24,
+      "printed_page": 18,
+      "file": "pages/0024.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 25,
+      "printed_page": 19,
+      "file": "pages/0025.md",
+      "status": "transcribed",
+      "uncertainties": [
+        "برخی اعداد متن خواندنی نیازمند بررسی هستند."
+      ]
+    },
+    {
+      "pdf_page": 26,
+      "printed_page": 20,
+      "file": "pages/0026.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 27,
+      "printed_page": 21,
+      "file": "pages/0027.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 28,
+      "printed_page": 22,
+      "file": "pages/0028.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 29,
+      "printed_page": 23,
+      "file": "pages/0029.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 30,
+      "printed_page": 24,
+      "file": "pages/0030.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 31,
+      "printed_page": 25,
+      "file": "pages/0031.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 32,
+      "printed_page": 26,
+      "file": "pages/0032.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 33,
+      "printed_page": 27,
+      "file": "pages/0033.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 34,
+      "printed_page": 28,
+      "file": "pages/0034.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 35,
+      "printed_page": 29,
+      "file": "pages/0035.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 36,
+      "printed_page": 30,
+      "file": "pages/0036.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 37,
+      "printed_page": 31,
+      "file": "pages/0037.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 38,
+      "printed_page": 32,
+      "file": "pages/0038.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 39,
+      "printed_page": 33,
+      "file": "pages/0039.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 40,
+      "printed_page": 34,
+      "file": "pages/0040.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 41,
+      "printed_page": 35,
+      "file": "pages/0041.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 42,
+      "printed_page": 36,
+      "file": "pages/0042.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 43,
+      "printed_page": 37,
+      "file": "pages/0043.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 44,
+      "printed_page": 38,
+      "file": "pages/0044.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 45,
+      "printed_page": 39,
+      "file": "pages/0045.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 46,
+      "printed_page": 40,
+      "file": "pages/0046.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 47,
+      "printed_page": 41,
+      "file": "pages/0047.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 48,
+      "printed_page": 42,
+      "file": "pages/0048.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 49,
+      "printed_page": 43,
+      "file": "pages/0049.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 50,
+      "printed_page": 44,
+      "file": "pages/0050.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 51,
+      "printed_page": 45,
+      "file": "pages/0051.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 52,
+      "printed_page": 46,
+      "file": "pages/0052.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 53,
+      "printed_page": 47,
+      "file": "pages/0053.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 54,
+      "printed_page": 48,
+      "file": "pages/0054.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 55,
+      "printed_page": 49,
+      "file": "pages/0055.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 56,
+      "file": "pages/0056.md",
+      "status": "transcribed",
+      "assets": [
+        {
+          "file": "assets/p0056-fig1.png",
+          "source_page": 56,
+          "crop_bounds": [
+            230,
+            195,
+            507.5,
+            385
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "دستگاه مختصات برای رسم نمودار هزینه توقف"
+        },
+        {
+          "file": "assets/p0056-fig2.png",
+          "source_page": 56,
+          "crop_bounds": [
+            227.5,
+            412.5,
+            510,
+            610
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "دستگاه مختصات برای رسم تابع پله‌ای"
+        }
+      ]
+    },
+    {
+      "pdf_page": 57,
+      "file": "pages/0057.md",
+      "status": "transcribed",
+      "assets": [
+        {
+          "file": "assets/p0057-fig1.png",
+          "source_page": 57,
+          "crop_bounds": [
+            70.0,
+            112.5,
+            522.5,
+            158.5
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "محور اعداد با نقاط منفی چهار و نیم، یک سوم، رادیکال سه و پنج و نه دهم"
+        },
+        {
+          "file": "assets/p0057-fig2.png",
+          "source_page": 57,
+          "crop_bounds": [
+            255.0,
+            240.0,
+            490.0,
+            410.0
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "نمودار تابع جزء صحیح از منفی دو تا سه"
+        },
+        {
+          "file": "assets/p0057-fig3.png",
+          "source_page": 57,
+          "crop_bounds": [
+            75.0,
+            522.5,
+            225.0,
+            700.0
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "نمودار ناقص برای تابع جزء صحیح دو ایکس"
+        }
+      ]
+    },
+    {
+      "pdf_page": 58,
+      "file": "pages/0058.md",
+      "status": "transcribed",
+      "assets": [
+        {
+          "file": "assets/p0058-fig1.png",
+          "source_page": 58,
+          "crop_bounds": [
+            265.0,
+            117.5,
+            440.0,
+            215.0
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "نمودار ناقص تابع جزء صحیح یک سوم ایکس"
+        },
+        {
+          "file": "assets/p0058-fig2.png",
+          "source_page": 58,
+          "crop_bounds": [
+            52.5,
+            457.5,
+            510.0,
+            647.5
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "نمودار تابع یک بر ایکس و محور خالی تابع جی"
+        }
+      ]
+    },
+    {
+      "pdf_page": 59,
+      "file": "pages/0059.md",
+      "status": "transcribed",
+      "assets": [
+        {
+          "file": "assets/p0059-fig1.png",
+          "source_page": 59,
+          "crop_bounds": [
+            70,
+            299,
+            272,
+            452
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "تصویر رودخانه و پل"
+        }
+      ]
+    },
+    {
+      "pdf_page": 60,
+      "file": "pages/0060.md",
+      "status": "transcribed",
+      "assets": [
+        {
+          "file": "assets/p0060-fig1.png",
+          "source_page": 60,
+          "crop_bounds": [
+            55,
+            235,
+            430,
+            370
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "نمودار پیکانی تابع‌های طول ضلع مربع به مساحت مربع و عدد به توان دوم عدد"
+        }
+      ]
+    },
+    {
+      "pdf_page": 61,
+      "file": "pages/0061.md",
+      "status": "transcribed",
+      "assets": [
+        {
+          "file": "assets/p0061-fig1.png",
+          "source_page": 61,
+          "crop_bounds": [
+            65,
+            215,
+            382,
+            465
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "چهار نمودار پیکانی توابع الف، ب، پ و ت"
+        },
+        {
+          "file": "assets/p0061-fig2.png",
+          "source_page": 61,
+          "crop_bounds": [
+            65,
+            570,
+            430,
+            700
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "تابع یک به یک و تابعی که یک به یک نیست"
+        }
+      ]
+    },
+    {
+      "pdf_page": 62,
+      "file": "pages/0062.md",
+      "status": "transcribed",
+      "assets": [
+        {
+          "file": "assets/p0062-fig1.png",
+          "source_page": 62,
+          "crop_bounds": [
+            55,
+            155,
+            510,
+            285
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "چهار نمودار الف، ب، پ و ت"
+        },
+        {
+          "file": "assets/p0062-fig2.png",
+          "source_page": 62,
+          "crop_bounds": [
+            50,
+            470,
+            510,
+            620
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "نمودارهای توابع اف، جی و اچ"
+        }
+      ]
+    },
+    {
+      "pdf_page": 63,
+      "file": "pages/0063.md",
+      "status": "transcribed",
+      "assets": [
+        {
+          "file": "assets/p0063-fig1.png",
+          "source_page": 63,
+          "crop_bounds": [
+            65,
+            172,
+            528,
+            285
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "نمودار چهار تابع قدر مطلق و سهمی"
+        },
+        {
+          "file": "assets/p0063-fig2.png",
+          "source_page": 63,
+          "crop_bounds": [
+            125,
+            375,
+            470,
+            515
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "نمودار ماشین تابع و ماشین وارون"
+        },
+        {
+          "file": "assets/p0063-fig3.png",
+          "source_page": 63,
+          "crop_bounds": [
+            92,
+            540,
+            245,
+            720
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "نمودار تابع دو ایکس به علاوه پنج"
+        }
+      ]
+    },
+    {
+      "pdf_page": 64,
+      "file": "pages/0064.md",
+      "status": "transcribed",
+      "assets": [
+        {
+          "file": "assets/p0064-fig1.png",
+          "source_page": 64,
+          "crop_bounds": [
+            55,
+            85,
+            330,
+            215
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "ماشین تابع و وارون آن برای سه و یازده"
+        },
+        {
+          "file": "assets/p0064-fig2.png",
+          "source_page": 64,
+          "crop_bounds": [
+            55,
+            235,
+            330,
+            365
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "ماشین تابع با یک جای خالی و ماشین وارون"
+        }
+      ]
+    },
+    {
+      "pdf_page": 65,
+      "file": "pages/0065.md",
+      "status": "transcribed",
+      "assets": [
+        {
+          "file": "assets/p0065-fig1.png",
+          "source_page": 65,
+          "crop_bounds": [
+            70,
+            240,
+            300,
+            455
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "دستگاه مختصات خالی برای رسم تابع و وارون"
+        },
+        {
+          "file": "assets/p0065-fig2.png",
+          "source_page": 65,
+          "crop_bounds": [
+            110,
+            465,
+            280,
+            640
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "دستگاه مختصات خالی برای رسم تابع رادیکالی و وارون"
+        }
+      ]
+    },
+    {
+      "pdf_page": 66,
+      "file": "pages/0066.md",
+      "status": "transcribed",
+      "assets": [
+        {
+          "file": "assets/p0066-fig1.png",
+          "source_page": 66,
+          "crop_bounds": [
+            90,
+            155,
+            470,
+            435
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "چهار نمودار تابع شامل پاره‌خط، سهمی، رادیکال و تابع ثابت"
+        },
+        {
+          "file": "assets/p0066-fig2.png",
+          "source_page": 66,
+          "crop_bounds": [
+            70,
+            510,
+            510,
+            700
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "نمودار تابع مربع و محدودیت آن به نیم‌محورهای منفی و مثبت"
+        }
+      ]
+    },
+    {
+      "pdf_page": 67,
+      "file": "pages/0067.md",
+      "status": "transcribed",
+      "assets": [
+        {
+          "file": "assets/p0067-fig1.png",
+          "source_page": 67,
+          "crop_bounds": [
+            70,
+            85,
+            215,
+            275
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "نمودار سهمی جی با رأس یک و دو"
+        },
+        {
+          "file": "assets/p0067-fig2.png",
+          "source_page": 67,
+          "crop_bounds": [
+            115,
+            505,
+            305,
+            700
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "نمودار تابع محدود شده و وارون آن نسبت به نیمساز"
+        }
+      ]
+    },
+    {
+      "pdf_page": 68,
+      "file": "pages/0068.md",
+      "status": "transcribed",
+      "assets": [
+        {
+          "file": "assets/p0068-fig1.png",
+          "source_page": 68,
+          "crop_bounds": [
+            0,
+            510,
+            552,
+            765
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": "آبشار پیران (استان کرمانشاه)",
+          "alt": "آبشار پیران، استان کرمانشاه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 69,
+      "file": "pages/0069.md",
+      "status": "transcribed",
+      "assets": [
+        {
+          "file": "assets/p0069-fig1.png",
+          "source_page": 69,
+          "crop_bounds": [
+            205,
+            530,
+            525,
+            595
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "فاصله عکس‌العمل اف ایکس و فاصله ترمز جی ایکس"
+        },
+        {
+          "file": "assets/p0069-fig2.png",
+          "source_page": 69,
+          "crop_bounds": [
+            28,
+            355,
+            198,
+            590
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "تصویر بزرگراه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 70,
+      "file": "pages/0070.md",
+      "status": "transcribed",
+      "assets": [
+        {
+          "file": "assets/p0070-fig1.png",
+          "source_page": 70,
+          "crop_bounds": [
+            72,
+            155,
+            245,
+            450
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "نمودار توابع اف و جی و مجموع آنها"
+        }
+      ]
+    },
+    {
+      "pdf_page": 71,
+      "file": "pages/0071.md",
+      "status": "transcribed",
+      "assets": [
+        {
+          "file": "assets/p0071-fig1.png",
+          "source_page": 71,
+          "crop_bounds": [
+            200,
+            355,
+            365,
+            435
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "نمایش دامنه‌های جی و اچ روی محور"
+        },
+        {
+          "file": "assets/p0071-fig2.png",
+          "source_page": 71,
+          "crop_bounds": [
+            70,
+            465,
+            295,
+            700
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "نمودارهای اف و جی و اف به علاوه جی"
+        }
+      ]
+    },
+    {
+      "pdf_page": 72,
+      "file": "pages/0072.md",
+      "status": "transcribed",
+      "assets": [
+        {
+          "file": "assets/p0072-fig1.png",
+          "source_page": 72,
+          "crop_bounds": [
+            55,
+            125,
+            300,
+            290
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "نمودارهای پاره‌خطی اف و جی"
+        },
+        {
+          "file": "assets/p0072-fig2.png",
+          "source_page": 72,
+          "crop_bounds": [
+            55,
+            560,
+            370,
+            720
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "دو جفت ماشین تابع اف و جی با جای خالی"
+        }
+      ]
+    },
+    {
+      "pdf_page": 73,
+      "file": "pages/0073.md",
+      "status": "transcribed",
+      "assets": [
+        {
+          "file": "assets/p0073-fig1.png",
+          "source_page": 73,
+          "crop_bounds": [
+            145,
+            115,
+            445,
+            235
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "نگاشت ایکس به اف ایکس و سپس جی اف ایکس"
+        },
+        {
+          "file": "assets/p0073-fig2.png",
+          "source_page": 73,
+          "crop_bounds": [
+            165,
+            485,
+            450,
+            610
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "نمودار دامنه و برد ترکیب دو تابع"
+        }
+      ]
+    },
+    {
+      "pdf_page": 74,
+      "file": "pages/0074.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 75,
+      "file": "pages/0075.md",
+      "status": "transcribed",
+      "assets": [
+        {
+          "file": "assets/p0075-fig1.png",
+          "source_page": 75,
+          "crop_bounds": [
+            85,
+            570,
+            255,
+            720
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "نمودار دو تابع خطی اف و جی"
+        }
+      ]
+    },
+    {
+      "pdf_page": 76,
+      "file": "pages/0076.md",
+      "status": "transcribed",
+      "assets": [
+        {
+          "file": "assets/p0076-fig1.png",
+          "source_page": 76,
+          "crop_bounds": [
+            65,
+            110,
+            230,
+            280
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "نمودار تابع رادیکالی اف و تابع خطی جی"
+        },
+        {
+          "file": "assets/p0076-fig2.png",
+          "source_page": 76,
+          "crop_bounds": [
+            55,
+            500,
+            515,
+            665
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "طرح جلد چهار کتاب خاطرات دفاع مقدس"
+        }
+      ]
+    },
+    {
+      "pdf_page": 77,
+      "file": "pages/0077.md",
+      "status": "transcribed",
+      "assets": [
+        {
+          "file": "assets/p0077-fig1.png",
+          "source_page": 77,
+          "crop_bounds": [
+            0,
+            300,
+            581,
+            710
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": "توابع نمایی در تخمین قدمت اشیای باستانی کاربرد دارند.",
+          "alt": "تصویر آثار باستانی"
+        },
+        {
+          "file": "assets/p0077-fig2.png",
+          "source_page": 77,
+          "crop_bounds": [
+            410,
+            110,
+            470,
+            165
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "رمزینه فصل سوم"
+        }
+      ]
+    },
+    {
+      "pdf_page": 78,
+      "file": "pages/0078.md",
+      "status": "transcribed",
+      "assets": [
+        {
+          "file": "assets/p0078-fig1.png",
+          "source_page": 78,
+          "crop_bounds": [
+            398,
+            475,
+            512,
+            542
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": "تقسیم دوتایی نوعی تولید مثل است که به تولید زاده‌هایی یکسان منجر می‌شود.",
+          "alt": "تقسیم دوتایی سلول‌ها"
+        }
+      ]
+    },
+    {
+      "pdf_page": 79,
+      "file": "pages/0079.md",
+      "status": "transcribed",
+      "assets": [
+        {
+          "file": "assets/p0079-fig1.png",
+          "source_page": 79,
+          "crop_bounds": [
+            70,
+            85,
+            280,
+            515
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "نقاط جرم باکتری‌ها بر حسب زمان"
+        }
+      ]
+    },
+    {
+      "pdf_page": 80,
+      "file": "pages/0080.md",
+      "status": "transcribed",
+      "assets": [
+        {
+          "file": "assets/p0080-fig1.png",
+          "source_page": 80,
+          "crop_bounds": [
+            265,
+            125,
+            470,
+            400
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "نقاط تابع نمایی روی دستگاه مختصات"
+        },
+        {
+          "file": "assets/p0080-fig2.png",
+          "source_page": 80,
+          "crop_bounds": [
+            55,
+            420,
+            360,
+            700
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "نمودار تابع نمایی و نقطه با طول رادیکال هفت"
+        },
+        {
+          "file": "assets/p0080-fig3.png",
+          "source_page": 80,
+          "crop_bounds": [
+            75,
+            170,
+            100,
+            380
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "ترتیب کلیدهای ماشین حساب برای دو به توان رادیکال دو"
+        }
+      ]
+    },
+    {
+      "pdf_page": 81,
+      "file": "pages/0081.md",
+      "status": "transcribed",
+      "assets": [
+        {
+          "file": "assets/p0081-fig1.png",
+          "source_page": 81,
+          "crop_bounds": [
+            70,
+            115,
+            280,
+            390
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "نمودار تابع دو به توان ایکس"
+        },
+        {
+          "file": "assets/p0081-fig2.png",
+          "source_page": 81,
+          "crop_bounds": [
+            95,
+            415,
+            260,
+            695
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "نمودار مقدار نمک حل نشده بر حسب زمان"
+        }
+      ]
+    },
+    {
+      "pdf_page": 82,
+      "file": "pages/0082.md",
+      "status": "transcribed",
+      "assets": [
+        {
+          "file": "assets/p0082-fig1.png",
+          "source_page": 82,
+          "crop_bounds": [
+            65,
+            450,
+            495,
+            710
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "شکل یک نمودار توابع نمایی با پایه بزرگ‌تر از یک و شکل دو پایه بین صفر و یک"
+        }
+      ]
+    },
+    {
+      "pdf_page": 83,
+      "file": "pages/0083.md",
+      "status": "transcribed",
+      "assets": [
+        {
+          "file": "assets/p0083-fig1.png",
+          "source_page": 83,
+          "crop_bounds": [
+            70,
+            515,
+            350,
+            695
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "کشت باکتری در ظرف آزمایشگاهی"
+        }
+      ]
+    },
+    {
+      "pdf_page": 84,
+      "file": "pages/0084.md",
+      "status": "transcribed",
+      "assets": [
+        {
+          "file": "assets/p0084-fig1.png",
+          "source_page": 84,
+          "crop_bounds": [
+            55,
+            95,
+            265,
+            370
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "سه نمودار انتقال‌یافته تابع نمایی"
+        },
+        {
+          "file": "assets/p0084-fig2.png",
+          "source_page": 84,
+          "crop_bounds": [
+            100,
+            420,
+            490,
+            700
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "نمودارهای دو به توان ایکس و سه به توان ایکس"
+        }
+      ]
+    },
+    {
+      "pdf_page": 85,
+      "file": "pages/0085.md",
+      "status": "transcribed",
+      "assets": [
+        {
+          "file": "assets/p0085-fig1.png",
+          "source_page": 85,
+          "crop_bounds": [
+            200,
+            145,
+            410,
+            385
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "نمودار تابع نمایی و خط سیزده دوم"
+        },
+        {
+          "file": "assets/p0085-fig2.png",
+          "source_page": 85,
+          "crop_bounds": [
+            175,
+            505,
+            425,
+            700
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "دستگاه تصفیه آب"
+        }
+      ]
+    },
+    {
+      "pdf_page": 86,
+      "file": "pages/0086.md",
+      "status": "transcribed",
+      "assets": [
+        {
+          "file": "assets/p0086-fig1.png",
+          "source_page": 86,
+          "crop_bounds": [
+            245,
+            440,
+            510,
+            705
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "نمودار تابع نمایی و وارون آن نسبت به خط وای مساوی ایکس"
+        }
+      ]
+    },
+    {
+      "pdf_page": 87,
+      "file": "pages/0087.md",
+      "status": "transcribed",
+      "assets": [
+        {
+          "file": "assets/p0087-fig1.png",
+          "source_page": 87,
+          "crop_bounds": [
+            80,
+            155,
+            250,
+            325
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "نمودار سه به توان ایکس و خط وای مساوی ایکس"
+        },
+        {
+          "file": "assets/p0087-fig2.png",
+          "source_page": 87,
+          "crop_bounds": [
+            95,
+            535,
+            240,
+            675
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "نمودار لگاریتم در پایه دو"
+        }
+      ]
+    },
+    {
+      "pdf_page": 88,
+      "file": "pages/0088.md",
+      "status": "transcribed",
+      "assets": [
+        {
+          "file": "assets/p0088-fig1.png",
+          "source_page": 88,
+          "crop_bounds": [
+            60,
+            85,
+            285,
+            240
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "نمودار لگاریتم در پایه سه"
+        },
+        {
+          "file": "assets/p0088-fig2.png",
+          "source_page": 88,
+          "crop_bounds": [
+            55,
+            380,
+            220,
+            700
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "کلیدهای ماشین حساب و نمایش لگاریتم یک چهارم"
+        }
+      ],
+      "uncertainties": [
+        "متن مثال نقطه منفی دو و در حل منفی ده چاپ شده است."
+      ]
+    },
+    {
+      "pdf_page": 89,
+      "file": "pages/0089.md",
+      "status": "transcribed",
+      "assets": [
+        {
+          "file": "assets/p0089-fig1.png",
+          "source_page": 89,
+          "crop_bounds": [
+            130,
+            565,
+            465,
+            700
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "سه نمودار لگاریتمی با پایه دو، سه و پنج"
+        }
+      ]
+    },
+    {
+      "pdf_page": 90,
+      "file": "pages/0090.md",
+      "status": "transcribed",
+      "assets": [
+        {
+          "file": "assets/p0090-fig1.png",
+          "source_page": 90,
+          "crop_bounds": [
+            195,
+            125,
+            380,
+            310
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "نمودار یک دوم به توان ایکس"
+        },
+        {
+          "file": "assets/p0090-fig2.png",
+          "source_page": 90,
+          "crop_bounds": [
+            80,
+            390,
+            475,
+            545
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "سه نمودار برای تطبیق با ضابطه‌ها"
+        }
+      ]
+    },
+    {
+      "pdf_page": 91,
+      "file": "pages/0091.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 92,
+      "file": "pages/0092.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 93,
+      "file": "pages/0093.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 94,
+      "file": "pages/0094.md",
+      "status": "transcribed",
+      "assets": [
+        {
+          "file": "assets/p0094-fig1.png",
+          "source_page": 94,
+          "crop_bounds": [
+            55,
+            300,
+            375,
+            510
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "نمودار نقاط جمعیت جهان بر حسب سال"
+        }
+      ]
+    },
+    {
+      "pdf_page": 95,
+      "file": "pages/0095.md",
+      "status": "transcribed",
+      "assets": [
+        {
+          "file": "assets/p0095-fig1.png",
+          "source_page": 95,
+          "crop_bounds": [
+            240,
+            265,
+            525,
+            425
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "تصویر ارگ بم"
+        }
+      ]
+    },
+    {
+      "pdf_page": 96,
+      "file": "pages/0096.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 97,
+      "file": "pages/0097.md",
+      "status": "transcribed",
+      "assets": [
+        {
+          "file": "assets/p0097-fig1.png",
+          "source_page": 97,
+          "crop_bounds": [
+            80,
+            300,
+            530,
+            690
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "سه تصویر فیبرهای نوری"
+        },
+        {
+          "file": "assets/p0097-fig2.png",
+          "source_page": 97,
+          "crop_bounds": [
+            435,
+            100,
+            490,
+            160
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "رمزینه فصل چهارم"
+        }
+      ]
+    },
+    {
+      "pdf_page": 98,
+      "file": "pages/0098.md",
+      "status": "transcribed",
+      "assets": [
+        {
+          "file": "assets/p0098-fig1.png",
+          "source_page": 98,
+          "crop_bounds": [
+            85,
+            295,
+            170,
+            375
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "دایره به شعاع دو سانتی‌متر و زاویه سی درجه"
+        },
+        {
+          "file": "assets/p0098-fig2.png",
+          "source_page": 98,
+          "crop_bounds": [
+            70,
+            460,
+            200,
+            580
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "سه دایره هم‌مرکز و کمان‌های متناظر زاویه آلفا"
+        }
+      ]
+    },
+    {
+      "pdf_page": 99,
+      "file": "pages/0099.md",
+      "status": "transcribed",
+      "assets": [
+        {
+          "file": "assets/p0099-fig1.png",
+          "source_page": 99,
+          "crop_bounds": [
+            235,
+            280,
+            315,
+            360
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "دایره با طول کمان برابر شعاع و زاویه تتا"
+        },
+        {
+          "file": "assets/p0099-fig2.png",
+          "source_page": 99,
+          "crop_bounds": [
+            55,
+            575,
+            540,
+            665
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "شش دایره نشان‌دهنده زوایای یک تا شش رادیان"
+        },
+        {
+          "file": "assets/p0099-fig3.png",
+          "source_page": 99,
+          "crop_bounds": [
+            70,
+            80,
+            220,
+            360
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "مراحل رسم یک رادیان با نخ"
+        }
+      ]
+    },
+    {
+      "pdf_page": 100,
+      "file": "pages/0100.md",
+      "status": "transcribed",
+      "assets": [
+        {
+          "file": "assets/p0100-fig1.png",
+          "source_page": 100,
+          "crop_bounds": [
+            75,
+            310,
+            165,
+            395
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "دایره با شعاع دو سانتی‌متر و زاویه بیست درجه"
+        },
+        {
+          "file": "assets/p0100-fig2.png",
+          "source_page": 100,
+          "crop_bounds": [
+            25,
+            575,
+            240,
+            700
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "دو قرقره متصل با تسمه"
+        }
+      ]
+    },
+    {
+      "pdf_page": 101,
+      "file": "pages/0101.md",
+      "status": "transcribed",
+      "assets": [
+        {
+          "file": "assets/p0101-fig1.png",
+          "source_page": 101,
+          "crop_bounds": [
+            50,
+            360,
+            540,
+            525
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "ده دایره مثلثاتی با زاویه‌های تتا"
+        }
+      ]
+    },
+    {
+      "pdf_page": 102,
+      "file": "pages/0102.md",
+      "status": "transcribed",
+      "assets": [
+        {
+          "file": "assets/p0102-fig1.png",
+          "source_page": 102,
+          "crop_bounds": [
+            65,
+            170,
+            510,
+            310
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "دایره‌های مثلثاتی برای رسم زاویه‌ها"
+        },
+        {
+          "file": "assets/p0102-fig2.png",
+          "source_page": 102,
+          "crop_bounds": [
+            55,
+            330,
+            285,
+            475
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "برف‌پاک‌کن عقب خودرو به طول ۲۴ سانتی‌متر"
+        },
+        {
+          "file": "assets/p0102-fig3.png",
+          "source_page": 102,
+          "crop_bounds": [
+            115,
+            555,
+            465,
+            665
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "مخروط و شکل گسترده آن"
+        }
+      ]
+    },
+    {
+      "pdf_page": 103,
+      "file": "pages/0103.md",
+      "status": "transcribed",
+      "assets": [
+        {
+          "file": "assets/p0103-fig1.png",
+          "source_page": 103,
+          "crop_bounds": [
+            75,
+            80,
+            215,
+            220
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "کره زمین، نقاط A و B و زاویه ۱۲ درجه"
+        },
+        {
+          "file": "assets/p0103-fig2.png",
+          "source_page": 103,
+          "crop_bounds": [
+            80,
+            260,
+            215,
+            385
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "فاصله ژئودزیک دو نقطه از کره زمین"
+        },
+        {
+          "file": "assets/p0103-fig3.png",
+          "source_page": 103,
+          "crop_bounds": [
+            80,
+            410,
+            220,
+            535
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "نصف‌النهارهای کره زمین"
+        },
+        {
+          "file": "assets/p0103-fig4.png",
+          "source_page": 103,
+          "crop_bounds": [
+            280,
+            470,
+            495,
+            645
+          ],
+          "method": "PyMuPDF clip, PDF points",
+          "caption": null,
+          "alt": "شکل هندسی مثلثات کروی"
+        }
+      ]
+    },
+    {
+      "pdf_page": 104,
+      "printed_page": 98,
+      "file": "pages/0104.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 105,
+      "printed_page": 99,
+      "file": "pages/0105.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 106,
+      "printed_page": 100,
+      "file": "pages/0106.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 107,
+      "printed_page": 101,
+      "file": "pages/0107.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 108,
+      "printed_page": 102,
+      "file": "pages/0108.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 109,
+      "printed_page": 103,
+      "file": "pages/0109.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 110,
+      "printed_page": 104,
+      "file": "pages/0110.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 111,
+      "printed_page": 105,
+      "file": "pages/0111.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 112,
+      "printed_page": 106,
+      "file": "pages/0112.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 113,
+      "printed_page": 107,
+      "file": "pages/0113.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 114,
+      "printed_page": 108,
+      "file": "pages/0114.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 115,
+      "printed_page": 109,
+      "file": "pages/0115.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 116,
+      "printed_page": 110,
+      "file": "pages/0116.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 117,
+      "printed_page": 111,
+      "file": "pages/0117.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 118,
+      "printed_page": 112,
+      "file": "pages/0118.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 119,
+      "file": "pages/0119.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 120,
+      "printed_page": 114,
+      "file": "pages/0120.md",
+      "status": "transcribed",
+      "uncertainties": [
+        "برخی ارقام جدول نیازمند بررسی هستند."
+      ]
+    },
+    {
+      "pdf_page": 121,
+      "printed_page": 115,
+      "file": "pages/0121.md",
+      "status": "transcribed",
+      "uncertainties": [
+        "کران‌های تقریبی ارشمیدس و شعر کوچک نیازمند بررسی است."
+      ]
+    },
+    {
+      "pdf_page": 122,
+      "printed_page": 116,
+      "file": "pages/0122.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 123,
+      "printed_page": 117,
+      "file": "pages/0123.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 124,
+      "printed_page": 118,
+      "file": "pages/0124.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 125,
+      "printed_page": 119,
+      "file": "pages/0125.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 126,
+      "printed_page": 120,
+      "file": "pages/0126.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 127,
+      "printed_page": 121,
+      "file": "pages/0127.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 128,
+      "printed_page": 122,
+      "file": "pages/0128.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 129,
+      "printed_page": 123,
+      "file": "pages/0129.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 130,
+      "printed_page": 124,
+      "file": "pages/0130.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 131,
+      "printed_page": 125,
+      "file": "pages/0131.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 132,
+      "printed_page": 126,
+      "file": "pages/0132.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 133,
+      "printed_page": 127,
+      "file": "pages/0133.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 134,
+      "printed_page": 128,
+      "file": "pages/0134.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 135,
+      "printed_page": 129,
+      "file": "pages/0135.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 136,
+      "printed_page": 130,
+      "file": "pages/0136.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 137,
+      "printed_page": 131,
+      "file": "pages/0137.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 138,
+      "printed_page": 132,
+      "file": "pages/0138.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 139,
+      "printed_page": 133,
+      "file": "pages/0139.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 140,
+      "printed_page": 134,
+      "file": "pages/0140.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 141,
+      "printed_page": 135,
+      "file": "pages/0141.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 142,
+      "printed_page": 136,
+      "file": "pages/0142.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 143,
+      "printed_page": 137,
+      "file": "pages/0143.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 144,
+      "printed_page": 138,
+      "file": "pages/0144.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 145,
+      "printed_page": 139,
+      "file": "pages/0145.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 146,
+      "printed_page": 140,
+      "file": "pages/0146.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 147,
+      "printed_page": 141,
+      "file": "pages/0147.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 148,
+      "printed_page": 142,
+      "file": "pages/0148.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 149,
+      "printed_page": 143,
+      "file": "pages/0149.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 150,
+      "printed_page": 144,
+      "file": "pages/0150.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 151,
+      "printed_page": 145,
+      "file": "pages/0151.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 152,
+      "printed_page": 146,
+      "file": "pages/0152.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 153,
+      "printed_page": 147,
+      "file": "pages/0153.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 154,
+      "printed_page": 148,
+      "file": "pages/0154.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 155,
+      "printed_page": 149,
+      "file": "pages/0155.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 156,
+      "printed_page": 150,
+      "file": "pages/0156.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 157,
+      "printed_page": 151,
+      "file": "pages/0157.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 158,
+      "file": "pages/0158.md",
+      "status": "transcribed",
+      "uncertainties": [
+        "برخی نام‌ها و کدهای کتاب منابع نیازمند بررسی است."
+      ]
+    },
+    {
+      "pdf_page": 159,
+      "file": "pages/0159.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 160,
+      "file": "pages/0160.md",
+      "status": "transcribed",
+      "uncertainties": [
+        "برخی اسامی نیازمند بررسی هستند."
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "pdf_page": 3,
+      "file": "assets/0003-portrait.png",
+      "crop": "full page rendered at 1.8x",
+      "caption": "",
+      "alt": "تصویر امام خمینی"
+    },
+    {
+      "pdf_page": 7,
+      "file": "assets/0007-chapter.png",
+      "crop": "full page rendered at 1.8x",
+      "caption": "آرامگاه دانیال نبی",
+      "alt": "آرامگاه دانیال نبی در شهر شوش"
+    },
+    {
+      "pdf_page": 8,
+      "file": "assets/0008-buttons.png",
+      "crop_bounds_pdf_points": [
+        52,
+        300,
+        205,
+        630
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "",
+      "alt": "آرایش مثلثی دگمه‌ها و آرایش مستطیلی دگمه‌های آبی و قرمز"
+    },
+    {
+      "pdf_page": 10,
+      "file": "assets/0010-balls.png",
+      "crop_bounds_pdf_points": [
+        125,
+        275,
+        425,
+        375
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "",
+      "alt": "سبد و توپ‌ها به فاصله‌های سه متر"
+    },
+    {
+      "pdf_page": 12,
+      "file": "assets/0012-dots.png",
+      "crop_bounds_pdf_points": [
+        70,
+        315,
+        205,
+        425
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "",
+      "alt": "آرایش مربعی نقطه‌های رنگی"
+    },
+    {
+      "pdf_page": 13,
+      "file": "assets/0013-bridge.png",
+      "crop_bounds_pdf_points": [
+        27,
+        510,
+        580,
+        765
+      ],
+      "method": "PyMuPDF render 1.5x",
+      "caption": "پل پارک جزیره (اهواز ـ استان خوزستان)",
+      "alt": "پل پارک جزیره اهواز"
+    },
+    {
+      "pdf_page": 16,
+      "file": "assets/0016-graph.png",
+      "crop_bounds_pdf_points": [
+        55,
+        155,
+        240,
+        330
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "",
+      "alt": "نمودار سهمی"
+    },
+    {
+      "pdf_page": 16,
+      "file": "assets/0016-grid.png",
+      "crop_bounds_pdf_points": [
+        55,
+        510,
+        250,
+        700
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "",
+      "alt": "دستگاه مختصات خالی"
+    },
+    {
+      "pdf_page": 17,
+      "file": "assets/0017-parabola.png",
+      "crop_bounds_pdf_points": [
+        175,
+        275,
+        430,
+        465
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "",
+      "alt": "سهمی با صفرهای ۲ و ۶ و عرض از مبدأ ۳"
+    },
+    {
+      "pdf_page": 18,
+      "file": "assets/0018-graphs.png",
+      "crop_bounds_pdf_points": [
+        50,
+        125,
+        260,
+        650
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "",
+      "alt": "نه نمودار سهمی شماره‌گذاری‌شده"
+    },
+    {
+      "pdf_page": 19,
+      "file": "assets/0019-division.png",
+      "crop_bounds_pdf_points": [
+        65,
+        80,
+        235,
+        260
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "",
+      "alt": "تقسیم چندجمله‌ای بر x منهای ۲"
+    },
+    {
+      "pdf_page": 20,
+      "file": "assets/0020-grid.png",
+      "crop_bounds_pdf_points": [
+        95,
+        170,
+        225,
+        320
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "",
+      "alt": "دستگاه مختصات خالی"
+    },
+    {
+      "pdf_page": 20,
+      "file": "assets/0020-graph.png",
+      "crop_bounds_pdf_points": [
+        195,
+        485,
+        350,
+        645
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "",
+      "alt": "نمودار قدر مطلق و سهمی"
+    },
+    {
+      "pdf_page": 21,
+      "file": "assets/0021-parabolas.png",
+      "crop_bounds_pdf_points": [
+        115,
+        245,
+        480,
+        375
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "",
+      "alt": "دو نمودار سهمی الف و ب"
+    },
+    {
+      "pdf_page": 21,
+      "file": "assets/0021-ball.png",
+      "crop_bounds_pdf_points": [
+        65,
+        405,
+        260,
+        480
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "",
+      "alt": "مسیر توپ فوتبال"
+    },
+    {
+      "pdf_page": 22,
+      "file": "assets/0022-parabolas.png",
+      "crop_bounds_pdf_points": [
+        50,
+        160,
+        510,
+        380
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "",
+      "alt": "چهار سهمی با رأس‌های مشخص"
+    },
+    {
+      "pdf_page": 22,
+      "file": "assets/0022-pool.png",
+      "crop_bounds_pdf_points": [
+        55,
+        390,
+        255,
+        515
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "",
+      "alt": "استخر ده در سه و آبراه بتونی اطراف آن"
+    },
+    {
+      "pdf_page": 25,
+      "file": "assets/0025-mosque.png",
+      "crop_bounds_pdf_points": [
+        70,
+        495,
+        525,
+        690
+      ],
+      "method": "PyMuPDF render 1.5x",
+      "caption": "مسجد شیخ لطف‌الله",
+      "alt": "مسجد شیخ لطف‌الله"
+    },
+    {
+      "pdf_page": 26,
+      "file": "assets/0026-path.png",
+      "crop_bounds_pdf_points": [
+        280,
+        295,
+        445,
+        390
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "",
+      "alt": "مسیر از A به B و سپس C"
+    },
+    {
+      "pdf_page": 26,
+      "file": "assets/0026-triangle.png",
+      "crop_bounds_pdf_points": [
+        55,
+        365,
+        210,
+        495
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "",
+      "alt": "مثلث قائم AHB و فاصله BC"
+    },
+    {
+      "pdf_page": 28,
+      "file": "assets/0028-river.png",
+      "crop_bounds_pdf_points": [
+        55,
+        495,
+        510,
+        690
+      ],
+      "method": "PyMuPDF render 1.5x",
+      "caption": "رودخانه اروند (استان خوزستان)",
+      "alt": "رودخانه اروند در استان خوزستان"
+    },
+    {
+      "pdf_page": 29,
+      "file": "assets/0029-water.png",
+      "crop_bounds_pdf_points": [
+        65,
+        390,
+        290,
+        700
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "آب انبار ـ روستای پاده (استان سمنان)",
+      "alt": "آب انبار روستای پاده با نمودار روی تصویر"
+    },
+    {
+      "pdf_page": 30,
+      "file": "assets/0030-graphs.png",
+      "crop_bounds_pdf_points": [
+        50,
+        145,
+        225,
+        700
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "",
+      "alt": "سه نمودار مربوط به رسم توابع قدر مطلقی"
+    },
+    {
+      "pdf_page": 30,
+      "file": "assets/0030-signs.png",
+      "crop_bounds_pdf_points": [
+        250,
+        410,
+        500,
+        560
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "",
+      "alt": "جدول تعیین علامت و شاخه‌های تابع"
+    },
+    {
+      "pdf_page": 31,
+      "file": "assets/0031-numberlines.png",
+      "crop_bounds_pdf_points": [
+        245,
+        465,
+        380,
+        640
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "",
+      "alt": "چهار محور نمایش بازه‌ها"
+    },
+    {
+      "pdf_page": 32,
+      "file": "assets/0032-line.png",
+      "crop_bounds_pdf_points": [
+        55,
+        130,
+        240,
+        190
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "",
+      "alt": "محور با نقطه ۷ و نقاطی به فاصله ۳ از آن"
+    },
+    {
+      "pdf_page": 32,
+      "file": "assets/0032-grid.png",
+      "crop_bounds_pdf_points": [
+        65,
+        565,
+        235,
+        730
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "",
+      "alt": "دستگاه مختصات خالی"
+    },
+    {
+      "pdf_page": 33,
+      "file": "assets/0033-graphs.png",
+      "crop_bounds_pdf_points": [
+        65,
+        120,
+        230,
+        430
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "",
+      "alt": "نمودار سهمی و نمودار خط شکسته"
+    },
+    {
+      "pdf_page": 33,
+      "file": "assets/0033-comparison.png",
+      "crop_bounds_pdf_points": [
+        65,
+        525,
+        230,
+        690
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "",
+      "alt": "نمودارهای سهمی و خط"
+    },
+    {
+      "pdf_page": 35,
+      "file": "assets/0035-coordinate.png",
+      "crop_bounds_pdf_points": [
+        60,
+        190,
+        190,
+        325
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "",
+      "alt": "صفحه مختصات و نقطه P"
+    },
+    {
+      "pdf_page": 35,
+      "file": "assets/0035-lines.png",
+      "crop_bounds_pdf_points": [
+        235,
+        455,
+        490,
+        620
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "",
+      "alt": "محورهای عددی با دو نقطه A و B"
+    },
+    {
+      "pdf_page": 36,
+      "file": "assets/0036-diagrams.png",
+      "crop_bounds_pdf_points": [
+        55,
+        110,
+        265,
+        375
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "",
+      "alt": "دو نمودار فاصله نقاط"
+    },
+    {
+      "pdf_page": 36,
+      "file": "assets/0036-grid.png",
+      "crop_bounds_pdf_points": [
+        55,
+        475,
+        275,
+        700
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "",
+      "alt": "دستگاه مختصات خالی"
+    },
+    {
+      "pdf_page": 37,
+      "file": "assets/0037-bisector.png",
+      "crop_bounds_pdf_points": [
+        65,
+        210,
+        275,
+        435
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "",
+      "alt": "پاره‌خط AB و عمودمنصف آن"
+    },
+    {
+      "pdf_page": 38,
+      "file": "assets/0038-lines.png",
+      "crop_bounds_pdf_points": [
+        65,
+        175,
+        355,
+        325
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "",
+      "alt": "دو محور عددی"
+    },
+    {
+      "pdf_page": 38,
+      "file": "assets/0038-midpoint.png",
+      "crop_bounds_pdf_points": [
+        70,
+        430,
+        255,
+        620
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "",
+      "alt": "پاره‌خط AB روی صفحه مختصات"
+    },
+    {
+      "pdf_page": 39,
+      "file": "assets/0039-distance.png",
+      "crop_bounds_pdf_points": [
+        65,
+        150,
+        270,
+        285
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "",
+      "alt": "عمود AH و پاره‌خط مایل AM"
+    },
+    {
+      "pdf_page": 39,
+      "file": "assets/0039-graph.png",
+      "crop_bounds_pdf_points": [
+        65,
+        385,
+        260,
+        520
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "",
+      "alt": "خط d و نقطه A"
+    },
+    {
+      "pdf_page": 40,
+      "file": "assets/0040-proof.png",
+      "crop_bounds_pdf_points": [
+        345,
+        105,
+        510,
+        325
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "اثبات بدون توضیح فاصله نقطه از خط",
+      "alt": "اثبات هندسی فاصله نقطه از خط"
+    },
+    {
+      "pdf_page": 41,
+      "file": "assets/0041-lens.png",
+      "crop_bounds_pdf_points": [
+        200,
+        370,
+        410,
+        555
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "",
+      "alt": "مدل سهمی نمای جانبی عدسی"
+    },
+    {
+      "pdf_page": 42,
+      "file": "assets/0042-semicircle.png",
+      "crop_bounds_pdf_points": [
+        90,
+        90,
+        230,
+        210
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "",
+      "alt": "نیم‌دایره به مرکز O و نقطه S"
+    },
+    {
+      "pdf_page": 43,
+      "file": "assets/0043-chapter.png",
+      "crop": "full page rendered 1.8x",
+      "caption": "",
+      "alt": "تصویر کودکان و نمودار رشد"
+    },
+    {
+      "pdf_page": 44,
+      "file": "assets/0044-graphs.png",
+      "crop_bounds_pdf_points": [
+        55,
+        430,
+        435,
+        700
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "",
+      "alt": "شش نمودار خطی، سهمی و نقاط منفرد"
+    },
+    {
+      "pdf_page": 45,
+      "file": "assets/0045-grids.png",
+      "crop_bounds_pdf_points": [
+        120,
+        160,
+        465,
+        330
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "",
+      "alt": "دو دستگاه مختصات خالی"
+    },
+    {
+      "pdf_page": 46,
+      "file": "assets/0046-machine.png",
+      "crop_bounds_pdf_points": [
+        50,
+        300,
+        250,
+        475
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "",
+      "alt": "ماشین تابع با ورودی x و خروجی y"
+    },
+    {
+      "pdf_page": 46,
+      "file": "assets/0046-grid.png",
+      "crop_bounds_pdf_points": [
+        60,
+        510,
+        235,
+        690
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "",
+      "alt": "دستگاه مختصات خالی"
+    },
+    {
+      "pdf_page": 48,
+      "file": "assets/0048-grids.png",
+      "crop_bounds_pdf_points": [
+        55,
+        200,
+        500,
+        380
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "",
+      "alt": "دو دستگاه مختصات خالی"
+    },
+    {
+      "pdf_page": 48,
+      "file": "assets/0048-points.png",
+      "crop_bounds_pdf_points": [
+        50,
+        440,
+        190,
+        570
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "",
+      "alt": "نقاط A و B روی صفحه مختصات"
+    },
+    {
+      "pdf_page": 51,
+      "file": "assets/0051-graphs.png",
+      "crop_bounds_pdf_points": [
+        100,
+        235,
+        495,
+        590
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "",
+      "alt": "چهار نمودار تابع یک بر x با دامنه‌های متفاوت"
+    },
+    {
+      "pdf_page": 52,
+      "file": "assets/0052-root.png",
+      "crop_bounds_pdf_points": [
+        55,
+        120,
+        275,
+        250
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "",
+      "alt": "نمودار تابع ریشه دوم"
+    },
+    {
+      "pdf_page": 52,
+      "file": "assets/0052-graphs.png",
+      "crop_bounds_pdf_points": [
+        55,
+        380,
+        500,
+        700
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "",
+      "alt": "چهار نمودار انتقال‌یافته ریشه دوم"
+    },
+    {
+      "pdf_page": 53,
+      "file": "assets/0053-graph.png",
+      "crop_bounds_pdf_points": [
+        75,
+        160,
+        260,
+        325
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "",
+      "alt": "نمودار تابع ریشه سه x منهای پنج"
+    },
+    {
+      "pdf_page": 53,
+      "file": "assets/0053-grids.png",
+      "crop_bounds_pdf_points": [
+        80,
+        400,
+        510,
+        560
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "",
+      "alt": "دو دستگاه مختصات خالی"
+    },
+    {
+      "pdf_page": 54,
+      "file": "assets/0054-growth.png",
+      "crop_bounds_pdf_points": [
+        55,
+        175,
+        270,
+        360
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "",
+      "alt": "نمودار تقریبی قد متوسط کودکان"
+    },
+    {
+      "pdf_page": 55,
+      "file": "assets/0055-step.png",
+      "crop_bounds_pdf_points": [
+        65,
+        550,
+        285,
+        695
+      ],
+      "method": "PyMuPDF render 2x",
+      "caption": "",
+      "alt": "نمودار ناقص هزینه ارسال"
+    },
+    {
+      "file": "assets/p0101-fig1.png",
+      "source_page": 101,
+      "crop_bounds": [
+        50,
+        360,
+        540,
+        525
+      ],
+      "method": "PyMuPDF clip, PDF points",
+      "caption": null,
+      "alt": "ده دایره مثلثاتی با زاویه‌های تتا"
+    },
+    {
+      "file": "assets/p0102-fig1.png",
+      "source_page": 102,
+      "crop_bounds": [
+        65,
+        170,
+        510,
+        310
+      ],
+      "method": "PyMuPDF clip, PDF points",
+      "caption": null,
+      "alt": "دایره‌های مثلثاتی برای رسم زاویه‌ها"
+    },
+    {
+      "file": "assets/p0102-fig2.png",
+      "source_page": 102,
+      "crop_bounds": [
+        55,
+        330,
+        285,
+        475
+      ],
+      "method": "PyMuPDF clip, PDF points",
+      "caption": null,
+      "alt": "برف‌پاک‌کن عقب خودرو به طول ۲۴ سانتی‌متر"
+    },
+    {
+      "file": "assets/p0102-fig3.png",
+      "source_page": 102,
+      "crop_bounds": [
+        115,
+        555,
+        465,
+        665
+      ],
+      "method": "PyMuPDF clip, PDF points",
+      "caption": null,
+      "alt": "مخروط و شکل گسترده آن"
+    },
+    {
+      "file": "assets/p0103-fig1.png",
+      "source_page": 103,
+      "crop_bounds": [
+        75,
+        80,
+        215,
+        220
+      ],
+      "method": "PyMuPDF clip, PDF points",
+      "caption": null,
+      "alt": "کره زمین، نقاط A و B و زاویه ۱۲ درجه"
+    },
+    {
+      "file": "assets/p0103-fig2.png",
+      "source_page": 103,
+      "crop_bounds": [
+        80,
+        260,
+        215,
+        385
+      ],
+      "method": "PyMuPDF clip, PDF points",
+      "caption": null,
+      "alt": "فاصله ژئودزیک دو نقطه از کره زمین"
+    },
+    {
+      "file": "assets/p0103-fig3.png",
+      "source_page": 103,
+      "crop_bounds": [
+        80,
+        410,
+        220,
+        535
+      ],
+      "method": "PyMuPDF clip, PDF points",
+      "caption": null,
+      "alt": "نصف‌النهارهای کره زمین"
+    },
+    {
+      "file": "assets/p0103-fig4.png",
+      "source_page": 103,
+      "crop_bounds": [
+        280,
+        470,
+        495,
+        645
+      ],
+      "method": "PyMuPDF clip, PDF points",
+      "caption": null,
+      "alt": "شکل هندسی مثلثات کروی"
+    },
+    {
+      "file": "assets/p0104-fig1.png",
+      "source_page": 104,
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "مثلث قائم‌الزاویه ABC با ضلع‌های a، b، c و زاویه‌های θ و π/۲−θ",
+      "crop_bounds": [
+        290,
+        425,
+        430,
+        510
+      ]
+    },
+    {
+      "file": "assets/p0105-fig1.png",
+      "source_page": 105,
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "دایره مثلثاتی و نقاط P و Q قرینه نسبت به محور x",
+      "crop_bounds": [
+        80,
+        160,
+        290,
+        280
+      ]
+    },
+    {
+      "file": "assets/p0106-fig1.png",
+      "source_page": 106,
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "دایره مثلثاتی و نقاط P و Q قرینه نسبت به محور y",
+      "crop_bounds": [
+        55,
+        120,
+        305,
+        230
+      ]
+    },
+    {
+      "file": "assets/p0107-fig1.png",
+      "source_page": 107,
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "دایره مثلثاتی و زوایای هم‌انتهای α و ۲π+α",
+      "crop_bounds": [
+        65,
+        165,
+        340,
+        275
+      ]
+    },
+    {
+      "file": "assets/p0107-fig2.png",
+      "source_page": 107,
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "دایره مثلثاتی و زوایای هم‌انتهای منفی α و ۲π−α",
+      "crop_bounds": [
+        65,
+        380,
+        380,
+        495
+      ]
+    },
+    {
+      "file": "assets/p0108-fig1.png",
+      "source_page": 108,
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "جدول چهار دایره برای ترسیم زاویه و تشخیص علامت نسبت‌ها",
+      "crop_bounds": [
+        55,
+        310,
+        515,
+        555
+      ]
+    },
+    {
+      "file": "assets/p0109-fig1.png",
+      "source_page": 109,
+      "crop_bounds": [
+        165,
+        150,
+        410,
+        265
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "دایره مثلثاتی و زاویه‌های θ و π/۲+θ و مثلث‌های OPP′ و OQQ′"
+    },
+    {
+      "file": "assets/p0110-fig1.png",
+      "source_page": 110,
+      "crop_bounds": [
+        205,
+        350,
+        355,
+        450
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "تابش نور بر سلول خورشیدی و زاویه‌های α و θ"
+    },
+    {
+      "file": "assets/p0111-fig1.png",
+      "source_page": 111,
+      "crop_bounds": [
+        150,
+        520,
+        520,
+        675
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "نمودار سینوس در بازه صفر تا دو پی و سه نقطه مشخص‌شده"
+    },
+    {
+      "file": "assets/p0112-fig1.png",
+      "source_page": 112,
+      "crop_bounds": [
+        50,
+        125,
+        520,
+        245
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "دایره مثلثاتی و نمودار سینوس با نمایش دو رادیان و دو درجه"
+    },
+    {
+      "file": "assets/p0112-fig2.png",
+      "source_page": 112,
+      "crop_bounds": [
+        50,
+        400,
+        360,
+        545
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "نمودار کسینوس از صفر تا دو پی"
+    },
+    {
+      "file": "assets/p0112-fig3.png",
+      "source_page": 112,
+      "crop_bounds": [
+        380,
+        525,
+        505,
+        750
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "ماشین حساب و مقدار cos √۲"
+    },
+    {
+      "file": "assets/p0113-fig1.png",
+      "source_page": 113,
+      "crop_bounds": [
+        70,
+        145,
+        525,
+        250
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "نمودار کسینوس برای ادامه دادن در دو طرف"
+    },
+    {
+      "file": "assets/p0113-fig2.png",
+      "source_page": 113,
+      "crop_bounds": [
+        90,
+        510,
+        500,
+        700
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "نمودارهای تناوبی سینوس و کسینوس"
+    },
+    {
+      "file": "assets/p0114-fig1.png",
+      "source_page": 114,
+      "crop_bounds": [
+        55,
+        280,
+        510,
+        475
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "تبدیل نمودار کسینوس و قدر مطلق سینوس"
+    },
+    {
+      "file": "assets/p0114-fig2.png",
+      "source_page": 114,
+      "crop_bounds": [
+        55,
+        480,
+        230,
+        620
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "روبات صنعتی با بازوی ۱۵۳ سانتی‌متری و ارتفاع پایه ۵۰ سانتی‌متر"
+    },
+    {
+      "file": "assets/p0114-fig3.png",
+      "source_page": 114,
+      "crop_bounds": [
+        75,
+        610,
+        230,
+        705
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "مثلث قائم و ارتفاع روبات"
+    },
+    {
+      "file": "assets/p0115-fig1.png",
+      "source_page": 115,
+      "crop_bounds": [
+        70,
+        180,
+        520,
+        270
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "سه نمودار برای نظیر کردن توابع"
+    },
+    {
+      "file": "assets/p0115-fig2.png",
+      "source_page": 115,
+      "crop_bounds": [
+        70,
+        365,
+        520,
+        455
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "سه نمودار ناقص برای کامل کردن"
+    },
+    {
+      "file": "assets/p0115-fig3.png",
+      "source_page": 115,
+      "crop_bounds": [
+        70,
+        485,
+        240,
+        615
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "روبات با دو مفصل و طول‌های ۱۰۰ و ۵۳ سانتی‌متر"
+    },
+    {
+      "file": "assets/p0116-fig1.png",
+      "source_page": 116,
+      "crop_bounds": [
+        55,
+        315,
+        165,
+        445
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "مستطیل ABCD و نقاط E و F و زوایای α و β"
+    },
+    {
+      "file": "assets/p0119-fig1.png",
+      "source_page": 119,
+      "crop_bounds": [
+        0,
+        300,
+        580,
+        705
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "جاده نهبندان–شهداد",
+      "alt": "جاده نهبندان–شهداد"
+    },
+    {
+      "file": "assets/p0120-fig1.png",
+      "source_page": 120,
+      "crop_bounds": [
+        55,
+        335,
+        515,
+        410
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "چندضلعی‌های منتظم محاط در دایره و دایره"
+    },
+    {
+      "file": "assets/p0121-fig1.png",
+      "source_page": 121,
+      "crop_bounds": [
+        75,
+        210,
+        165,
+        295
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "تصویر غیاث‌الدین جمشید کاشانی"
+    },
+    {
+      "file": "assets/p0121-fig2.png",
+      "source_page": 121,
+      "crop_bounds": [
+        65,
+        355,
+        250,
+        570
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "مراحل مثلث‌های حاصل از وصل کردن وسط ضلع‌ها"
+    },
+    {
+      "file": "assets/p0122-fig1.png",
+      "source_page": 122,
+      "crop_bounds": [
+        55,
+        395,
+        260,
+        610
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "خط y=x+۲ با نقطه حذف‌شده (۲،۴)"
+    },
+    {
+      "file": "assets/p0123-fig1.png",
+      "source_page": 123,
+      "crop_bounds": [
+        65,
+        495,
+        520,
+        695
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "نمودارهای f، g و h در اطراف x=۳"
+    },
+    {
+      "file": "assets/p0124-fig1.png",
+      "source_page": 124,
+      "crop_bounds": [
+        210,
+        530,
+        350,
+        560
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "بازه باز شامل x صفر"
+    },
+    {
+      "file": "assets/p0124-fig2.png",
+      "source_page": 124,
+      "crop_bounds": [
+        210,
+        590,
+        350,
+        620
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "بازه باز با نقطه محذوف x صفر"
+    },
+    {
+      "file": "assets/p0125-fig1.png",
+      "source_page": 125,
+      "crop_bounds": [
+        45,
+        365,
+        530,
+        705
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "چهار دستگاه مختصات برای رسم نمودار"
+    },
+    {
+      "file": "assets/p0126-fig1.png",
+      "source_page": 126,
+      "crop_bounds": [
+        165,
+        175,
+        520,
+        285
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "نمودار تابع سینوس x تقسیم بر x"
+    },
+    {
+      "file": "assets/p0126-fig2.png",
+      "source_page": 126,
+      "crop_bounds": [
+        55,
+        300,
+        230,
+        455
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "نمودار تابع ریشه دوم ۲ منهای x"
+    },
+    {
+      "file": "assets/p0126-fig3.png",
+      "source_page": 126,
+      "crop_bounds": [
+        50,
+        545,
+        510,
+        700
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "نمودار سه تابع f، g و h در نقطه ۵"
+    },
+    {
+      "file": "assets/p0127-fig1.png",
+      "source_page": 127,
+      "crop_bounds": [
+        120,
+        110,
+        470,
+        485
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "چهار نمودار توابع و نقاط حدگیری"
+    },
+    {
+      "file": "assets/p0129-fig1.png",
+      "source_page": 129,
+      "crop_bounds": [
+        100,
+        320,
+        240,
+        460
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "نمودار تابع چندضابطه‌ای در اطراف ۲"
+    },
+    {
+      "file": "assets/p0129-fig2.png",
+      "source_page": 129,
+      "crop_bounds": [
+        65,
+        485,
+        295,
+        690
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "نمودار چگالی آب و یخ بر حسب دما روی تصویر کوه یخ"
+    },
+    {
+      "file": "assets/p0131-fig1.png",
+      "source_page": 131,
+      "crop_bounds": [
+        370,
+        155,
+        525,
+        305
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "نمودار f برای حدهای یک‌طرفه"
+    },
+    {
+      "file": "assets/p0131-fig2.png",
+      "source_page": 131,
+      "crop_bounds": [
+        65,
+        355,
+        525,
+        705
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "چهار دستگاه مختصات برای رسم نمودار"
+    },
+    {
+      "file": "assets/p0132-fig1.png",
+      "source_page": 132,
+      "crop_bounds": [
+        85,
+        130,
+        240,
+        285
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "دستگاه مختصات برای رسم تابع جزء صحیح"
+    },
+    {
+      "file": "assets/p0133-fig1.png",
+      "source_page": 133,
+      "crop_bounds": [
+        135,
+        225,
+        290,
+        385
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "دستگاه مختصات برای رسم تابع"
+    },
+    {
+      "file": "assets/p0133-fig2.png",
+      "source_page": 133,
+      "crop_bounds": [
+        245,
+        490,
+        515,
+        665
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "نمودار تابع f با چند قطعه و نقاط باز و بسته"
+    },
+    {
+      "file": "assets/p0134-fig1.png",
+      "source_page": 134,
+      "crop_bounds": [
+        55,
+        255,
+        510,
+        570
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "شش نمودار تابع با رفتارهای مختلف در نقطه ۲"
+    },
+    {
+      "file": "assets/p0136-fig1.png",
+      "source_page": 136,
+      "crop_bounds": [
+        55,
+        290,
+        245,
+        435
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "نمودار تابع ثابت سه دوم"
+    },
+    {
+      "file": "assets/p0136-fig2.png",
+      "source_page": 136,
+      "crop_bounds": [
+        80,
+        450,
+        220,
+        595
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "نمودار تابع همانی"
+    },
+    {
+      "file": "assets/p0137-fig1.png",
+      "source_page": 137,
+      "crop_bounds": [
+        110,
+        160,
+        480,
+        575
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "نمودارهای f، g، مجموع و تفاضل آنها"
+    },
+    {
+      "file": "assets/p0139-fig1.png",
+      "source_page": 139,
+      "crop_bounds": [
+        155,
+        405,
+        445,
+        520
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "نمودارهای دو تابع f و g"
+    },
+    {
+      "file": "assets/p0140-fig1.png",
+      "source_page": 140,
+      "crop_bounds": [
+        165,
+        585,
+        290,
+        705
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "نمودار تابع f در اطراف ۲"
+    },
+    {
+      "file": "assets/p0141-fig1.png",
+      "source_page": 141,
+      "crop_bounds": [
+        130,
+        215,
+        475,
+        600
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "سه دستگاه مختصات برای رسم توابع"
+    },
+    {
+      "file": "assets/p0142-fig1.png",
+      "source_page": 142,
+      "crop_bounds": [
+        55,
+        245,
+        260,
+        435
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "نمودار ریشه دوم x+۱"
+    },
+    {
+      "file": "assets/p0143-fig1.png",
+      "source_page": 143,
+      "crop_bounds": [
+        150,
+        170,
+        460,
+        370
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "نمودارهای سینوس و کسینوس"
+    },
+    {
+      "file": "assets/p0146-fig1.png",
+      "source_page": 146,
+      "crop_bounds": [
+        150,
+        520,
+        500,
+        700
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "نمودار توابع f و g"
+    },
+    {
+      "file": "assets/p0151-fig1.png",
+      "source_page": 151,
+      "crop_bounds": [
+        155,
+        230,
+        515,
+        620
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "نمودارهای f، g، h و k در نقطه ۲"
+    },
+    {
+      "file": "assets/p0152-fig1.png",
+      "source_page": 152,
+      "crop_bounds": [
+        50,
+        355,
+        515,
+        690
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "نمودارهای کسینوس، قدر مطلق، x مربع، جزء صحیح و قدر مطلق x تقسیم بر x"
+    },
+    {
+      "file": "assets/p0153-fig1.png",
+      "source_page": 153,
+      "crop_bounds": [
+        65,
+        305,
+        530,
+        680
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "چهار دستگاه مختصات برای رسم نمودار"
+    },
+    {
+      "file": "assets/p0154-fig1.png",
+      "source_page": 154,
+      "crop_bounds": [
+        55,
+        125,
+        215,
+        295
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "نمودار تابع f برای بررسی پیوستگی"
+    },
+    {
+      "file": "assets/p0155-fig1.png",
+      "source_page": 155,
+      "crop_bounds": [
+        90,
+        135,
+        255,
+        295
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "دستگاه مختصات برای رسم تابع جزء صحیح"
+    },
+    {
+      "file": "assets/p0155-fig2.png",
+      "source_page": 155,
+      "crop_bounds": [
+        110,
+        405,
+        500,
+        585
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "نمودارهای ناقص f و g"
+    },
+    {
+      "file": "assets/p0156-fig1.png",
+      "source_page": 156,
+      "crop_bounds": [
+        65,
+        335,
+        265,
+        495
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "نمودار تابع f روی چند بازه"
+    },
+    {
+      "file": "assets/p0156-fig2.png",
+      "source_page": 156,
+      "crop_bounds": [
+        0,
+        510,
+        550,
+        765
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "نقش رستم – استان فارس",
+      "alt": "نقش رستم، استان فارس"
+    }
+  ],
+  "uncertainties": [
+    {
+      "pdf_page": 2,
+      "note": "Some small credit names and address numerals require review."
+    },
+    {
+      "pdf_page": 25,
+      "note": "برخی اعداد متن خواندنی نیازمند بررسی هستند."
+    },
+    {
+      "pdf_page": 120,
+      "note": "برخی ارقام جدول نیازمند بررسی هستند."
+    },
+    {
+      "pdf_page": 121,
+      "note": "کران‌های تقریبی ارشمیدس و شعر کوچک نیازمند بررسی است."
+    },
+    {
+      "pdf_page": 158,
+      "note": "برخی نام‌ها و کدهای کتاب منابع نیازمند بررسی است."
+    },
+    {
+      "pdf_page": 160,
+      "note": "برخی اسامی نیازمند بررسی هستند."
+    }
+  ],
+  "completed_pages": 160,
+  "status": "complete"
+}

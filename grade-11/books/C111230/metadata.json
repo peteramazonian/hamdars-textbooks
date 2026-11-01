@@ -1,0 +1,22 @@
+{
+  "book_code": "C111230",
+  "title": "انگلیسی (2)",
+  "grade": 11,
+  "branches": [
+    "math",
+    "science",
+    "humanities",
+    "islamic"
+  ],
+  "edition": "1405-1406",
+  "language": "fa",
+  "source": {
+    "catalog_url": "http://chap.sch.ir/books/14327",
+    "pdf_url": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/44/C111230.pdf",
+    "sha256": "218f4ff6867cfff1f592ecb09dde853cdc9d09fb8bb6ac099048dfedeb92cec4",
+    "pdf_page_count": 112
+  },
+  "coverage": "complete",
+  "content_review": "not_validated",
+  "pdf_page_count": 112
+}

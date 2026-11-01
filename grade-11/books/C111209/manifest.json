@@ -1,0 +1,4935 @@
+{
+  "schema_version": 1,
+  "book": {
+    "title": "فیزیک (2)",
+    "grade": 11,
+    "branches": [
+      "math"
+    ],
+    "book_code": "C111209",
+    "edition": "1405-1406",
+    "year": "1405-1406",
+    "language": "fa"
+  },
+  "source": {
+    "catalog_url": "http://chap.sch.ir/books/14318",
+    "pdf_url": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/30/C111209.pdf",
+    "local_pdf": "sources/C111209.pdf",
+    "sha256": "021e17e9a27c93f8b67daf9e9156c85defd9ffb1833db047f1644fdae9ae1022",
+    "pdf_page_count": 144,
+    "retrieved_at": null
+  },
+  "pages": [
+    {
+      "pdf_page": 1,
+      "file": "pages/001.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 2,
+      "file": "pages/002.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 3,
+      "file": "pages/003.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 4,
+      "file": "pages/004.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 5,
+      "file": "pages/005.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 6,
+      "file": "pages/006.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 7,
+      "file": "pages/007.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 8,
+      "file": "pages/008.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 9,
+      "file": "pages/009.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 10,
+      "file": "pages/010.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 11,
+      "file": "pages/011.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 12,
+      "file": "pages/012.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 13,
+      "file": "pages/013.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 14,
+      "file": "pages/014.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 15,
+      "file": "pages/015.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 16,
+      "file": "pages/016.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 17,
+      "file": "pages/017.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 18,
+      "file": "pages/018.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 19,
+      "file": "pages/019.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 20,
+      "file": "pages/020.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 21,
+      "file": "pages/021.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 22,
+      "file": "pages/022.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 23,
+      "file": "pages/023.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 24,
+      "file": "pages/024.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 25,
+      "file": "pages/025.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 26,
+      "file": "pages/026.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 27,
+      "file": "pages/027.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 28,
+      "file": "pages/028.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 29,
+      "file": "pages/029.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 30,
+      "file": "pages/030.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 31,
+      "file": "pages/031.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 32,
+      "file": "pages/032.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 33,
+      "file": "pages/033.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 34,
+      "file": "pages/034.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 35,
+      "file": "pages/035.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 36,
+      "file": "pages/036.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 37,
+      "file": "pages/037.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 38,
+      "file": "pages/038.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 39,
+      "file": "pages/039.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 40,
+      "file": "pages/040.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 41,
+      "file": "pages/041.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 42,
+      "file": "pages/042.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 43,
+      "file": "pages/043.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 44,
+      "file": "pages/044.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 45,
+      "file": "pages/045.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 46,
+      "file": "pages/046.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 47,
+      "file": "pages/047.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 48,
+      "file": "pages/048.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 49,
+      "file": "pages/049.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 50,
+      "file": "pages/050.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 51,
+      "file": "pages/051.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 52,
+      "file": "pages/052.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 53,
+      "file": "pages/053.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 54,
+      "file": "pages/054.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 55,
+      "file": "pages/055.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 56,
+      "file": "pages/056.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 57,
+      "file": "pages/057.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 58,
+      "file": "pages/058.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 59,
+      "file": "pages/059.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 60,
+      "file": "pages/060.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 61,
+      "file": "pages/061.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 62,
+      "file": "pages/062.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 63,
+      "file": "pages/063.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 64,
+      "file": "pages/064.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 65,
+      "file": "pages/065.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 66,
+      "file": "pages/066.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 67,
+      "file": "pages/067.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 68,
+      "file": "pages/068.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 69,
+      "file": "pages/069.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 70,
+      "file": "pages/070.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 71,
+      "file": "pages/071.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 72,
+      "file": "pages/072.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 73,
+      "file": "pages/073.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 74,
+      "file": "pages/074.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 75,
+      "file": "pages/075.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 76,
+      "file": "pages/076.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 77,
+      "file": "pages/077.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 78,
+      "file": "pages/078.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 79,
+      "file": "pages/079.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 80,
+      "file": "pages/080.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 81,
+      "file": "pages/081.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 82,
+      "file": "pages/082.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 83,
+      "file": "pages/083.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 84,
+      "file": "pages/084.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 85,
+      "file": "pages/085.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 86,
+      "file": "pages/086.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 87,
+      "file": "pages/087.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 88,
+      "file": "pages/088.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 89,
+      "file": "pages/089.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 90,
+      "file": "pages/090.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 91,
+      "file": "pages/091.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 92,
+      "file": "pages/092.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 93,
+      "file": "pages/093.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 94,
+      "file": "pages/094.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 95,
+      "file": "pages/095.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 96,
+      "file": "pages/096.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 97,
+      "file": "pages/097.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 98,
+      "file": "pages/098.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 99,
+      "file": "pages/099.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 100,
+      "file": "pages/100.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 101,
+      "file": "pages/101.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 102,
+      "file": "pages/102.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 103,
+      "file": "pages/103.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 104,
+      "file": "pages/104.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 105,
+      "file": "pages/105.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 106,
+      "file": "pages/106.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 107,
+      "file": "pages/107.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 108,
+      "file": "pages/108.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 109,
+      "file": "pages/109.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 110,
+      "file": "pages/110.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 111,
+      "file": "pages/111.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 112,
+      "file": "pages/112.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 113,
+      "file": "pages/113.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 114,
+      "file": "pages/114.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 115,
+      "file": "pages/115.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 116,
+      "file": "pages/116.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 117,
+      "file": "pages/117.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 118,
+      "file": "pages/118.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 119,
+      "file": "pages/119.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 120,
+      "file": "pages/120.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 121,
+      "file": "pages/121.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 122,
+      "file": "pages/122.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 123,
+      "file": "pages/123.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 124,
+      "file": "pages/124.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 125,
+      "file": "pages/125.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 126,
+      "file": "pages/126.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 127,
+      "file": "pages/127.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 128,
+      "file": "pages/128.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 129,
+      "file": "pages/129.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 130,
+      "file": "pages/130.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 131,
+      "file": "pages/131.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 132,
+      "file": "pages/132.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 133,
+      "file": "pages/133.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 134,
+      "file": "pages/134.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 135,
+      "file": "pages/135.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 136,
+      "file": "pages/136.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 137,
+      "file": "pages/137.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 138,
+      "file": "pages/138.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 139,
+      "file": "pages/139.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 140,
+      "file": "pages/140.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 141,
+      "file": "pages/141.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 142,
+      "file": "pages/142.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 143,
+      "file": "pages/143.md",
+      "status": "transcribed"
+    },
+    {
+      "pdf_page": 144,
+      "file": "pages/144.md",
+      "status": "transcribed"
+    }
+  ],
+  "figures": [
+    {
+      "file": "assets/003-page.png",
+      "source_page": 3,
+      "crop_bounds": "full page",
+      "method": "PyMuPDF 1.8x render",
+      "caption": null,
+      "alt": "تصویر امام خمینی"
+    },
+    {
+      "file": "assets/009-fig.png",
+      "source_page": 9,
+      "crop_bounds": [
+        55,
+        165,
+        540,
+        560
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "دستی در حال کار با تلفن همراه"
+    },
+    {
+      "file": "assets/010-fig1.png",
+      "source_page": 10,
+      "crop_bounds": [
+        415,
+        50,
+        565,
+        170
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۱ توصیف آذرخش مبتنی بر اصول الکتریسیتۀ ساکن است.",
+      "alt": "آذرخش"
+    },
+    {
+      "file": "assets/010-fig2.png",
+      "source_page": 10,
+      "crop_bounds": [
+        415,
+        200,
+        565,
+        305
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۲ انتقال پیام‌های عصبی در دستگاه اعصاب به‌صورت الکتریکی صورت می‌گیرد.",
+      "alt": "یاخته‌های عصبی"
+    },
+    {
+      "file": "assets/010-fig3.png",
+      "source_page": 10,
+      "crop_bounds": [
+        415,
+        335,
+        565,
+        445
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۳ مالش بادکنک به بدن گربه سبب ایجاد بار الکتریکی در آنها و در نتیجه برافراشته شدن موهای گربه می‌شود.",
+      "alt": "مالش بادکنک به بدن گربه"
+    },
+    {
+      "file": "assets/010-fig4.png",
+      "source_page": 10,
+      "crop_bounds": [
+        55,
+        500,
+        520,
+        690
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۴",
+      "alt": "میله‌های باردار و جذب و دفع آنها"
+    },
+    {
+      "file": "assets/011-fig5.png",
+      "source_page": 11,
+      "crop_bounds": [
+        165,
+        120,
+        530,
+        335
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۵",
+      "alt": "دو الکتروسکوپ"
+    },
+    {
+      "file": "assets/012-quarks.png",
+      "source_page": 12,
+      "crop_bounds": [
+        55,
+        480,
+        525,
+        665
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "الف) پروتون از دو کوارک بالا و یک کوارک پایین ساخته شده است. ب) نوترون از یک کوارک بالا و دو کوارک پایین ساخته شده است.",
+      "alt": "مدل کوارکی پروتون و نوترون"
+    },
+    {
+      "file": "assets/013-fig6.png",
+      "source_page": 13,
+      "crop_bounds": [
+        55,
+        285,
+        195,
+        495
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۶",
+      "alt": "دو گوی باردار هم‌نام"
+    },
+    {
+      "file": "assets/013-activity.png",
+      "source_page": 13,
+      "crop_bounds": [
+        60,
+        520,
+        200,
+        690
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "دو نی پلاستیکی در دست"
+    },
+    {
+      "file": "assets/014-fig7.png",
+      "source_page": 14,
+      "crop_bounds": [
+        295,
+        140,
+        405,
+        320
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۷",
+      "alt": "ترازوی پیچشی کولن"
+    },
+    {
+      "file": "assets/014-fig8.png",
+      "source_page": 14,
+      "crop_bounds": [
+        165,
+        580,
+        405,
+        680
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۸",
+      "alt": "نیروهای الکتریکی بین بارهای هم‌نام و ناهم‌نام"
+    },
+    {
+      "file": "assets/015-hydrogen.png",
+      "source_page": 15,
+      "crop_bounds": [
+        55,
+        65,
+        180,
+        195
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "مدل بور اتم هیدروژن"
+    },
+    {
+      "file": "assets/015-copy.png",
+      "source_page": 15,
+      "crop_bounds": [
+        60,
+        525,
+        285,
+        680
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "مراحل ایجاد رونوشت در دستگاه فتوکپی"
+    },
+    {
+      "file": "assets/016-dna.png",
+      "source_page": 16,
+      "crop_bounds": [
+        60,
+        80,
+        245,
+        250
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "مدل مولکول دنا"
+    },
+    {
+      "file": "assets/016-fig9.png",
+      "source_page": 16,
+      "crop_bounds": [
+        410,
+        335,
+        555,
+        485
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۹",
+      "alt": "برهم‌نهی نیروهای چهار بار"
+    },
+    {
+      "file": "assets/016-question.png",
+      "source_page": 16,
+      "crop_bounds": [
+        60,
+        600,
+        155,
+        655
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "سه ذرۀ باردار روی خط راست"
+    },
+    {
+      "file": "assets/017-example.png",
+      "source_page": 17,
+      "crop_bounds": [
+        60,
+        75,
+        255,
+        135
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "سه بار روی خط راست"
+    },
+    {
+      "file": "assets/017-forces.png",
+      "source_page": 17,
+      "crop_bounds": [
+        195,
+        370,
+        380,
+        425
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "بردارهای نیرو"
+    },
+    {
+      "file": "assets/017-question.png",
+      "source_page": 17,
+      "crop_bounds": [
+        75,
+        620,
+        165,
+        690
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "سه بار در گوشه‌های مربع"
+    },
+    {
+      "file": "assets/018-example.png",
+      "source_page": 18,
+      "crop_bounds": [
+        65,
+        70,
+        240,
+        200
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "سه بار در رأس‌های مثلث قائم‌الزاویه"
+    },
+    {
+      "file": "assets/018-forces.png",
+      "source_page": 18,
+      "crop_bounds": [
+        60,
+        345,
+        210,
+        450
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "برآیند نیروها"
+    },
+    {
+      "file": "assets/019-fig10.png",
+      "source_page": 19,
+      "crop_bounds": [
+        40,
+        55,
+        165,
+        305
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۱۰",
+      "alt": "میدان الکتریکی میلۀ باردار و نیروی وارد بر بار آزمون"
+    },
+    {
+      "file": "assets/019-example.png",
+      "source_page": 19,
+      "crop_bounds": [
+        50,
+        540,
+        195,
+        685
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "بار آزمون در میان دو گوی و میله باردار"
+    },
+    {
+      "file": "assets/020-fig11.png",
+      "source_page": 20,
+      "crop_bounds": [
+        410,
+        300,
+        535,
+        365
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۱۱",
+      "alt": "بار نقطه‌ای و نقطۀ A"
+    },
+    {
+      "file": "assets/021-generator.png",
+      "source_page": 21,
+      "crop_bounds": [
+        65,
+        65,
+        180,
+        235
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "مولد وان دوگراف"
+    },
+    {
+      "file": "assets/021-graph.png",
+      "source_page": 21,
+      "crop_bounds": [
+        65,
+        395,
+        260,
+        680
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "نمودار میدان برحسب فاصله و آزمایش دو شمع"
+    },
+    {
+      "file": "assets/022-fig12.png",
+      "source_page": 22,
+      "crop_bounds": [
+        70,
+        505,
+        445,
+        680
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۱۲",
+      "alt": "برهم‌نهی نیروها و میدان‌ها"
+    },
+    {
+      "file": "assets/023-diagrams.png",
+      "source_page": 23,
+      "crop_bounds": [
+        65,
+        80,
+        290,
+        600
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "بارها و جهت میدان‌ها در نقاط A و B"
+    },
+    {
+      "file": "assets/024-water.png",
+      "source_page": 24,
+      "crop_bounds": [
+        60,
+        70,
+        160,
+        265
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "مولکول آب و مدل دوقطبی"
+    },
+    {
+      "file": "assets/024-exercise.png",
+      "source_page": 24,
+      "crop_bounds": [
+        155,
+        355,
+        400,
+        400
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "دو بار و نقاط O و M"
+    },
+    {
+      "file": "assets/024-example.png",
+      "source_page": 24,
+      "crop_bounds": [
+        60,
+        430,
+        225,
+        700
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "بارها و میدان‌ها در دستگاه مختصات"
+    },
+    {
+      "file": "assets/025-activity.png",
+      "source_page": 25,
+      "crop_bounds": [
+        65,
+        265,
+        235,
+        380
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "سمت‌گیری دانه‌ها میان دو الکترود"
+    },
+    {
+      "file": "assets/025-fig13.png",
+      "source_page": 25,
+      "crop_bounds": [
+        155,
+        470,
+        525,
+        690
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۱۳",
+      "alt": "میدان‌های ذره‌های مثبت و منفی"
+    },
+    {
+      "file": "assets/026-fig14.png",
+      "source_page": 26,
+      "crop_bounds": [
+        65,
+        75,
+        400,
+        280
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۱۴",
+      "alt": "خطوط میدان بارهای مثبت و منفی"
+    },
+    {
+      "file": "assets/026-fig15.png",
+      "source_page": 26,
+      "crop_bounds": [
+        415,
+        250,
+        535,
+        365
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۱۵",
+      "alt": "بردار میدان مماس بر خط میدان"
+    },
+    {
+      "file": "assets/026-fig16.png",
+      "source_page": 26,
+      "crop_bounds": [
+        415,
+        385,
+        535,
+        500
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۱۶",
+      "alt": "تراکم خطوط میدان"
+    },
+    {
+      "file": "assets/026-fig17.png",
+      "source_page": 26,
+      "crop_bounds": [
+        415,
+        515,
+        535,
+        690
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۱۷",
+      "alt": "خطوط میدان دو بار ناهم‌نام"
+    },
+    {
+      "file": "assets/026-fig18.png",
+      "source_page": 26,
+      "crop_bounds": [
+        225,
+        530,
+        395,
+        710
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۱۸",
+      "alt": "نمایش سه‌بعدی میدان دوقطبی"
+    },
+    {
+      "file": "assets/027-fig19.png",
+      "source_page": 27,
+      "crop_bounds": [
+        55,
+        110,
+        160,
+        310
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۱۹",
+      "alt": "سمت‌گیری دانه‌ها بین دو الکترود صفحه‌ای"
+    },
+    {
+      "file": "assets/027-fig20.png",
+      "source_page": 27,
+      "crop_bounds": [
+        55,
+        325,
+        165,
+        535
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۲۰",
+      "alt": "خطوط میدان بین دو صفحۀ رسانای موازی"
+    },
+    {
+      "file": "assets/027-question.png",
+      "source_page": 27,
+      "crop_bounds": [
+        175,
+        425,
+        350,
+        550
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "میدان دوقطبی و نقاط A، B و C"
+    },
+    {
+      "file": "assets/027-bee.png",
+      "source_page": 27,
+      "crop_bounds": [
+        65,
+        575,
+        225,
+        690
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "زنبور بر روی گل"
+    },
+    {
+      "file": "assets/028-millikan.png",
+      "source_page": 28,
+      "crop_bounds": [
+        85,
+        335,
+        520,
+        515
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "اسباب آزمایش اولیۀ میلیکان و طرح آن"
+    },
+    {
+      "file": "assets/029-forces.png",
+      "source_page": 29,
+      "crop_bounds": [
+        65,
+        55,
+        125,
+        170
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "نیروی الکتریکی و وزن قطرۀ روغن"
+    },
+    {
+      "file": "assets/029-esp.png",
+      "source_page": 29,
+      "crop_bounds": [
+        70,
+        285,
+        285,
+        420
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "دودکش پیش و پس از کاربرد رسوب‌دهنده"
+    },
+    {
+      "file": "assets/029-fig21-22.png",
+      "source_page": 29,
+      "crop_bounds": [
+        45,
+        440,
+        170,
+        710
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل‌های ۱ـ۲۱ و ۱ـ۲۲",
+      "alt": "دو بار مثبت و حرکت بار در میدان یکنواخت"
+    },
+    {
+      "file": "assets/030-fig23.png",
+      "source_page": 30,
+      "crop_bounds": [
+        425,
+        50,
+        525,
+        220
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۲۳",
+      "alt": "جسم در میدان گرانشی"
+    },
+    {
+      "file": "assets/030-fig24.png",
+      "source_page": 30,
+      "crop_bounds": [
+        50,
+        500,
+        520,
+        715
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۲۴",
+      "alt": "جابجایی بار مثبت و منفی در میدان"
+    },
+    {
+      "file": "assets/031-example.png",
+      "source_page": 31,
+      "crop_bounds": [
+        55,
+        70,
+        270,
+        180
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "پروتون میان دو صفحۀ باردار"
+    },
+    {
+      "file": "assets/031-fig25.png",
+      "source_page": 31,
+      "crop_bounds": [
+        45,
+        465,
+        165,
+        620
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۲۵",
+      "alt": "جابجایی بار میان صفحات"
+    },
+    {
+      "file": "assets/032-example.png",
+      "source_page": 32,
+      "crop_bounds": [
+        60,
+        445,
+        165,
+        565
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "جابه‌جایی الکترون در میدان"
+    },
+    {
+      "file": "assets/033-fig26.png",
+      "source_page": 33,
+      "crop_bounds": [
+        25,
+        175,
+        165,
+        355
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۲۶",
+      "alt": "برخی از باتری‌های متداول"
+    },
+    {
+      "file": "assets/033-example.png",
+      "source_page": 33,
+      "crop_bounds": [
+        60,
+        535,
+        235,
+        665
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "باتری و چراغ خودرو"
+    },
+    {
+      "file": "assets/034-neuron.png",
+      "source_page": 34,
+      "crop_bounds": [
+        60,
+        80,
+        250,
+        200
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "ساختار نورون"
+    },
+    {
+      "file": "assets/034-crt.png",
+      "source_page": 34,
+      "crop_bounds": [
+        55,
+        550,
+        210,
+        650
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "لامپ پرتو کاتدی و صفحات باردار"
+    },
+    {
+      "file": "assets/035-fig27.png",
+      "source_page": 35,
+      "crop_bounds": [
+        25,
+        55,
+        165,
+        325
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۲۷",
+      "alt": "نیروی خارجی بار مثبت را جابه‌جا می‌کند"
+    },
+    {
+      "file": "assets/036-fig28.png",
+      "source_page": 36,
+      "crop_bounds": [
+        70,
+        45,
+        400,
+        200
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۲۸",
+      "alt": "شرح تصویری آزمایش فاراده"
+    },
+    {
+      "file": "assets/036-fig29.png",
+      "source_page": 36,
+      "crop_bounds": [
+        425,
+        50,
+        550,
+        255
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۲۹",
+      "alt": "بار اضافی روی سطح خارجی رسانا"
+    },
+    {
+      "file": "assets/036-fig30.png",
+      "source_page": 36,
+      "crop_bounds": [
+        425,
+        260,
+        550,
+        460
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۳۰",
+      "alt": "القای بار روی گوی فلزی"
+    },
+    {
+      "file": "assets/036-fig31.png",
+      "source_page": 36,
+      "crop_bounds": [
+        420,
+        470,
+        555,
+        705
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۳۱",
+      "alt": "میدان بیرونی و گوی رسانا"
+    },
+    {
+      "file": "assets/037-cage.png",
+      "source_page": 37,
+      "crop_bounds": [
+        60,
+        70,
+        270,
+        235
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "شخصی در قفس فاراده"
+    },
+    {
+      "file": "assets/037-fig32.png",
+      "source_page": 37,
+      "crop_bounds": [
+        110,
+        365,
+        480,
+        520
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۳۲",
+      "alt": "رنگ‌پاشی الکتروستاتیکی"
+    },
+    {
+      "file": "assets/038-fig33.png",
+      "source_page": 38,
+      "crop_bounds": [
+        375,
+        55,
+        550,
+        255
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۳۳",
+      "alt": "اسباب آزمایش توزیع بار"
+    },
+    {
+      "file": "assets/038-fig34.png",
+      "source_page": 38,
+      "crop_bounds": [
+        195,
+        310,
+        320,
+        390
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۳۴",
+      "alt": "تراکم بار در نوک جسم دوکی"
+    },
+    {
+      "file": "assets/038-activity.png",
+      "source_page": 38,
+      "crop_bounds": [
+        70,
+        400,
+        200,
+        535
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "آونگ‌های نزدیک جسم دوکی"
+    },
+    {
+      "file": "assets/039-lightning.png",
+      "source_page": 39,
+      "crop_bounds": [
+        65,
+        65,
+        170,
+        200
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "برق‌گیر ساختمان"
+    },
+    {
+      "file": "assets/039-corona.png",
+      "source_page": 39,
+      "crop_bounds": [
+        70,
+        225,
+        245,
+        570
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "میدان اطراف نوک تیز و تخلیۀ هاله‌ای"
+    },
+    {
+      "file": "assets/040-generator.png",
+      "source_page": 40,
+      "crop_bounds": [
+        55,
+        60,
+        205,
+        250
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "ساختار مولد وان‌دوگراف"
+    },
+    {
+      "file": "assets/040-fig35.png",
+      "source_page": 40,
+      "crop_bounds": [
+        415,
+        275,
+        555,
+        420
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۳۵",
+      "alt": "فلاش دوربین"
+    },
+    {
+      "file": "assets/040-fig36.png",
+      "source_page": 40,
+      "crop_bounds": [
+        415,
+        425,
+        555,
+        550
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۳۶",
+      "alt": "خازن‌های مختلف"
+    },
+    {
+      "file": "assets/040-fig37.png",
+      "source_page": 40,
+      "crop_bounds": [
+        415,
+        565,
+        555,
+        690
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۳۷",
+      "alt": "اجزای اصلی یک خازن باردار"
+    },
+    {
+      "file": "assets/041-fig38.png",
+      "source_page": 41,
+      "crop_bounds": [
+        10,
+        60,
+        160,
+        165
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۳۸",
+      "alt": "خازن تخت"
+    },
+    {
+      "file": "assets/041-fig39.png",
+      "source_page": 41,
+      "crop_bounds": [
+        20,
+        180,
+        165,
+        320
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۳۹",
+      "alt": "مدار تقویت‌کننده"
+    },
+    {
+      "file": "assets/041-fig40.png",
+      "source_page": 41,
+      "crop_bounds": [
+        185,
+        105,
+        510,
+        270
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۴۰",
+      "alt": "باردار کردن خازن و میدان میان صفحات"
+    },
+    {
+      "file": "assets/041-example.png",
+      "source_page": 41,
+      "crop_bounds": [
+        55,
+        580,
+        235,
+        705
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "خازن متصل به باتری"
+    },
+    {
+      "file": "assets/042-leyden.png",
+      "source_page": 42,
+      "crop_bounds": [
+        75,
+        205,
+        280,
+        360
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "بطری لیدن و اجزای آن"
+    },
+    {
+      "file": "assets/042-fig41.png",
+      "source_page": 42,
+      "crop_bounds": [
+        420,
+        445,
+        545,
+        610
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۴۱",
+      "alt": "درون خازن با دی‌الکتریک"
+    },
+    {
+      "file": "assets/043-fig42.png",
+      "source_page": 43,
+      "crop_bounds": [
+        175,
+        115,
+        515,
+        285
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۴۲",
+      "alt": "جهت‌گیری مولکول‌های قطبی در میدان"
+    },
+    {
+      "file": "assets/043-fig43.png",
+      "source_page": 43,
+      "crop_bounds": [
+        205,
+        390,
+        515,
+        540
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۴۳",
+      "alt": "قطبیده شدن مولکول غیرقطبی"
+    },
+    {
+      "file": "assets/044-fig44.png",
+      "source_page": 44,
+      "crop_bounds": [
+        430,
+        55,
+        550,
+        400
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۴۴",
+      "alt": "میکروفون خازنی"
+    },
+    {
+      "file": "assets/044-question.png",
+      "source_page": 44,
+      "crop_bounds": [
+        150,
+        290,
+        330,
+        435
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "خازن و ولت‌سنج پیش و پس از ورود دی‌الکتریک"
+    },
+    {
+      "file": "assets/044-keyboard.png",
+      "source_page": 44,
+      "crop_bounds": [
+        60,
+        455,
+        220,
+        710
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "صفحه‌کلید و ساختار خازنی کلید"
+    },
+    {
+      "file": "assets/045-airbag.png",
+      "source_page": 45,
+      "crop_bounds": [
+        70,
+        260,
+        265,
+        400
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "کیسۀ هوای خودرو"
+    },
+    {
+      "file": "assets/045-gecko.png",
+      "source_page": 45,
+      "crop_bounds": [
+        65,
+        445,
+        225,
+        550
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "مارمولک روی دیوار"
+    },
+    {
+      "file": "assets/046-fig45.png",
+      "source_page": 46,
+      "crop_bounds": [
+        390,
+        55,
+        525,
+        225
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۴۵",
+      "alt": "نقش لیختنبرگ"
+    },
+    {
+      "file": "assets/046-fig46.png",
+      "source_page": 46,
+      "crop_bounds": [
+        160,
+        225,
+        350,
+        315
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۴۶",
+      "alt": "خازن با مشخصات ظرفیت و ولتاژ"
+    },
+    {
+      "file": "assets/046-exercise.png",
+      "source_page": 46,
+      "crop_bounds": [
+        65,
+        340,
+        135,
+        435
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "مدل خازنی غشای یاخته"
+    },
+    {
+      "file": "assets/047-fig47.png",
+      "source_page": 47,
+      "crop_bounds": [
+        50,
+        55,
+        165,
+        210
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۴۷",
+      "alt": "نمودار ولتاژ برحسب بار"
+    },
+    {
+      "file": "assets/047-fig48.png",
+      "source_page": 47,
+      "crop_bounds": [
+        65,
+        215,
+        165,
+        370
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۱ـ۴۸",
+      "alt": "میدان الکتریکی بین صفحات خازن"
+    },
+    {
+      "file": "assets/047-flash.png",
+      "source_page": 47,
+      "crop_bounds": [
+        55,
+        440,
+        265,
+        570
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "مدار فلاش عکاسی"
+    },
+    {
+      "file": "assets/048-defib.png",
+      "source_page": 48,
+      "crop_bounds": [
+        65,
+        85,
+        190,
+        185
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "استفاده از دستگاه رفع لرزش قلب"
+    },
+    {
+      "file": "assets/049-electroscope.png",
+      "source_page": 49,
+      "crop_bounds": [
+        350,
+        160,
+        480,
+        270
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "میله و برق‌نما"
+    },
+    {
+      "file": "assets/049-q5.png",
+      "source_page": 49,
+      "crop_bounds": [
+        355,
+        625,
+        460,
+        705
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "سه بار در رأس‌های مربع"
+    },
+    {
+      "file": "assets/049-q6.png",
+      "source_page": 49,
+      "crop_bounds": [
+        60,
+        115,
+        260,
+        155
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "سه بار روی محور x"
+    },
+    {
+      "file": "assets/049-q7.png",
+      "source_page": 49,
+      "crop_bounds": [
+        55,
+        155,
+        95,
+        275
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "دو گوی باردار در لوله"
+    },
+    {
+      "file": "assets/049-q8.png",
+      "source_page": 49,
+      "crop_bounds": [
+        130,
+        385,
+        205,
+        470
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "دو نقطه در میدان یکنواخت"
+    },
+    {
+      "file": "assets/049-q10.png",
+      "source_page": 49,
+      "crop_bounds": [
+        100,
+        680,
+        215,
+        715
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "دو بار مثبت و منفی روی محور"
+    },
+    {
+      "file": "assets/050-q12.png",
+      "source_page": 50,
+      "crop_bounds": [
+        335,
+        210,
+        490,
+        360
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "دو آرایۀ مربعی بارها"
+    },
+    {
+      "file": "assets/050-q13.png",
+      "source_page": 50,
+      "crop_bounds": [
+        300,
+        365,
+        420,
+        475
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "خطوط میدان دو کرۀ باردار"
+    },
+    {
+      "file": "assets/050-q14.png",
+      "source_page": 50,
+      "crop_bounds": [
+        300,
+        540,
+        535,
+        705
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "چهار آرایش خطوط میدان"
+    },
+    {
+      "file": "assets/050-q15.png",
+      "source_page": 50,
+      "crop_bounds": [
+        70,
+        190,
+        260,
+        225
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "دو بار ناهمنام و نقاط O و A"
+    },
+    {
+      "file": "assets/050-q16.png",
+      "source_page": 50,
+      "crop_bounds": [
+        90,
+        400,
+        220,
+        485
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "جابجایی بار در میدان یکنواخت"
+    },
+    {
+      "file": "assets/050-q17.png",
+      "source_page": 50,
+      "crop_bounds": [
+        65,
+        620,
+        260,
+        715
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "کرۀ باردار و نقاط A و B"
+    },
+    {
+      "file": "assets/051-q18.png",
+      "source_page": 51,
+      "crop_bounds": [
+        305,
+        175,
+        525,
+        270
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "سه آرایش خطوط میدان"
+    },
+    {
+      "file": "assets/051-q21.png",
+      "source_page": 51,
+      "crop_bounds": [
+        300,
+        585,
+        420,
+        705
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "آونگ باردار و کرۀ فلزی"
+    },
+    {
+      "file": "assets/051-satellite.png",
+      "source_page": 51,
+      "crop_bounds": [
+        55,
+        290,
+        275,
+        445
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "ماهواره در اطراف زمین"
+    },
+    {
+      "file": "assets/052-q26.png",
+      "source_page": 52,
+      "crop_bounds": [
+        330,
+        145,
+        490,
+        270
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "بادکنک و باریکۀ آب"
+    },
+    {
+      "file": "assets/052-q27.png",
+      "source_page": 52,
+      "crop_bounds": [
+        315,
+        325,
+        515,
+        460
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "میلۀ شیشه‌ای و خرده‌های کاغذ"
+    },
+    {
+      "file": "assets/052-q31.png",
+      "source_page": 52,
+      "crop_bounds": [
+        110,
+        455,
+        220,
+        535
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "صفحات خازن و کلید"
+    },
+    {
+      "file": "assets/053-car.png",
+      "source_page": 53,
+      "crop_bounds": [
+        0,
+        160,
+        580,
+        560
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "خودروی الکتریکی در حال شارژ"
+    },
+    {
+      "file": "assets/054-fig1.png",
+      "source_page": 54,
+      "crop_bounds": [
+        60,
+        220,
+        400,
+        350
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۱",
+      "alt": "انتقال انرژی از باتری به نمایشگر"
+    },
+    {
+      "file": "assets/054-fig2.png",
+      "source_page": 54,
+      "crop_bounds": [
+        420,
+        60,
+        560,
+        190
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۲",
+      "alt": "فوران خورشیدی"
+    },
+    {
+      "file": "assets/054-fig3.png",
+      "source_page": 54,
+      "crop_bounds": [
+        410,
+        220,
+        560,
+        335
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۳",
+      "alt": "شارش بار مثبت از سطح مقطع"
+    },
+    {
+      "file": "assets/054-fig4.png",
+      "source_page": 54,
+      "crop_bounds": [
+        420,
+        365,
+        560,
+        450
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۴",
+      "alt": "حرکت کاتوره‌ای بارها"
+    },
+    {
+      "file": "assets/054-fig5.png",
+      "source_page": 54,
+      "crop_bounds": [
+        420,
+        465,
+        550,
+        700
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۵",
+      "alt": "مدار ساده و نمادهای آن"
+    },
+    {
+      "file": "assets/055-fig6.png",
+      "source_page": 55,
+      "crop_bounds": [
+        20,
+        60,
+        165,
+        160
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۶",
+      "alt": "شارش بار خالص در سیم"
+    },
+    {
+      "file": "assets/055-fig7.png",
+      "source_page": 55,
+      "crop_bounds": [
+        215,
+        130,
+        490,
+        295
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۷",
+      "alt": "مسیر زیگزاگ الکترون و سرعت سوق"
+    },
+    {
+      "file": "assets/056-calculator.png",
+      "source_page": 56,
+      "crop_bounds": [
+        40,
+        70,
+        165,
+        180
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "ماشین‌حساب"
+    },
+    {
+      "file": "assets/056-batteries.png",
+      "source_page": 56,
+      "crop_bounds": [
+        150,
+        390,
+        440,
+        495
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "باتری‌های قلمی و خودرو"
+    },
+    {
+      "file": "assets/057-ion.png",
+      "source_page": 57,
+      "crop_bounds": [
+        70,
+        130,
+        500,
+        275
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "روش یون‌رانی و دستگاه بر پای بیمار"
+    },
+    {
+      "file": "assets/058-fig8.png",
+      "source_page": 58,
+      "crop_bounds": [
+        340,
+        50,
+        550,
+        250
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۸",
+      "alt": "اسباب تحقیق قانون اهم"
+    },
+    {
+      "file": "assets/058-graphs.png",
+      "source_page": 58,
+      "crop_bounds": [
+        90,
+        535,
+        490,
+        690
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل‌های ۲ـ۹ و ۲ـ۱۰",
+      "alt": "نمودارهای جریان برحسب ولتاژ"
+    },
+    {
+      "file": "assets/059-flashlight.png",
+      "source_page": 59,
+      "crop_bounds": [
+        35,
+        75,
+        115,
+        220
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "چراغ‌قوۀ باتری‌دار"
+    },
+    {
+      "file": "assets/059-experiment.png",
+      "source_page": 59,
+      "crop_bounds": [
+        55,
+        540,
+        520,
+        690
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "اسباب و طرح آزمایش مقاومت سیم"
+    },
+    {
+      "file": "assets/060-fig11.png",
+      "source_page": 60,
+      "crop_bounds": [
+        400,
+        50,
+        535,
+        160
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۱۱",
+      "alt": "سیم رسانا به طول L و مقطع A"
+    },
+    {
+      "file": "assets/060-fig12.png",
+      "source_page": 60,
+      "crop_bounds": [
+        190,
+        550,
+        380,
+        710
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۱۲",
+      "alt": "حرکت الکترون در شبکۀ بلوری"
+    },
+    {
+      "file": "assets/061-fig13.png",
+      "source_page": 61,
+      "crop_bounds": [
+        55,
+        70,
+        165,
+        235
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۱۳",
+      "alt": "لامپ حبابی"
+    },
+    {
+      "file": "assets/061-fig14.png",
+      "source_page": 61,
+      "crop_bounds": [
+        230,
+        400,
+        450,
+        655
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۱۴",
+      "alt": "نمودار مقاومت ویژۀ فلزات برحسب دما"
+    },
+    {
+      "file": "assets/062-heater.png",
+      "source_page": 62,
+      "crop_bounds": [
+        55,
+        80,
+        205,
+        310
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "اجاق برقی و طرح المنت"
+    },
+    {
+      "file": "assets/062-thermometer.png",
+      "source_page": 62,
+      "crop_bounds": [
+        50,
+        375,
+        215,
+        500
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "دماسنج مقاومت پلاتینی"
+    },
+    {
+      "file": "assets/063-graph.png",
+      "source_page": 63,
+      "crop_bounds": [
+        65,
+        75,
+        205,
+        195
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "نمودار افت مقاومت جیوه در دمای بحرانی"
+    },
+    {
+      "file": "assets/065-fig15.png",
+      "source_page": 65,
+      "crop_bounds": [
+        15,
+        55,
+        165,
+        235
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۱۵",
+      "alt": "مقاومت پیچه‌ای و ساختار آن"
+    },
+    {
+      "file": "assets/065-fig16.png",
+      "source_page": 65,
+      "crop_bounds": [
+        165,
+        260,
+        530,
+        550
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۱۶",
+      "alt": "رئوستای خطی و پتانسیومتر"
+    },
+    {
+      "file": "assets/066-fig17.png",
+      "source_page": 66,
+      "crop_bounds": [
+        125,
+        195,
+        325,
+        325
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۱۷",
+      "alt": "مقاومت‌های ترکیبی"
+    },
+    {
+      "file": "assets/066-fig18.png",
+      "source_page": 66,
+      "crop_bounds": [
+        435,
+        45,
+        525,
+        230
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۱۸",
+      "alt": "حلقه‌های رنگی مقاومت"
+    },
+    {
+      "file": "assets/066-exercise.png",
+      "source_page": 66,
+      "crop_bounds": [
+        65,
+        345,
+        200,
+        425
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "مقاومت با حلقه‌های رنگی"
+    },
+    {
+      "file": "assets/066-fig19.png",
+      "source_page": 66,
+      "crop_bounds": [
+        50,
+        550,
+        535,
+        695
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۱۹",
+      "alt": "انواع ترمیستور و نماد مدار"
+    },
+    {
+      "file": "assets/067-fig20.png",
+      "source_page": 67,
+      "crop_bounds": [
+        30,
+        120,
+        165,
+        265
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۲۰",
+      "alt": "مقاومت برحسب روشنایی"
+    },
+    {
+      "file": "assets/067-fig21.png",
+      "source_page": 67,
+      "crop_bounds": [
+        20,
+        330,
+        165,
+        525
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۲۱",
+      "alt": "مقاومت‌های نوری و نمادها"
+    },
+    {
+      "file": "assets/067-fig22.png",
+      "source_page": 67,
+      "crop_bounds": [
+        310,
+        420,
+        530,
+        680
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۲۲",
+      "alt": "مدار LDR و لامپ LED"
+    },
+    {
+      "file": "assets/068-fig23.png",
+      "source_page": 68,
+      "crop_bounds": [
+        60,
+        75,
+        200,
+        225
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۲۳",
+      "alt": "مدار کنترل‌کنندۀ نوری"
+    },
+    {
+      "file": "assets/068-fig24.png",
+      "source_page": 68,
+      "crop_bounds": [
+        375,
+        250,
+        540,
+        385
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۲۴",
+      "alt": "دیود در دو جهت مدار"
+    },
+    {
+      "file": "assets/068-fig25.png",
+      "source_page": 68,
+      "crop_bounds": [
+        375,
+        420,
+        555,
+        500
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۲۵",
+      "alt": "دیودهای نورگسیل"
+    },
+    {
+      "file": "assets/068-fig26.png",
+      "source_page": 68,
+      "crop_bounds": [
+        390,
+        525,
+        550,
+        690
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۲۶",
+      "alt": "LED و نماد آن"
+    },
+    {
+      "file": "assets/069-question.png",
+      "source_page": 69,
+      "crop_bounds": [
+        70,
+        65,
+        260,
+        145
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "دو مدار LED"
+    },
+    {
+      "file": "assets/069-fig27.png",
+      "source_page": 69,
+      "crop_bounds": [
+        40,
+        160,
+        160,
+        355
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۲۷",
+      "alt": "سرسرۀ آبی"
+    },
+    {
+      "file": "assets/069-fig28.png",
+      "source_page": 69,
+      "crop_bounds": [
+        220,
+        350,
+        465,
+        520
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۲۸",
+      "alt": "مقایسۀ مدار آب و مدار الکتریکی"
+    },
+    {
+      "file": "assets/069-fig29.png",
+      "source_page": 69,
+      "crop_bounds": [
+        25,
+        520,
+        165,
+        690
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۲۹",
+      "alt": "مدار ساده با منبع و مقاومت"
+    },
+    {
+      "file": "assets/070-activity.png",
+      "source_page": 70,
+      "crop_bounds": [
+        70,
+        205,
+        190,
+        325
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "مدار باتری، لامپ و ولت‌سنج"
+    },
+    {
+      "file": "assets/070-fig30.png",
+      "source_page": 70,
+      "crop_bounds": [
+        75,
+        590,
+        380,
+        675
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۳۰",
+      "alt": "نماد منبع آرمانی و واقعی"
+    },
+    {
+      "file": "assets/071-fish.png",
+      "source_page": 71,
+      "crop_bounds": [
+        60,
+        75,
+        275,
+        215
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "ماهی الکتریکی تورپیدو"
+    },
+    {
+      "file": "assets/072-figures.png",
+      "source_page": 72,
+      "crop_bounds": [
+        410,
+        60,
+        560,
+        625
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل‌های ۲ـ۳۱ تا ۲ـ۳۳",
+      "alt": "مدار تک‌حلقه‌ای، افت پتانسیل و باتری واقعی"
+    },
+    {
+      "file": "assets/074-circuit.png",
+      "source_page": 74,
+      "crop_bounds": [
+        80,
+        75,
+        230,
+        165
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "مدار دو باتری و مقاومت"
+    },
+    {
+      "file": "assets/074-activity.png",
+      "source_page": 74,
+      "crop_bounds": [
+        70,
+        535,
+        190,
+        620
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "مدار اندازه‌گیری مقاومت داخلی باتری"
+    },
+    {
+      "file": "assets/075-fig34.png",
+      "source_page": 75,
+      "crop_bounds": [
+        10,
+        60,
+        165,
+        235
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۳۴",
+      "alt": "جعبه‌ای در مدار با اختلاف پتانسیل بین دو سر"
+    },
+    {
+      "file": "assets/076-joule.png",
+      "source_page": 76,
+      "crop_bounds": [
+        65,
+        175,
+        275,
+        330
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "اسباب آزمایش قانون ژول"
+    },
+    {
+      "file": "assets/076-lamp.png",
+      "source_page": 76,
+      "crop_bounds": [
+        65,
+        370,
+        275,
+        535
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "اندازه‌گیری مقاومت لامپ با اهم‌متر"
+    },
+    {
+      "file": "assets/076-helmet.png",
+      "source_page": 76,
+      "crop_bounds": [
+        65,
+        570,
+        175,
+        665
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "کلاه ایمنی با چراغ"
+    },
+    {
+      "file": "assets/077-fig35.png",
+      "source_page": 77,
+      "crop_bounds": [
+        25,
+        55,
+        165,
+        170
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۳۵",
+      "alt": "توان خروجی باتری واقعی"
+    },
+    {
+      "file": "assets/077-example9.png",
+      "source_page": 77,
+      "crop_bounds": [
+        50,
+        260,
+        205,
+        345
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "مدار باتری و مقاومت"
+    },
+    {
+      "file": "assets/077-example10.png",
+      "source_page": 77,
+      "crop_bounds": [
+        55,
+        480,
+        205,
+        565
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "مدار مثال ۲ـ۷"
+    },
+    {
+      "file": "assets/078-charger.png",
+      "source_page": 78,
+      "crop_bounds": [
+        50,
+        45,
+        215,
+        165
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "باتری متصل به شارژکننده"
+    },
+    {
+      "file": "assets/078-fig36.png",
+      "source_page": 78,
+      "crop_bounds": [
+        425,
+        545,
+        535,
+        690
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۳۶",
+      "alt": "سه مقاومت متوالی متصل به باتری"
+    },
+    {
+      "file": "assets/079-fig37.png",
+      "source_page": 79,
+      "crop_bounds": [
+        45,
+        55,
+        155,
+        185
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۳۷",
+      "alt": "مدار معادل مقاومت‌های متوالی"
+    },
+    {
+      "file": "assets/079-exercise.png",
+      "source_page": 79,
+      "crop_bounds": [
+        60,
+        300,
+        200,
+        415
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "مدار سه مقاومت و آمپرسنج"
+    },
+    {
+      "file": "assets/079-example.png",
+      "source_page": 79,
+      "crop_bounds": [
+        45,
+        445,
+        190,
+        565
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "مدار اندازه‌گیری مقاومت مجهول"
+    },
+    {
+      "file": "assets/080-fig38.png",
+      "source_page": 80,
+      "crop_bounds": [
+        420,
+        55,
+        550,
+        290
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۳۸",
+      "alt": "گره جریان و اتصال لوله‌های آب"
+    },
+    {
+      "file": "assets/080-question.png",
+      "source_page": 80,
+      "crop_bounds": [
+        75,
+        330,
+        155,
+        405
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "چهار جریان در یک گره"
+    },
+    {
+      "file": "assets/080-example.png",
+      "source_page": 80,
+      "crop_bounds": [
+        55,
+        430,
+        190,
+        540
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "مدار دو مقاومت موازی"
+    },
+    {
+      "file": "assets/081-fig39.png",
+      "source_page": 81,
+      "crop_bounds": [
+        25,
+        125,
+        165,
+        295
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۳۹",
+      "alt": "مدار سه مقاومت موازی"
+    },
+    {
+      "file": "assets/081-fig40.png",
+      "source_page": 81,
+      "crop_bounds": [
+        25,
+        560,
+        155,
+        690
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۴۰",
+      "alt": "مدار معادل مقاومت‌های موازی"
+    },
+    {
+      "file": "assets/082-fig41.png",
+      "source_page": 82,
+      "crop_bounds": [
+        285,
+        50,
+        535,
+        215
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۲ـ۴۱",
+      "alt": "دو لولۀ موازی و لولۀ معادل"
+    },
+    {
+      "file": "assets/082-exercise.png",
+      "source_page": 82,
+      "crop_bounds": [
+        60,
+        240,
+        200,
+        375
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "مدار مقاومت‌های موازی و آمپرسنج"
+    },
+    {
+      "file": "assets/082-example.png",
+      "source_page": 82,
+      "crop_bounds": [
+        55,
+        395,
+        175,
+        575
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "مدار یک مقاومت و دو مقاومت موازی"
+    },
+    {
+      "file": "assets/083-circuit.png",
+      "source_page": 83,
+      "crop_bounds": [
+        45,
+        80,
+        195,
+        345
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "سیم‌کشی خانگی و چهار مصرف‌کننده"
+    },
+    {
+      "file": "assets/084-exercise.png",
+      "source_page": 84,
+      "crop_bounds": [
+        70,
+        325,
+        175,
+        420
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "پنج مقاومت در آرایش لوزی"
+    },
+    {
+      "file": "assets/084-lamp.png",
+      "source_page": 84,
+      "crop_bounds": [
+        60,
+        455,
+        160,
+        600
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "لامپ سه‌راهه و کلیدهای آن"
+    },
+    {
+      "file": "assets/085-ldr.png",
+      "source_page": 85,
+      "crop_bounds": [
+        55,
+        245,
+        205,
+        385
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "مدار تقسیم ولتاژ با LDR"
+    },
+    {
+      "file": "assets/086-battery.png",
+      "source_page": 86,
+      "crop_bounds": [
+        65,
+        545,
+        320,
+        695
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "ظرف موسوم به باتری اشکانی"
+    },
+    {
+      "file": "assets/087-q1.png",
+      "source_page": 87,
+      "crop_bounds": [
+        315,
+        90,
+        510,
+        280
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "سه اتصال باتری و لامپ"
+    },
+    {
+      "file": "assets/087-q2.png",
+      "source_page": 87,
+      "crop_bounds": [
+        315,
+        350,
+        510,
+        415
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "مدار باتری و لامپ"
+    },
+    {
+      "file": "assets/087-q3.png",
+      "source_page": 87,
+      "crop_bounds": [
+        300,
+        480,
+        525,
+        625
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "دریل با دوشاخه و سه‌شاخه"
+    },
+    {
+      "file": "assets/087-q6.png",
+      "source_page": 87,
+      "crop_bounds": [
+        105,
+        385,
+        205,
+        465
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "نمودار جریان برحسب ولتاژ برای دو رسانا"
+    },
+    {
+      "file": "assets/088-mower.png",
+      "source_page": 88,
+      "crop_bounds": [
+        330,
+        95,
+        490,
+        185
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "ماشین چمن‌زنی برقی"
+    },
+    {
+      "file": "assets/088-q10.png",
+      "source_page": 88,
+      "crop_bounds": [
+        295,
+        410,
+        530,
+        505
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "مدل مکانیکی مقاومت و باتری"
+    },
+    {
+      "file": "assets/088-q13.png",
+      "source_page": 88,
+      "crop_bounds": [
+        70,
+        60,
+        245,
+        200
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "مدار سه منبع و مقاومت‌ها"
+    },
+    {
+      "file": "assets/088-q14.png",
+      "source_page": 88,
+      "crop_bounds": [
+        75,
+        260,
+        230,
+        410
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "مدار دو منبع و مقاومت"
+    },
+    {
+      "file": "assets/088-q16.png",
+      "source_page": 88,
+      "crop_bounds": [
+        60,
+        540,
+        270,
+        645
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "کتری و اتوی برقی"
+    },
+    {
+      "file": "assets/089-q18.png",
+      "source_page": 89,
+      "crop_bounds": [
+        350,
+        245,
+        485,
+        320
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "مدار تک‌حلقه‌ای با باتری و دو مقاومت"
+    },
+    {
+      "file": "assets/089-q20.png",
+      "source_page": 89,
+      "crop_bounds": [
+        355,
+        545,
+        475,
+        635
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "مدار منبع واقعی و مقاومت متغیر"
+    },
+    {
+      "file": "assets/089-q23.png",
+      "source_page": 89,
+      "crop_bounds": [
+        65,
+        200,
+        255,
+        325
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "انشعاب جریان‌ها"
+    },
+    {
+      "file": "assets/089-q24.png",
+      "source_page": 89,
+      "crop_bounds": [
+        95,
+        400,
+        245,
+        565
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "مدار چهار لامپ موازی"
+    },
+    {
+      "file": "assets/090-q26.png",
+      "source_page": 90,
+      "crop_bounds": [
+        315,
+        45,
+        520,
+        260
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "چهار آرایش مقاومت‌ها"
+    },
+    {
+      "file": "assets/090-q27.png",
+      "source_page": 90,
+      "crop_bounds": [
+        330,
+        340,
+        480,
+        455
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "مدار دو منبع و مقاومت"
+    },
+    {
+      "file": "assets/090-q30.png",
+      "source_page": 90,
+      "crop_bounds": [
+        305,
+        620,
+        480,
+        715
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "مدار سه لامپ"
+    },
+    {
+      "file": "assets/090-q31.png",
+      "source_page": 90,
+      "crop_bounds": [
+        90,
+        85,
+        245,
+        340
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "مدار منبع و مقاومت‌های متعدد"
+    },
+    {
+      "file": "assets/090-q32.png",
+      "source_page": 90,
+      "crop_bounds": [
+        75,
+        405,
+        275,
+        515
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "مدار سه لامپ و کلید"
+    },
+    {
+      "file": "assets/091-train.png",
+      "source_page": 91,
+      "crop_bounds": [
+        0,
+        150,
+        580,
+        510
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "قطار سریع‌السیر مغناطیسی"
+    },
+    {
+      "file": "assets/092-figures.png",
+      "source_page": 92,
+      "crop_bounds": [
+        420,
+        45,
+        560,
+        510
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل‌های ۳ـ۱ تا ۳ـ۳",
+      "alt": "سنگ آهن‌ربا، قطب‌نما و قطب‌های آهن‌ربا"
+    },
+    {
+      "file": "assets/092-fig4.png",
+      "source_page": 92,
+      "crop_bounds": [
+        420,
+        515,
+        555,
+        695
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۴",
+      "alt": "آهن‌ربا کردن سوزن"
+    },
+    {
+      "file": "assets/093-question.png",
+      "source_page": 93,
+      "crop_bounds": [
+        80,
+        75,
+        430,
+        250
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "شکستن آهن‌ربا و القای مغناطیسی"
+    },
+    {
+      "file": "assets/093-nano.png",
+      "source_page": 93,
+      "crop_bounds": [
+        60,
+        290,
+        190,
+        405
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "تصویر میکروسکوپی یاخته‌ها و نانوذرات"
+    },
+    {
+      "file": "assets/093-fig5.png",
+      "source_page": 93,
+      "crop_bounds": [
+        55,
+        435,
+        190,
+        575
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۵",
+      "alt": "جذب میخ توسط دو قطب آهن‌ربا"
+    },
+    {
+      "file": "assets/093-activity.png",
+      "source_page": 93,
+      "crop_bounds": [
+        65,
+        585,
+        190,
+        705
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "آهن‌ربا و عقربۀ مغناطیسی شناور"
+    },
+    {
+      "file": "assets/094-fig6.png",
+      "source_page": 94,
+      "crop_bounds": [
+        70,
+        205,
+        535,
+        320
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۶",
+      "alt": "عقربه‌های مغناطیسی و خطوط میدان آهن‌ربا"
+    },
+    {
+      "file": "assets/094-question.png",
+      "source_page": 94,
+      "crop_bounds": [
+        55,
+        335,
+        220,
+        515
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "آهن‌ربا و نقاط روی خطوط میدان"
+    },
+    {
+      "file": "assets/094-activity.png",
+      "source_page": 94,
+      "crop_bounds": [
+        65,
+        555,
+        220,
+        690
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "مسیر دایره‌ای قطب‌نما دور آهن‌ربا"
+    },
+    {
+      "file": "assets/095-experiment.png",
+      "source_page": 95,
+      "crop_bounds": [
+        50,
+        205,
+        330,
+        385
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "براده‌های آهن پیرامون آهن‌رباها"
+    },
+    {
+      "file": "assets/095-earth.png",
+      "source_page": 95,
+      "crop_bounds": [
+        50,
+        420,
+        230,
+        680
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۷",
+      "alt": "مدل میدان مغناطیسی زمین"
+    },
+    {
+      "file": "assets/096-animals.png",
+      "source_page": 96,
+      "crop_bounds": [
+        150,
+        400,
+        410,
+        525
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "خرچنگ و باکتری مغناطیسی"
+    },
+    {
+      "file": "assets/096-fig8.png",
+      "source_page": 96,
+      "crop_bounds": [
+        360,
+        535,
+        535,
+        650
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۸",
+      "alt": "میدان میان قطب‌های آهن‌ربای C شکل"
+    },
+    {
+      "file": "assets/097-fig9.png",
+      "source_page": 97,
+      "crop_bounds": [
+        165,
+        235,
+        540,
+        375
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۹",
+      "alt": "قاعدۀ دست راست برای نیروی مغناطیسی"
+    },
+    {
+      "file": "assets/097-fig10.png",
+      "source_page": 97,
+      "crop_bounds": [
+        30,
+        445,
+        165,
+        620
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۱۰",
+      "alt": "نیرو عمود بر سرعت و میدان"
+    },
+    {
+      "file": "assets/098-example.png",
+      "source_page": 98,
+      "crop_bounds": [
+        55,
+        185,
+        180,
+        355
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "ذره با سرعت و میدان متقاطع"
+    },
+    {
+      "file": "assets/098-exercise.png",
+      "source_page": 98,
+      "crop_bounds": [
+        60,
+        465,
+        275,
+        555
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "سه ذره در میدان مغناطیسی"
+    },
+    {
+      "file": "assets/098-question.png",
+      "source_page": 98,
+      "crop_bounds": [
+        65,
+        585,
+        175,
+        650
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "الکترون با نیرو و سرعت مشخص"
+    },
+    {
+      "file": "assets/099-belts.png",
+      "source_page": 99,
+      "crop_bounds": [
+        60,
+        75,
+        245,
+        390
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "کمربندهای ون آلن و شفق قطبی"
+    },
+    {
+      "file": "assets/099-motor.png",
+      "source_page": 99,
+      "crop_bounds": [
+        165,
+        555,
+        535,
+        705
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۱۱",
+      "alt": "طرح موتور الکتریکی و نیرو بر الکترون‌ها"
+    },
+    {
+      "file": "assets/100-experiment.png",
+      "source_page": 100,
+      "crop_bounds": [
+        95,
+        255,
+        430,
+        425
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "اسباب آزمایش نیروی وارد بر سیم حامل جریان"
+    },
+    {
+      "file": "assets/100-fig12.png",
+      "source_page": 100,
+      "crop_bounds": [
+        50,
+        535,
+        515,
+        705
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۱۲",
+      "alt": "نیرو بر سیم حامل جریان و قاعدۀ دست راست"
+    },
+    {
+      "file": "assets/101-fig13.png",
+      "source_page": 101,
+      "crop_bounds": [
+        55,
+        50,
+        200,
+        235
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۱۳",
+      "alt": "سیم حامل جریان در میدان مغناطیسی"
+    },
+    {
+      "file": "assets/101-exercise.png",
+      "source_page": 101,
+      "crop_bounds": [
+        105,
+        550,
+        350,
+        590
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "سیم و میدان مغناطیسی زمین"
+    },
+    {
+      "file": "assets/102-galvanometer.png",
+      "source_page": 102,
+      "crop_bounds": [
+        60,
+        75,
+        220,
+        310
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "طرح سادۀ گالوانومتر"
+    },
+    {
+      "file": "assets/102-fig14.png",
+      "source_page": 102,
+      "crop_bounds": [
+        220,
+        530,
+        405,
+        700
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۱۴",
+      "alt": "قطب‌نماها اطراف سیم حامل جریان"
+    },
+    {
+      "file": "assets/103-experiment.png",
+      "source_page": 103,
+      "crop_bounds": [
+        55,
+        140,
+        245,
+        290
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "آزمایش اورستد با قطب‌نماها"
+    },
+    {
+      "file": "assets/103-fig15.png",
+      "source_page": 103,
+      "crop_bounds": [
+        25,
+        380,
+        165,
+        555
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۱۵",
+      "alt": "قاعدۀ دست راست برای میدان سیم"
+    },
+    {
+      "file": "assets/103-question.png",
+      "source_page": 103,
+      "crop_bounds": [
+        65,
+        575,
+        250,
+        700
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "میدان اطراف سیم افقی"
+    },
+    {
+      "file": "assets/104-question.png",
+      "source_page": 104,
+      "crop_bounds": [
+        65,
+        65,
+        260,
+        175
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "میدان اطراف سیم حامل جریان درون‌سو"
+    },
+    {
+      "file": "assets/104-exercise.png",
+      "source_page": 104,
+      "crop_bounds": [
+        55,
+        220,
+        250,
+        300
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "دو سیم موازی و نقاط a، b و c"
+    },
+    {
+      "file": "assets/104-squid.png",
+      "source_page": 104,
+      "crop_bounds": [
+        65,
+        350,
+        245,
+        490
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "اندازه‌گیری میدان مغناطیسی مغز"
+    },
+    {
+      "file": "assets/105-fig16.png",
+      "source_page": 105,
+      "crop_bounds": [
+        190,
+        30,
+        505,
+        220
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۱۶",
+      "alt": "نیروی بین دو سیم موازی"
+    },
+    {
+      "file": "assets/105-fig17.png",
+      "source_page": 105,
+      "crop_bounds": [
+        160,
+        315,
+        525,
+        500
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۱۷",
+      "alt": "میدان حلقۀ حامل جریان"
+    },
+    {
+      "file": "assets/105-fig18.png",
+      "source_page": 105,
+      "crop_bounds": [
+        155,
+        550,
+        535,
+        705
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۱۸",
+      "alt": "مقایسۀ حلقه و آهن‌ربای تخت"
+    },
+    {
+      "file": "assets/106-question.png",
+      "source_page": 106,
+      "crop_bounds": [
+        65,
+        65,
+        215,
+        140
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "میدان درون و بیرون حلقه"
+    },
+    {
+      "file": "assets/106-speaker.png",
+      "source_page": 106,
+      "crop_bounds": [
+        60,
+        265,
+        475,
+        430
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "اجزای بلندگو"
+    },
+    {
+      "file": "assets/106-coil.png",
+      "source_page": 106,
+      "crop_bounds": [
+        425,
+        515,
+        530,
+        650
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۱۹",
+      "alt": "پیچۀ مسطح"
+    },
+    {
+      "file": "assets/107-coil.png",
+      "source_page": 107,
+      "crop_bounds": [
+        55,
+        65,
+        180,
+        135
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "پیچۀ مسطح حامل جریان"
+    },
+    {
+      "file": "assets/107-fig20.png",
+      "source_page": 107,
+      "crop_bounds": [
+        170,
+        550,
+        535,
+        705
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۲۰",
+      "alt": "میدان سیم‌لوله و قاعدۀ دست راست"
+    },
+    {
+      "file": "assets/108-activity.png",
+      "source_page": 108,
+      "crop_bounds": [
+        105,
+        505,
+        480,
+        690
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "براده‌های آهن اطراف سیم، حلقه و سیم‌لوله"
+    },
+    {
+      "file": "assets/109-fig21.png",
+      "source_page": 109,
+      "crop_bounds": [
+        45,
+        60,
+        155,
+        275
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۲۱",
+      "alt": "سیم‌لوله با هستۀ آهنی و آهن‌ربای صنعتی"
+    },
+    {
+      "file": "assets/109-activity.png",
+      "source_page": 109,
+      "crop_bounds": [
+        55,
+        305,
+        335,
+        445
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "آهن‌ربای الکتریکی با میخ و رئوستا"
+    },
+    {
+      "file": "assets/110-fig22.png",
+      "source_page": 110,
+      "crop_bounds": [
+        420,
+        55,
+        555,
+        260
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۲۲",
+      "alt": "سمت‌گیری کاتوره‌ای دوقطبی‌های مغناطیسی"
+    },
+    {
+      "file": "assets/110-activity.png",
+      "source_page": 110,
+      "crop_bounds": [
+        55,
+        285,
+        205,
+        365
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "آهن‌ربا و حباب هوا در لولۀ اتانول"
+    },
+    {
+      "file": "assets/111-fig23.png",
+      "source_page": 111,
+      "crop_bounds": [
+        70,
+        95,
+        505,
+        235
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۳ـ۲۳",
+      "alt": "حوزه‌های فرومغناطیسی در میدان‌های مختلف"
+    },
+    {
+      "file": "assets/111-question.png",
+      "source_page": 111,
+      "crop_bounds": [
+        55,
+        550,
+        215,
+        690
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "دو میلۀ فلزی درون سیم‌لوله"
+    },
+    {
+      "file": "assets/112-q1.png",
+      "source_page": 112,
+      "crop_bounds": [
+        325,
+        140,
+        510,
+        245
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "آهن‌ربا، عقربه‌ها و خطوط میدان"
+    },
+    {
+      "file": "assets/112-q2.png",
+      "source_page": 112,
+      "crop_bounds": [
+        300,
+        370,
+        535,
+        700
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "دو آهن‌ربا و نقاط A، B و C"
+    },
+    {
+      "file": "assets/112-q3.png",
+      "source_page": 112,
+      "crop_bounds": [
+        55,
+        185,
+        275,
+        290
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "خطوط میدان دو آهن‌ربا"
+    },
+    {
+      "file": "assets/112-q4.png",
+      "source_page": 112,
+      "crop_bounds": [
+        45,
+        515,
+        275,
+        705
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "ابزار مغناطیسی انعطاف‌پذیر"
+    },
+    {
+      "file": "assets/113-q5.png",
+      "source_page": 113,
+      "crop_bounds": [
+        325,
+        125,
+        490,
+        265
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "مسیر چهار ذره در میدان"
+    },
+    {
+      "file": "assets/113-q6.png",
+      "source_page": 113,
+      "crop_bounds": [
+        300,
+        300,
+        520,
+        455
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "سرعت و میدان برای شش حالت"
+    },
+    {
+      "file": "assets/113-q7.png",
+      "source_page": 113,
+      "crop_bounds": [
+        300,
+        555,
+        510,
+        700
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "نیرو و میدان در پنج حالت"
+    },
+    {
+      "file": "assets/113-q8.png",
+      "source_page": 113,
+      "crop_bounds": [
+        50,
+        90,
+        195,
+        190
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "حلقۀ رسانا در میدان"
+    },
+    {
+      "file": "assets/113-q10.png",
+      "source_page": 113,
+      "crop_bounds": [
+        55,
+        410,
+        145,
+        520
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "الکترون، سرعت و نیرو"
+    },
+    {
+      "file": "assets/113-q11.png",
+      "source_page": 113,
+      "crop_bounds": [
+        65,
+        635,
+        250,
+        715
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "ذره در میدان‌های عمود بر هم"
+    },
+    {
+      "file": "assets/114-q12.png",
+      "source_page": 114,
+      "crop_bounds": [
+        300,
+        125,
+        530,
+        355
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "سه سیم حامل جریان میان قطب‌ها"
+    },
+    {
+      "file": "assets/114-q13.png",
+      "source_page": 114,
+      "crop_bounds": [
+        325,
+        440,
+        480,
+        620
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "میله در آهن‌ربای C شکل"
+    },
+    {
+      "file": "assets/114-q14.png",
+      "source_page": 114,
+      "crop_bounds": [
+        65,
+        75,
+        260,
+        180
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "سیم CD در میدان درون‌سو"
+    },
+    {
+      "file": "assets/114-q15.png",
+      "source_page": 114,
+      "crop_bounds": [
+        55,
+        375,
+        275,
+        535
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "سیم و دو نیروسنج"
+    },
+    {
+      "file": "assets/114-q16.png",
+      "source_page": 114,
+      "crop_bounds": [
+        95,
+        605,
+        240,
+        710
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "آهن‌ربا بالای سیم‌لوله"
+    },
+    {
+      "file": "assets/115-q17.png",
+      "source_page": 115,
+      "crop_bounds": [
+        300,
+        145,
+        500,
+        260
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "باتری و قطب‌نما روی سیم"
+    },
+    {
+      "file": "assets/115-q18.png",
+      "source_page": 115,
+      "crop_bounds": [
+        300,
+        335,
+        520,
+        440
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "سیم‌لوله و آهن‌ربای آویزان"
+    },
+    {
+      "file": "assets/115-q19.png",
+      "source_page": 115,
+      "crop_bounds": [
+        300,
+        525,
+        520,
+        605
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "دو سیم موازی و نقطۀ A"
+    },
+    {
+      "file": "assets/115-q21.png",
+      "source_page": 115,
+      "crop_bounds": [
+        55,
+        180,
+        260,
+        400
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "دو سیم‌لولۀ هم‌محور P و Q"
+    },
+    {
+      "file": "assets/115-q22.png",
+      "source_page": 115,
+      "crop_bounds": [
+        70,
+        530,
+        245,
+        685
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "حوزه‌های مغناطیسی پیش و پس از حذف میدان"
+    },
+    {
+      "file": "assets/116-map.png",
+      "source_page": 116,
+      "crop_bounds": [
+        55,
+        100,
+        525,
+        465
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "نقشۀ مفهومی مواد از نظر مغناطیسی با خانه‌های خالی"
+    },
+    {
+      "file": "assets/117-card.png",
+      "source_page": 117,
+      "crop_bounds": [
+        0,
+        150,
+        580,
+        540
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "کارت بانکی و دستگاه کارت‌خوان"
+    },
+    {
+      "file": "assets/118-experiment.png",
+      "source_page": 118,
+      "crop_bounds": [
+        55,
+        275,
+        250,
+        455
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "آهن‌ربا، سیم‌لوله و گالوانومتر"
+    },
+    {
+      "file": "assets/118-fig1.png",
+      "source_page": 118,
+      "crop_bounds": [
+        340,
+        515,
+        520,
+        690
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۴ـ۱",
+      "alt": "آزمایش فاراده با دو سیم‌لوله"
+    },
+    {
+      "file": "assets/119-fig2.png",
+      "source_page": 119,
+      "crop_bounds": [
+        165,
+        145,
+        525,
+        285
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۴ـ۲",
+      "alt": "تغییر مساحت پیچه در میدان مغناطیسی"
+    },
+    {
+      "file": "assets/119-fig3.png",
+      "source_page": 119,
+      "crop_bounds": [
+        165,
+        295,
+        525,
+        465
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۴ـ۳",
+      "alt": "چرخش پیچه در میدان مغناطیسی"
+    },
+    {
+      "file": "assets/119-fig4.png",
+      "source_page": 119,
+      "crop_bounds": [
+        20,
+        515,
+        165,
+        690
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۴ـ۴",
+      "alt": "سطح و نیم‌خط عمود در میدان مغناطیسی"
+    },
+    {
+      "file": "assets/120-example.png",
+      "source_page": 120,
+      "crop_bounds": [
+        130,
+        330,
+        460,
+        495
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "دو وضعیت حلقه در میدان"
+    },
+    {
+      "file": "assets/121-exercise.png",
+      "source_page": 121,
+      "crop_bounds": [
+        155,
+        165,
+        410,
+        260
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "تغییر مساحت حلقه در میدان"
+    },
+    {
+      "file": "assets/122-example2.png",
+      "source_page": 122,
+      "crop_bounds": [
+        50,
+        60,
+        150,
+        185
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "پیچه در میدان آهن‌ربای الکتریکی"
+    },
+    {
+      "file": "assets/122-example3.png",
+      "source_page": 122,
+      "crop_bounds": [
+        55,
+        420,
+        230,
+        570
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "نمودار شار و نیروی محرکۀ القایی"
+    },
+    {
+      "file": "assets/123-example.png",
+      "source_page": 123,
+      "crop_bounds": [
+        55,
+        60,
+        205,
+        390
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "میلۀ لغزنده روی رسانای U شکل"
+    },
+    {
+      "file": "assets/123-exercise.png",
+      "source_page": 123,
+      "crop_bounds": [
+        60,
+        510,
+        220,
+        670
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "حلقه میان قطب‌های آهن‌ربای الکتریکی"
+    },
+    {
+      "file": "assets/124-bike.png",
+      "source_page": 124,
+      "crop_bounds": [
+        60,
+        65,
+        200,
+        210
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "چرخ دوچرخه، آهن‌ربا و پیچه"
+    },
+    {
+      "file": "assets/124-card.png",
+      "source_page": 124,
+      "crop_bounds": [
+        60,
+        235,
+        210,
+        455
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "نوار مغناطیسی و پیچۀ کارت‌خوان"
+    },
+    {
+      "file": "assets/124-cruise.png",
+      "source_page": 124,
+      "crop_bounds": [
+        55,
+        490,
+        250,
+        690
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "سامانۀ تنظیم تندی خودرو"
+    },
+    {
+      "file": "assets/125-tms.png",
+      "source_page": 125,
+      "crop_bounds": [
+        55,
+        75,
+        205,
+        220
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "تحریک مغناطیسی فرا جمجمه‌ای"
+    },
+    {
+      "file": "assets/125-fig5.png",
+      "source_page": 125,
+      "crop_bounds": [
+        165,
+        555,
+        520,
+        690
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۴ـ۵",
+      "alt": "نزدیک و دور شدن آهن‌ربا از حلقه"
+    },
+    {
+      "file": "assets/126-question.png",
+      "source_page": 126,
+      "crop_bounds": [
+        55,
+        65,
+        290,
+        215
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "آهن‌ربا و حلقه؛ سیم و حلقه"
+    },
+    {
+      "file": "assets/126-fig6.png",
+      "source_page": 126,
+      "crop_bounds": [
+        420,
+        405,
+        555,
+        555
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۴ـ۶",
+      "alt": "چند القاگر"
+    },
+    {
+      "file": "assets/126-fig7.png",
+      "source_page": 126,
+      "crop_bounds": [
+        420,
+        555,
+        555,
+        700
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۴ـ۷",
+      "alt": "مدار ساده شامل رئوستا و القاگر"
+    },
+    {
+      "file": "assets/127-experiment.png",
+      "source_page": 127,
+      "crop_bounds": [
+        60,
+        80,
+        245,
+        325
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "مدار و اسباب آزمایش خود القاوری"
+    },
+    {
+      "file": "assets/127-fig8.png",
+      "source_page": 127,
+      "crop_bounds": [
+        235,
+        610,
+        460,
+        700
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۴ـ۸",
+      "alt": "سیم‌لوله با N حلقه"
+    },
+    {
+      "file": "assets/128-fig9.png",
+      "source_page": 128,
+      "crop_bounds": [
+        70,
+        565,
+        535,
+        705
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۴ـ۹",
+      "alt": "آزمایش القای متقابل"
+    },
+    {
+      "file": "assets/129-fig10.png",
+      "source_page": 129,
+      "crop_bounds": [
+        20,
+        60,
+        165,
+        225
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۴ـ۱۰",
+      "alt": "قرارگیری عمود القاگرهای مجاور"
+    },
+    {
+      "file": "assets/129-fig11.png",
+      "source_page": 129,
+      "crop_bounds": [
+        20,
+        250,
+        170,
+        455
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۴ـ۱۱",
+      "alt": "رفتار انرژی در مقاومت و القاگر"
+    },
+    {
+      "file": "assets/130-spark.png",
+      "source_page": 130,
+      "crop_bounds": [
+        60,
+        285,
+        215,
+        440
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "جرقۀ شمع خودرو"
+    },
+    {
+      "file": "assets/130-fig12.png",
+      "source_page": 130,
+      "crop_bounds": [
+        420,
+        455,
+        535,
+        700
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۴ـ۱۲",
+      "alt": "مدارهای جریان مستقیم و متناوب"
+    },
+    {
+      "file": "assets/131-fig13.png",
+      "source_page": 131,
+      "crop_bounds": [
+        40,
+        55,
+        160,
+        180
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۴ـ۱۳",
+      "alt": "نمودار جریان متناوب سینوسی"
+    },
+    {
+      "file": "assets/131-fig14.png",
+      "source_page": 131,
+      "crop_bounds": [
+        235,
+        190,
+        490,
+        390
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۴ـ۱۴",
+      "alt": "اجزای مولد جریان متناوب"
+    },
+    {
+      "file": "assets/132-fig15.png",
+      "source_page": 132,
+      "crop_bounds": [
+        420,
+        55,
+        555,
+        190
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۴ـ۱۵",
+      "alt": "نمودار جریان متناوب در یک دوره"
+    },
+    {
+      "file": "assets/132-fig16.png",
+      "source_page": 132,
+      "crop_bounds": [
+        55,
+        425,
+        530,
+        700
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۴ـ۱۶",
+      "alt": "مراحل چرخش پیچه در یک دوره"
+    },
+    {
+      "file": "assets/133-fig17.png",
+      "source_page": 133,
+      "crop_bounds": [
+        165,
+        165,
+        520,
+        380
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۴ـ۱۷",
+      "alt": "مولد صنعتی جریان متناوب"
+    },
+    {
+      "file": "assets/133-example.png",
+      "source_page": 133,
+      "crop_bounds": [
+        55,
+        410,
+        275,
+        520
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "نمودار جریان سینوسی"
+    },
+    {
+      "file": "assets/134-activity.png",
+      "source_page": 134,
+      "crop_bounds": [
+        85,
+        135,
+        465,
+        260
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "مدار جریان متناوب و مدار با دیود"
+    },
+    {
+      "file": "assets/134-fig18.png",
+      "source_page": 134,
+      "crop_bounds": [
+        55,
+        485,
+        410,
+        665
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۴ـ۱۸",
+      "alt": "انتقال برق از نیروگاه تا مصرف‌کننده"
+    },
+    {
+      "file": "assets/135-fig19.png",
+      "source_page": 135,
+      "crop_bounds": [
+        20,
+        50,
+        165,
+        180
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "شکل ۴ـ۱۹",
+      "alt": "مبدل آرمانی با دو پیچه"
+    },
+    {
+      "file": "assets/135-example.png",
+      "source_page": 135,
+      "crop_bounds": [
+        45,
+        230,
+        215,
+        335
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "مبدل متصل به لامپ"
+    },
+    {
+      "file": "assets/135-exercise.png",
+      "source_page": 135,
+      "crop_bounds": [
+        165,
+        480,
+        425,
+        585
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": null,
+      "alt": "مبدل و حشره‌کش برقی"
+    },
+    {
+      "file": "assets/136-q1.png",
+      "source_page": 136,
+      "crop_bounds": [
+        315,
+        175,
+        500,
+        345
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "",
+      "alt": "دو سیملوله با تعداد دور متفاوت"
+    },
+    {
+      "file": "assets/136-q2.png",
+      "source_page": 136,
+      "crop_bounds": [
+        315,
+        425,
+        500,
+        595
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "",
+      "alt": "حرکت آهن‌ربا با تندی‌های متفاوت"
+    },
+    {
+      "file": "assets/136-q3.png",
+      "source_page": 136,
+      "crop_bounds": [
+        85,
+        75,
+        220,
+        265
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "",
+      "alt": "ساختمان بادسنج"
+    },
+    {
+      "file": "assets/136-q6.png",
+      "source_page": 136,
+      "crop_bounds": [
+        50,
+        515,
+        190,
+        635
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "",
+      "alt": "آهن‌ربا و حلقۀ رسانا"
+    },
+    {
+      "file": "assets/137-q7.png",
+      "source_page": 137,
+      "crop_bounds": [
+        340,
+        105,
+        500,
+        215
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "",
+      "alt": "رها شدن دو آهن‌ربا"
+    },
+    {
+      "file": "assets/137-q8.png",
+      "source_page": 137,
+      "crop_bounds": [
+        305,
+        255,
+        530,
+        350
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "",
+      "alt": "حلقه‌ها و سیم‌ها"
+    },
+    {
+      "file": "assets/137-q9.png",
+      "source_page": 137,
+      "crop_bounds": [
+        310,
+        400,
+        525,
+        510
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "",
+      "alt": "سیملوله و حلقه"
+    },
+    {
+      "file": "assets/137-q10.png",
+      "source_page": 137,
+      "crop_bounds": [
+        350,
+        570,
+        480,
+        690
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "",
+      "alt": "مدار و حلقه"
+    },
+    {
+      "file": "assets/137-q11.png",
+      "source_page": 137,
+      "crop_bounds": [
+        105,
+        135,
+        225,
+        230
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "",
+      "alt": "دو حلقه و سیم"
+    },
+    {
+      "file": "assets/137-q12.png",
+      "source_page": 137,
+      "crop_bounds": [
+        90,
+        310,
+        260,
+        390
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "",
+      "alt": "حلقه در میدان"
+    },
+    {
+      "file": "assets/137-q13.png",
+      "source_page": 137,
+      "crop_bounds": [
+        85,
+        470,
+        260,
+        570
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "",
+      "alt": "مدار U شکل"
+    },
+    {
+      "file": "assets/137-q14.png",
+      "source_page": 137,
+      "crop_bounds": [
+        65,
+        640,
+        275,
+        720
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "",
+      "alt": "دو پیچه و کلید"
+    },
+    {
+      "file": "assets/138-q15.png",
+      "source_page": 138,
+      "crop_bounds": [
+        290,
+        200,
+        550,
+        275
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "",
+      "alt": "حلقه در حال عبور از میدان"
+    },
+    {
+      "file": "assets/138-q16.png",
+      "source_page": 138,
+      "crop_bounds": [
+        320,
+        355,
+        505,
+        455
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "",
+      "alt": "حلقه و آهن‌ربا"
+    },
+    {
+      "file": "assets/138-q17.png",
+      "source_page": 138,
+      "crop_bounds": [
+        315,
+        555,
+        510,
+        685
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "",
+      "alt": "مدار القاگر"
+    },
+    {
+      "file": "assets/138-q18.png",
+      "source_page": 138,
+      "crop_bounds": [
+        90,
+        185,
+        265,
+        280
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "",
+      "alt": "سیملوله"
+    },
+    {
+      "file": "assets/138-q20.png",
+      "source_page": 138,
+      "crop_bounds": [
+        65,
+        470,
+        275,
+        600
+      ],
+      "method": "PyMuPDF 2x render",
+      "caption": "",
+      "alt": "مبدل آرمانی"
+    }
+  ],
+  "uncertainties": [
+    {
+      "pdf_page": 2,
+      "note": "برخی اسامی و ارقام ریز شناسنامه نیازمند بازبینی است."
+    }
+  ],
+  "completed_pages": 144,
+  "status": "complete"
+}

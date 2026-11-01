@@ -1,0 +1,1679 @@
+{
+  "schema_version": 1,
+  "book": {
+    "title": "کتاب کار انگلیسی (2)",
+    "grade": 11,
+    "branches": [
+      "math",
+      "science",
+      "humanities",
+      "islamic"
+    ],
+    "book_code": "C111231",
+    "edition": "1404-1405",
+    "year": "1404-1405",
+    "language": "fa"
+  },
+  "source": {
+    "catalog_url": "http://chap.sch.ir/books/14349",
+    "pdf_url": "http://chap.sch.ir/sites/default/files/lbooks/1404-1405/44/C111231_0.pdf",
+    "local_pdf": "sources/C111231-older-edition.pdf",
+    "sha256": "785ad8f0139c151e71c1e2678d208c2d666722d8b72887cb47a9466d5b306ead",
+    "pdf_page_count": 64,
+    "source_edition_note": "Official catalog attachment is identified as older edition; included per root direction.",
+    "retrieved_at": null
+  },
+  "pages": [
+    {
+      "pdf_page": 1,
+      "printed_page": null,
+      "path": "pages/p0001.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111231-p0001-source-page.png",
+          "source_pdf_page": 1,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "Source page image",
+          "alt": "Full source page 1 from English Workbook (2)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 2,
+      "printed_page": null,
+      "path": "pages/p0002.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 3,
+      "printed_page": null,
+      "path": "pages/p0003.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111231-p0003-source-page.png",
+          "source_pdf_page": 3,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "Source page image",
+          "alt": "Full source page 3 from English Workbook (2)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 4,
+      "printed_page": null,
+      "path": "pages/p0004.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111231-p0004-source-page.png",
+          "source_pdf_page": 4,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "Source page image",
+          "alt": "Full source page 4 from English Workbook (2)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 5,
+      "printed_page": null,
+      "path": "pages/p0005.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111231-p0005-source-page.png",
+          "source_pdf_page": 5,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "Source page image",
+          "alt": "Full source page 5 from English Workbook (2)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 6,
+      "printed_page": null,
+      "path": "pages/p0006.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 7,
+      "printed_page": null,
+      "path": "pages/p0007.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 8,
+      "printed_page": null,
+      "path": "pages/p0008.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111231-p0008-source-page.png",
+          "source_pdf_page": 8,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "Source page image",
+          "alt": "Full source page 8 from English Workbook (2)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 9,
+      "printed_page": 1,
+      "path": "pages/p0009.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111231-p0009-source-page.png",
+          "source_pdf_page": 9,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "Source page image",
+          "alt": "Full source page 9 from English Workbook (2)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 10,
+      "printed_page": null,
+      "path": "pages/p0010.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111231-p0010-source-page.png",
+          "source_pdf_page": 10,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "Source page image",
+          "alt": "Full source page 10 from English Workbook (2)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 11,
+      "printed_page": null,
+      "path": "pages/p0011.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111231-p0011-source-page.png",
+          "source_pdf_page": 11,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "Source page image",
+          "alt": "Full source page 11 from English Workbook (2)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 12,
+      "printed_page": null,
+      "path": "pages/p0012.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 13,
+      "printed_page": null,
+      "path": "pages/p0013.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 14,
+      "printed_page": null,
+      "path": "pages/p0014.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111231-p0014-source-page.png",
+          "source_pdf_page": 14,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "Source page image",
+          "alt": "Full source page 14 from English Workbook (2)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 15,
+      "printed_page": null,
+      "path": "pages/p0015.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 16,
+      "printed_page": null,
+      "path": "pages/p0016.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111231-p0016-source-page.png",
+          "source_pdf_page": 16,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "Source page image",
+          "alt": "Full source page 16 from English Workbook (2)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 17,
+      "printed_page": null,
+      "path": "pages/p0017.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111231-p0017-source-page.png",
+          "source_pdf_page": 17,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "Source page image",
+          "alt": "Full source page 17 from English Workbook (2)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 18,
+      "printed_page": null,
+      "path": "pages/p0018.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111231-p0018-source-page.png",
+          "source_pdf_page": 18,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "Source page image",
+          "alt": "Full source page 18 from English Workbook (2)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 19,
+      "printed_page": null,
+      "path": "pages/p0019.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111231-p0019-source-page.png",
+          "source_pdf_page": 19,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "Source page image",
+          "alt": "Full source page 19 from English Workbook (2)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 20,
+      "printed_page": null,
+      "path": "pages/p0020.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 21,
+      "printed_page": null,
+      "path": "pages/p0021.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 22,
+      "printed_page": null,
+      "path": "pages/p0022.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111231-p0022-source-page.png",
+          "source_pdf_page": 22,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "Source page image",
+          "alt": "Full source page 22 from English Workbook (2)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 23,
+      "printed_page": null,
+      "path": "pages/p0023.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111231-p0023-source-page.png",
+          "source_pdf_page": 23,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "Source page image",
+          "alt": "Full source page 23 from English Workbook (2)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 24,
+      "printed_page": 2,
+      "path": "pages/p0024.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 25,
+      "printed_page": null,
+      "path": "pages/p0025.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 26,
+      "printed_page": null,
+      "path": "pages/p0026.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111231-p0026-source-page.png",
+          "source_pdf_page": 26,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "Source page image",
+          "alt": "Full source page 26 from English Workbook (2)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 27,
+      "printed_page": null,
+      "path": "pages/p0027.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111231-p0027-source-page.png",
+          "source_pdf_page": 27,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "Source page image",
+          "alt": "Full source page 27 from English Workbook (2)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 28,
+      "printed_page": null,
+      "path": "pages/p0028.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111231-p0028-source-page.png",
+          "source_pdf_page": 28,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "Source page image",
+          "alt": "Full source page 28 from English Workbook (2)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 29,
+      "printed_page": null,
+      "path": "pages/p0029.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 30,
+      "printed_page": null,
+      "path": "pages/p0030.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 31,
+      "printed_page": null,
+      "path": "pages/p0031.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 32,
+      "printed_page": null,
+      "path": "pages/p0032.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 33,
+      "printed_page": null,
+      "path": "pages/p0033.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111231-p0033-source-page.png",
+          "source_pdf_page": 33,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "Source page image",
+          "alt": "Full source page 33 from English Workbook (2)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 34,
+      "printed_page": null,
+      "path": "pages/p0034.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111231-p0034-source-page.png",
+          "source_pdf_page": 34,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "Source page image",
+          "alt": "Full source page 34 from English Workbook (2)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 35,
+      "printed_page": null,
+      "path": "pages/p0035.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111231-p0035-source-page.png",
+          "source_pdf_page": 35,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "Source page image",
+          "alt": "Full source page 35 from English Workbook (2)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 36,
+      "printed_page": null,
+      "path": "pages/p0036.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111231-p0036-source-page.png",
+          "source_pdf_page": 36,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "Source page image",
+          "alt": "Full source page 36 from English Workbook (2)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 37,
+      "printed_page": null,
+      "path": "pages/p0037.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 38,
+      "printed_page": null,
+      "path": "pages/p0038.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111231-p0038-source-page.png",
+          "source_pdf_page": 38,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "Source page image",
+          "alt": "Full source page 38 from English Workbook (2)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 39,
+      "printed_page": null,
+      "path": "pages/p0039.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 40,
+      "printed_page": null,
+      "path": "pages/p0040.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 41,
+      "printed_page": null,
+      "path": "pages/p0041.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111231-p0041-source-page.png",
+          "source_pdf_page": 41,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "Source page image",
+          "alt": "Full source page 41 from English Workbook (2)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 42,
+      "printed_page": 3,
+      "path": "pages/p0042.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111231-p0042-source-page.png",
+          "source_pdf_page": 42,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "Source page image",
+          "alt": "Full source page 42 from English Workbook (2)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 43,
+      "printed_page": null,
+      "path": "pages/p0043.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 44,
+      "printed_page": null,
+      "path": "pages/p0044.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111231-p0044-source-page.png",
+          "source_pdf_page": 44,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "Source page image",
+          "alt": "Full source page 44 from English Workbook (2)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 45,
+      "printed_page": null,
+      "path": "pages/p0045.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111231-p0045-source-page.png",
+          "source_pdf_page": 45,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "Source page image",
+          "alt": "Full source page 45 from English Workbook (2)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 46,
+      "printed_page": null,
+      "path": "pages/p0046.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111231-p0046-source-page.png",
+          "source_pdf_page": 46,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "Source page image",
+          "alt": "Full source page 46 from English Workbook (2)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 47,
+      "printed_page": null,
+      "path": "pages/p0047.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111231-p0047-source-page.png",
+          "source_pdf_page": 47,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "Source page image",
+          "alt": "Full source page 47 from English Workbook (2)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 48,
+      "printed_page": null,
+      "path": "pages/p0048.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 49,
+      "printed_page": null,
+      "path": "pages/p0049.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111231-p0049-source-page.png",
+          "source_pdf_page": 49,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "Source page image",
+          "alt": "Full source page 49 from English Workbook (2)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 50,
+      "printed_page": null,
+      "path": "pages/p0050.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111231-p0050-source-page.png",
+          "source_pdf_page": 50,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "Source page image",
+          "alt": "Full source page 50 from English Workbook (2)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 51,
+      "printed_page": null,
+      "path": "pages/p0051.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111231-p0051-source-page.png",
+          "source_pdf_page": 51,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "Source page image",
+          "alt": "Full source page 51 from English Workbook (2)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 52,
+      "printed_page": null,
+      "path": "pages/p0052.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111231-p0052-source-page.png",
+          "source_pdf_page": 52,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "Source page image",
+          "alt": "Full source page 52 from English Workbook (2)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 53,
+      "printed_page": null,
+      "path": "pages/p0053.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111231-p0053-source-page.png",
+          "source_pdf_page": 53,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "Source page image",
+          "alt": "Full source page 53 from English Workbook (2)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 54,
+      "printed_page": null,
+      "path": "pages/p0054.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111231-p0054-source-page.png",
+          "source_pdf_page": 54,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "Source page image",
+          "alt": "Full source page 54 from English Workbook (2)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 55,
+      "printed_page": null,
+      "path": "pages/p0055.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111231-p0055-source-page.png",
+          "source_pdf_page": 55,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "Source page image",
+          "alt": "Full source page 55 from English Workbook (2)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 56,
+      "printed_page": null,
+      "path": "pages/p0056.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111231-p0056-source-page.png",
+          "source_pdf_page": 56,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "Source page image",
+          "alt": "Full source page 56 from English Workbook (2)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 57,
+      "printed_page": null,
+      "path": "pages/p0057.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111231-p0057-source-page.png",
+          "source_pdf_page": 57,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "Source page image",
+          "alt": "Full source page 57 from English Workbook (2)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 58,
+      "printed_page": null,
+      "path": "pages/p0058.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111231-p0058-source-page.png",
+          "source_pdf_page": 58,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "Source page image",
+          "alt": "Full source page 58 from English Workbook (2)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 59,
+      "printed_page": null,
+      "path": "pages/p0059.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111231-p0059-source-page.png",
+          "source_pdf_page": 59,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "Source page image",
+          "alt": "Full source page 59 from English Workbook (2)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 60,
+      "printed_page": null,
+      "path": "pages/p0060.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111231-p0060-source-page.png",
+          "source_pdf_page": 60,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "Source page image",
+          "alt": "Full source page 60 from English Workbook (2)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 61,
+      "printed_page": null,
+      "path": "pages/p0061.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 62,
+      "printed_page": null,
+      "path": "pages/p0062.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 63,
+      "printed_page": null,
+      "path": "pages/p0063.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 64,
+      "printed_page": null,
+      "path": "pages/p0064.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111231-p0064-source-page.png",
+          "source_pdf_page": 64,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "Source page image",
+          "alt": "Full source page 64 from English Workbook (2)"
+        }
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "path": "assets/figures/C111231-p0001-source-page.png",
+      "source_pdf_page": 1,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "Source page image",
+      "alt": "Full source page 1 from English Workbook (2)"
+    },
+    {
+      "path": "assets/figures/C111231-p0003-source-page.png",
+      "source_pdf_page": 3,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "Source page image",
+      "alt": "Full source page 3 from English Workbook (2)"
+    },
+    {
+      "path": "assets/figures/C111231-p0004-source-page.png",
+      "source_pdf_page": 4,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "Source page image",
+      "alt": "Full source page 4 from English Workbook (2)"
+    },
+    {
+      "path": "assets/figures/C111231-p0005-source-page.png",
+      "source_pdf_page": 5,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "Source page image",
+      "alt": "Full source page 5 from English Workbook (2)"
+    },
+    {
+      "path": "assets/figures/C111231-p0008-source-page.png",
+      "source_pdf_page": 8,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "Source page image",
+      "alt": "Full source page 8 from English Workbook (2)"
+    },
+    {
+      "path": "assets/figures/C111231-p0009-source-page.png",
+      "source_pdf_page": 9,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "Source page image",
+      "alt": "Full source page 9 from English Workbook (2)"
+    },
+    {
+      "path": "assets/figures/C111231-p0010-source-page.png",
+      "source_pdf_page": 10,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "Source page image",
+      "alt": "Full source page 10 from English Workbook (2)"
+    },
+    {
+      "path": "assets/figures/C111231-p0011-source-page.png",
+      "source_pdf_page": 11,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "Source page image",
+      "alt": "Full source page 11 from English Workbook (2)"
+    },
+    {
+      "path": "assets/figures/C111231-p0014-source-page.png",
+      "source_pdf_page": 14,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "Source page image",
+      "alt": "Full source page 14 from English Workbook (2)"
+    },
+    {
+      "path": "assets/figures/C111231-p0016-source-page.png",
+      "source_pdf_page": 16,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "Source page image",
+      "alt": "Full source page 16 from English Workbook (2)"
+    },
+    {
+      "path": "assets/figures/C111231-p0017-source-page.png",
+      "source_pdf_page": 17,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "Source page image",
+      "alt": "Full source page 17 from English Workbook (2)"
+    },
+    {
+      "path": "assets/figures/C111231-p0018-source-page.png",
+      "source_pdf_page": 18,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "Source page image",
+      "alt": "Full source page 18 from English Workbook (2)"
+    },
+    {
+      "path": "assets/figures/C111231-p0019-source-page.png",
+      "source_pdf_page": 19,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "Source page image",
+      "alt": "Full source page 19 from English Workbook (2)"
+    },
+    {
+      "path": "assets/figures/C111231-p0022-source-page.png",
+      "source_pdf_page": 22,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "Source page image",
+      "alt": "Full source page 22 from English Workbook (2)"
+    },
+    {
+      "path": "assets/figures/C111231-p0023-source-page.png",
+      "source_pdf_page": 23,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "Source page image",
+      "alt": "Full source page 23 from English Workbook (2)"
+    },
+    {
+      "path": "assets/figures/C111231-p0026-source-page.png",
+      "source_pdf_page": 26,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "Source page image",
+      "alt": "Full source page 26 from English Workbook (2)"
+    },
+    {
+      "path": "assets/figures/C111231-p0027-source-page.png",
+      "source_pdf_page": 27,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "Source page image",
+      "alt": "Full source page 27 from English Workbook (2)"
+    },
+    {
+      "path": "assets/figures/C111231-p0028-source-page.png",
+      "source_pdf_page": 28,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "Source page image",
+      "alt": "Full source page 28 from English Workbook (2)"
+    },
+    {
+      "path": "assets/figures/C111231-p0033-source-page.png",
+      "source_pdf_page": 33,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "Source page image",
+      "alt": "Full source page 33 from English Workbook (2)"
+    },
+    {
+      "path": "assets/figures/C111231-p0034-source-page.png",
+      "source_pdf_page": 34,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "Source page image",
+      "alt": "Full source page 34 from English Workbook (2)"
+    },
+    {
+      "path": "assets/figures/C111231-p0035-source-page.png",
+      "source_pdf_page": 35,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "Source page image",
+      "alt": "Full source page 35 from English Workbook (2)"
+    },
+    {
+      "path": "assets/figures/C111231-p0036-source-page.png",
+      "source_pdf_page": 36,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "Source page image",
+      "alt": "Full source page 36 from English Workbook (2)"
+    },
+    {
+      "path": "assets/figures/C111231-p0038-source-page.png",
+      "source_pdf_page": 38,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "Source page image",
+      "alt": "Full source page 38 from English Workbook (2)"
+    },
+    {
+      "path": "assets/figures/C111231-p0041-source-page.png",
+      "source_pdf_page": 41,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "Source page image",
+      "alt": "Full source page 41 from English Workbook (2)"
+    },
+    {
+      "path": "assets/figures/C111231-p0042-source-page.png",
+      "source_pdf_page": 42,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "Source page image",
+      "alt": "Full source page 42 from English Workbook (2)"
+    },
+    {
+      "path": "assets/figures/C111231-p0044-source-page.png",
+      "source_pdf_page": 44,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "Source page image",
+      "alt": "Full source page 44 from English Workbook (2)"
+    },
+    {
+      "path": "assets/figures/C111231-p0045-source-page.png",
+      "source_pdf_page": 45,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "Source page image",
+      "alt": "Full source page 45 from English Workbook (2)"
+    },
+    {
+      "path": "assets/figures/C111231-p0046-source-page.png",
+      "source_pdf_page": 46,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "Source page image",
+      "alt": "Full source page 46 from English Workbook (2)"
+    },
+    {
+      "path": "assets/figures/C111231-p0047-source-page.png",
+      "source_pdf_page": 47,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "Source page image",
+      "alt": "Full source page 47 from English Workbook (2)"
+    },
+    {
+      "path": "assets/figures/C111231-p0049-source-page.png",
+      "source_pdf_page": 49,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "Source page image",
+      "alt": "Full source page 49 from English Workbook (2)"
+    },
+    {
+      "path": "assets/figures/C111231-p0050-source-page.png",
+      "source_pdf_page": 50,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "Source page image",
+      "alt": "Full source page 50 from English Workbook (2)"
+    },
+    {
+      "path": "assets/figures/C111231-p0051-source-page.png",
+      "source_pdf_page": 51,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "Source page image",
+      "alt": "Full source page 51 from English Workbook (2)"
+    },
+    {
+      "path": "assets/figures/C111231-p0052-source-page.png",
+      "source_pdf_page": 52,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "Source page image",
+      "alt": "Full source page 52 from English Workbook (2)"
+    },
+    {
+      "path": "assets/figures/C111231-p0053-source-page.png",
+      "source_pdf_page": 53,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "Source page image",
+      "alt": "Full source page 53 from English Workbook (2)"
+    },
+    {
+      "path": "assets/figures/C111231-p0054-source-page.png",
+      "source_pdf_page": 54,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "Source page image",
+      "alt": "Full source page 54 from English Workbook (2)"
+    },
+    {
+      "path": "assets/figures/C111231-p0055-source-page.png",
+      "source_pdf_page": 55,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "Source page image",
+      "alt": "Full source page 55 from English Workbook (2)"
+    },
+    {
+      "path": "assets/figures/C111231-p0056-source-page.png",
+      "source_pdf_page": 56,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "Source page image",
+      "alt": "Full source page 56 from English Workbook (2)"
+    },
+    {
+      "path": "assets/figures/C111231-p0057-source-page.png",
+      "source_pdf_page": 57,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "Source page image",
+      "alt": "Full source page 57 from English Workbook (2)"
+    },
+    {
+      "path": "assets/figures/C111231-p0058-source-page.png",
+      "source_pdf_page": 58,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "Source page image",
+      "alt": "Full source page 58 from English Workbook (2)"
+    },
+    {
+      "path": "assets/figures/C111231-p0059-source-page.png",
+      "source_pdf_page": 59,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "Source page image",
+      "alt": "Full source page 59 from English Workbook (2)"
+    },
+    {
+      "path": "assets/figures/C111231-p0060-source-page.png",
+      "source_pdf_page": 60,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "Source page image",
+      "alt": "Full source page 60 from English Workbook (2)"
+    },
+    {
+      "path": "assets/figures/C111231-p0064-source-page.png",
+      "source_pdf_page": 64,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "Source page image",
+      "alt": "Full source page 64 from English Workbook (2)"
+    }
+  ],
+  "uncertainties": [],
+  "completed_pages": 64,
+  "status": "complete"
+}

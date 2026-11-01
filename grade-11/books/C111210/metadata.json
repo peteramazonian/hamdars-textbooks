@@ -1,0 +1,20 @@
+{
+  "book_code": "C111210",
+  "title": "شیمی (2)",
+  "grade": 11,
+  "branches": [
+    "math",
+    "science"
+  ],
+  "edition": "1405-1406",
+  "language": "fa",
+  "source": {
+    "catalog_url": "http://chap.sch.ir/books/14321",
+    "pdf_url": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/41/C111210.pdf",
+    "sha256": "c7e35f67ae84d6dedeeefbe3efb77881d39a7620b0e6fc12eeb28358f469f257",
+    "pdf_page_count": 136
+  },
+  "coverage": "complete",
+  "content_review": "not_validated",
+  "pdf_page_count": 136
+}

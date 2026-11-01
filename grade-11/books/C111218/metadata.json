@@ -1,0 +1,19 @@
+{
+  "book_code": "C111218",
+  "title": "جغرافیای (2) ـ جغرافیای ناحیه ای",
+  "grade": 11,
+  "branches": [
+    "humanities"
+  ],
+  "edition": "1405-1406",
+  "language": "fa",
+  "source": {
+    "catalog_url": "http://chap.sch.ir/books/14348",
+    "pdf_url": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/38/C111218.pdf",
+    "sha256": "dd3f33d6cf9f352d539f55293fa95f03c552d45fb88c33b07573d29e5393e4b4",
+    "pdf_page_count": 176
+  },
+  "coverage": "complete",
+  "content_review": "not_validated",
+  "pdf_page_count": 176
+}

@@ -1,0 +1,22 @@
+{
+  "book_code": "C110222",
+  "title": "هنر",
+  "grade": 11,
+  "branches": [
+    "math",
+    "science",
+    "humanities",
+    "islamic"
+  ],
+  "edition": "1405-1406",
+  "language": "fa",
+  "source": {
+    "catalog_url": "http://chap.sch.ir/books/14263",
+    "pdf_url": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/693/C110222.pdf",
+    "sha256": "9a44004beda80f9d4143cc36893a9e413f8dfc75cf532094e1e132543e340525",
+    "pdf_page_count": 144
+  },
+  "coverage": "complete",
+  "content_review": "not_validated",
+  "pdf_page_count": 144
+}

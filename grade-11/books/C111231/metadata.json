@@ -1,0 +1,23 @@
+{
+  "book_code": "C111231",
+  "title": "کتاب کار انگلیسی (2)",
+  "grade": 11,
+  "branches": [
+    "math",
+    "science",
+    "humanities",
+    "islamic"
+  ],
+  "edition": "1404-1405",
+  "language": "fa",
+  "source": {
+    "catalog_url": "http://chap.sch.ir/books/14349",
+    "pdf_url": "http://chap.sch.ir/sites/default/files/lbooks/1404-1405/44/C111231_0.pdf",
+    "sha256": "785ad8f0139c151e71c1e2678d208c2d666722d8b72887cb47a9466d5b306ead",
+    "pdf_page_count": 64,
+    "source_edition_note": "Official catalog attachment is identified as older edition; included per root direction."
+  },
+  "coverage": "complete",
+  "content_review": "not_validated",
+  "pdf_page_count": 64
+}

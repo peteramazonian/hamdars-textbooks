@@ -1,0 +1,19 @@
+{
+  "book_code": "C111213",
+  "title": "هندسه (2)",
+  "grade": 11,
+  "branches": [
+    "math"
+  ],
+  "edition": "1405-1406",
+  "language": "fa",
+  "source": {
+    "catalog_url": "http://chap.sch.ir/books/14322",
+    "pdf_url": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/30/C111213.pdf",
+    "sha256": "2bf760bf2263662b8f1426652c33e53531052e36d84fbb3023fe5aa5e150e421",
+    "pdf_page_count": 80
+  },
+  "coverage": "complete",
+  "content_review": "not_validated",
+  "pdf_page_count": 80
+}

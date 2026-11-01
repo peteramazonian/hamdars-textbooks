@@ -1,0 +1,19 @@
+{
+  "book_code": "C111244",
+  "title": "فیزیک (2)",
+  "grade": 11,
+  "branches": [
+    "science"
+  ],
+  "edition": "1405-1406",
+  "language": "fa",
+  "source": {
+    "catalog_url": "http://chap.sch.ir/books/14333",
+    "pdf_url": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/41/C111244.pdf",
+    "sha256": "2fbda9ed4bdedb20ee3182e39e0eb39c15f908770cd7de56fff3d91a6160aac4",
+    "pdf_page_count": 119
+  },
+  "coverage": "complete",
+  "content_review": "not_validated",
+  "pdf_page_count": 119
+}

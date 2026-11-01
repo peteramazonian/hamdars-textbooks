@@ -1,0 +1,2455 @@
+{
+  "schema_version": 1,
+  "book": {
+    "title": "فلسفه (1)",
+    "grade": 11,
+    "branches": [
+      "humanities",
+      "islamic"
+    ],
+    "book_code": "C111226",
+    "edition": "1405-1406",
+    "year": "1405-1406",
+    "language": "fa"
+  },
+  "source": {
+    "catalog_url": "http://chap.sch.ir/books/14341",
+    "pdf_url": "http://chap.sch.ir/sites/default/files/lbooks/1405-1406/44/C111226.pdf",
+    "local_pdf": "sources/C111226.pdf",
+    "sha256": "f8c6c56bb1bb9dd277e2e129a4ba344109b614fecc7738e4ce7aeed4e26999bb",
+    "pdf_page_count": 104,
+    "retrieved_at": null
+  },
+  "pages": [
+    {
+      "pdf_page": 1,
+      "printed_page": null,
+      "path": "pages/p0001.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0001-source-page.png",
+          "source_pdf_page": 1,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 1 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 2,
+      "printed_page": null,
+      "path": "pages/p0002.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 3,
+      "printed_page": null,
+      "path": "pages/p0003.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0003-source-page.png",
+          "source_pdf_page": 3,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 3 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 4,
+      "printed_page": null,
+      "path": "pages/p0004.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 5,
+      "printed_page": null,
+      "path": "pages/p0005.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 6,
+      "printed_page": null,
+      "path": "pages/p0006.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0006-source-page.png",
+          "source_pdf_page": 6,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 6 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 7,
+      "printed_page": null,
+      "path": "pages/p0007.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0007-source-page.png",
+          "source_pdf_page": 7,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 7 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 8,
+      "printed_page": 1,
+      "path": "pages/p0008.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 9,
+      "printed_page": null,
+      "path": "pages/p0009.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0009-source-page.png",
+          "source_pdf_page": 9,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 9 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 10,
+      "printed_page": null,
+      "path": "pages/p0010.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 11,
+      "printed_page": null,
+      "path": "pages/p0011.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0011-source-page.png",
+          "source_pdf_page": 11,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 11 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 12,
+      "printed_page": null,
+      "path": "pages/p0012.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0012-source-page.png",
+          "source_pdf_page": 12,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 12 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 13,
+      "printed_page": null,
+      "path": "pages/p0013.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 14,
+      "printed_page": null,
+      "path": "pages/p0014.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 15,
+      "printed_page": null,
+      "path": "pages/p0015.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 16,
+      "printed_page": null,
+      "path": "pages/p0016.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 17,
+      "printed_page": null,
+      "path": "pages/p0017.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 18,
+      "printed_page": 2,
+      "path": "pages/p0018.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 19,
+      "printed_page": null,
+      "path": "pages/p0019.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 20,
+      "printed_page": null,
+      "path": "pages/p0020.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0020-source-page.png",
+          "source_pdf_page": 20,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 20 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 21,
+      "printed_page": null,
+      "path": "pages/p0021.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 22,
+      "printed_page": null,
+      "path": "pages/p0022.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 23,
+      "printed_page": null,
+      "path": "pages/p0023.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 24,
+      "printed_page": null,
+      "path": "pages/p0024.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0024-source-page.png",
+          "source_pdf_page": 24,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 24 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 25,
+      "printed_page": 3,
+      "path": "pages/p0025.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0025-source-page.png",
+          "source_pdf_page": 25,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 25 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 26,
+      "printed_page": null,
+      "path": "pages/p0026.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 27,
+      "printed_page": null,
+      "path": "pages/p0027.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 28,
+      "printed_page": null,
+      "path": "pages/p0028.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 29,
+      "printed_page": null,
+      "path": "pages/p0029.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 30,
+      "printed_page": null,
+      "path": "pages/p0030.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0030-source-page.png",
+          "source_pdf_page": 30,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 30 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 31,
+      "printed_page": null,
+      "path": "pages/p0031.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0031-source-page.png",
+          "source_pdf_page": 31,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 31 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 32,
+      "printed_page": null,
+      "path": "pages/p0032.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 33,
+      "printed_page": null,
+      "path": "pages/p0033.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0033-source-page.png",
+          "source_pdf_page": 33,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 33 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 34,
+      "printed_page": 4,
+      "path": "pages/p0034.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0034-source-page.png",
+          "source_pdf_page": 34,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 34 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 35,
+      "printed_page": null,
+      "path": "pages/p0035.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0035-source-page.png",
+          "source_pdf_page": 35,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 35 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 36,
+      "printed_page": null,
+      "path": "pages/p0036.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 37,
+      "printed_page": null,
+      "path": "pages/p0037.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0037-source-page.png",
+          "source_pdf_page": 37,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 37 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 38,
+      "printed_page": null,
+      "path": "pages/p0038.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0038-source-page.png",
+          "source_pdf_page": 38,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 38 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 39,
+      "printed_page": null,
+      "path": "pages/p0039.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 40,
+      "printed_page": null,
+      "path": "pages/p0040.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 41,
+      "printed_page": null,
+      "path": "pages/p0041.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0041-source-page.png",
+          "source_pdf_page": 41,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 41 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 42,
+      "printed_page": 5,
+      "path": "pages/p0042.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0042-source-page.png",
+          "source_pdf_page": 42,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 42 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 43,
+      "printed_page": null,
+      "path": "pages/p0043.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0043-source-page.png",
+          "source_pdf_page": 43,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 43 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 44,
+      "printed_page": null,
+      "path": "pages/p0044.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0044-source-page.png",
+          "source_pdf_page": 44,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 44 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 45,
+      "printed_page": null,
+      "path": "pages/p0045.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 46,
+      "printed_page": null,
+      "path": "pages/p0046.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0046-source-page.png",
+          "source_pdf_page": 46,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 46 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 47,
+      "printed_page": null,
+      "path": "pages/p0047.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 48,
+      "printed_page": null,
+      "path": "pages/p0048.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 49,
+      "printed_page": 2,
+      "path": "pages/p0049.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0049-source-page.png",
+          "source_pdf_page": 49,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 49 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 50,
+      "printed_page": 6,
+      "path": "pages/p0050.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 51,
+      "printed_page": null,
+      "path": "pages/p0051.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 52,
+      "printed_page": null,
+      "path": "pages/p0052.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0052-source-page.png",
+          "source_pdf_page": 52,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 52 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 53,
+      "printed_page": null,
+      "path": "pages/p0053.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0053-source-page.png",
+          "source_pdf_page": 53,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 53 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 54,
+      "printed_page": null,
+      "path": "pages/p0054.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0054-source-page.png",
+          "source_pdf_page": 54,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 54 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 55,
+      "printed_page": null,
+      "path": "pages/p0055.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 56,
+      "printed_page": 7,
+      "path": "pages/p0056.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0056-source-page.png",
+          "source_pdf_page": 56,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 56 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 57,
+      "printed_page": null,
+      "path": "pages/p0057.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0057-source-page.png",
+          "source_pdf_page": 57,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 57 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 58,
+      "printed_page": null,
+      "path": "pages/p0058.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0058-source-page.png",
+          "source_pdf_page": 58,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 58 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 59,
+      "printed_page": null,
+      "path": "pages/p0059.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0059-source-page.png",
+          "source_pdf_page": 59,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 59 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 60,
+      "printed_page": null,
+      "path": "pages/p0060.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0060-source-page.png",
+          "source_pdf_page": 60,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 60 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 61,
+      "printed_page": null,
+      "path": "pages/p0061.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0061-source-page.png",
+          "source_pdf_page": 61,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 61 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 62,
+      "printed_page": null,
+      "path": "pages/p0062.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 63,
+      "printed_page": null,
+      "path": "pages/p0063.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0063-source-page.png",
+          "source_pdf_page": 63,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 63 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 64,
+      "printed_page": 8,
+      "path": "pages/p0064.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0064-source-page.png",
+          "source_pdf_page": 64,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 64 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 65,
+      "printed_page": null,
+      "path": "pages/p0065.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0065-source-page.png",
+          "source_pdf_page": 65,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 65 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 66,
+      "printed_page": null,
+      "path": "pages/p0066.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0066-source-page.png",
+          "source_pdf_page": 66,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 66 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 67,
+      "printed_page": null,
+      "path": "pages/p0067.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0067-source-page.png",
+          "source_pdf_page": 67,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 67 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 68,
+      "printed_page": null,
+      "path": "pages/p0068.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0068-source-page.png",
+          "source_pdf_page": 68,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 68 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 69,
+      "printed_page": null,
+      "path": "pages/p0069.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0069-source-page.png",
+          "source_pdf_page": 69,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 69 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 70,
+      "printed_page": null,
+      "path": "pages/p0070.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0070-source-page.png",
+          "source_pdf_page": 70,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 70 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 71,
+      "printed_page": null,
+      "path": "pages/p0071.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0071-source-page.png",
+          "source_pdf_page": 71,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 71 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 72,
+      "printed_page": null,
+      "path": "pages/p0072.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 73,
+      "printed_page": null,
+      "path": "pages/p0073.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0073-source-page.png",
+          "source_pdf_page": 73,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 73 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 74,
+      "printed_page": null,
+      "path": "pages/p0074.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 75,
+      "printed_page": 3,
+      "path": "pages/p0075.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0075-source-page.png",
+          "source_pdf_page": 75,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 75 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 76,
+      "printed_page": 9,
+      "path": "pages/p0076.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0076-source-page.png",
+          "source_pdf_page": 76,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 76 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 77,
+      "printed_page": null,
+      "path": "pages/p0077.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 78,
+      "printed_page": null,
+      "path": "pages/p0078.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0078-source-page.png",
+          "source_pdf_page": 78,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 78 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 79,
+      "printed_page": null,
+      "path": "pages/p0079.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0079-source-page.png",
+          "source_pdf_page": 79,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 79 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 80,
+      "printed_page": null,
+      "path": "pages/p0080.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0080-source-page.png",
+          "source_pdf_page": 80,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 80 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 81,
+      "printed_page": null,
+      "path": "pages/p0081.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 82,
+      "printed_page": 10,
+      "path": "pages/p0082.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0082-source-page.png",
+          "source_pdf_page": 82,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 82 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 83,
+      "printed_page": null,
+      "path": "pages/p0083.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 84,
+      "printed_page": null,
+      "path": "pages/p0084.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0084-source-page.png",
+          "source_pdf_page": 84,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 84 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 85,
+      "printed_page": null,
+      "path": "pages/p0085.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0085-source-page.png",
+          "source_pdf_page": 85,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 85 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 86,
+      "printed_page": null,
+      "path": "pages/p0086.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 87,
+      "printed_page": null,
+      "path": "pages/p0087.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0087-source-page.png",
+          "source_pdf_page": 87,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 87 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 88,
+      "printed_page": null,
+      "path": "pages/p0088.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0088-source-page.png",
+          "source_pdf_page": 88,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 88 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 89,
+      "printed_page": 11,
+      "path": "pages/p0089.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0089-source-page.png",
+          "source_pdf_page": 89,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 89 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 90,
+      "printed_page": null,
+      "path": "pages/p0090.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 91,
+      "printed_page": null,
+      "path": "pages/p0091.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 92,
+      "printed_page": null,
+      "path": "pages/p0092.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 93,
+      "printed_page": null,
+      "path": "pages/p0093.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0093-source-page.png",
+          "source_pdf_page": 93,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 93 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 94,
+      "printed_page": null,
+      "path": "pages/p0094.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0094-source-page.png",
+          "source_pdf_page": 94,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 94 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 95,
+      "printed_page": null,
+      "path": "pages/p0095.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 96,
+      "printed_page": null,
+      "path": "pages/p0096.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 97,
+      "printed_page": null,
+      "path": "pages/p0097.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 98,
+      "printed_page": null,
+      "path": "pages/p0098.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0098-source-page.png",
+          "source_pdf_page": 98,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 98 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 99,
+      "printed_page": null,
+      "path": "pages/p0099.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0099-source-page.png",
+          "source_pdf_page": 99,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 99 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 100,
+      "printed_page": null,
+      "path": "pages/p0100.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 101,
+      "printed_page": null,
+      "path": "pages/p0101.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0101-source-page.png",
+          "source_pdf_page": 101,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 101 از کتاب فلسفه (۱)"
+        }
+      ]
+    },
+    {
+      "pdf_page": 102,
+      "printed_page": null,
+      "path": "pages/p0102.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 103,
+      "printed_page": null,
+      "path": "pages/p0103.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": []
+    },
+    {
+      "pdf_page": 104,
+      "printed_page": null,
+      "path": "pages/p0104.md",
+      "coverage": "complete",
+      "review_status": "native extracted text retained; source page rendered for visual reference",
+      "figures": [
+        {
+          "path": "assets/figures/C111226-p0104-source-page.png",
+          "source_pdf_page": 104,
+          "crop_bounds_points": [
+            0,
+            0,
+            462.0469970703125,
+            651.968994140625
+          ],
+          "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+          "caption": "تصویر/نمودار صفحهٔ منبع",
+          "alt": "تصویر کامل صفحهٔ 104 از کتاب فلسفه (۱)"
+        }
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "path": "assets/figures/C111226-p0001-source-page.png",
+      "source_pdf_page": 1,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 1 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0003-source-page.png",
+      "source_pdf_page": 3,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 3 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0006-source-page.png",
+      "source_pdf_page": 6,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 6 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0007-source-page.png",
+      "source_pdf_page": 7,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 7 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0009-source-page.png",
+      "source_pdf_page": 9,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 9 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0011-source-page.png",
+      "source_pdf_page": 11,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 11 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0012-source-page.png",
+      "source_pdf_page": 12,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 12 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0020-source-page.png",
+      "source_pdf_page": 20,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 20 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0024-source-page.png",
+      "source_pdf_page": 24,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 24 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0025-source-page.png",
+      "source_pdf_page": 25,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 25 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0030-source-page.png",
+      "source_pdf_page": 30,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 30 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0031-source-page.png",
+      "source_pdf_page": 31,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 31 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0033-source-page.png",
+      "source_pdf_page": 33,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 33 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0034-source-page.png",
+      "source_pdf_page": 34,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 34 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0035-source-page.png",
+      "source_pdf_page": 35,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 35 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0037-source-page.png",
+      "source_pdf_page": 37,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 37 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0038-source-page.png",
+      "source_pdf_page": 38,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 38 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0041-source-page.png",
+      "source_pdf_page": 41,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 41 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0042-source-page.png",
+      "source_pdf_page": 42,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 42 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0043-source-page.png",
+      "source_pdf_page": 43,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 43 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0044-source-page.png",
+      "source_pdf_page": 44,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 44 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0046-source-page.png",
+      "source_pdf_page": 46,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 46 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0049-source-page.png",
+      "source_pdf_page": 49,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 49 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0052-source-page.png",
+      "source_pdf_page": 52,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 52 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0053-source-page.png",
+      "source_pdf_page": 53,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 53 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0054-source-page.png",
+      "source_pdf_page": 54,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 54 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0056-source-page.png",
+      "source_pdf_page": 56,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 56 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0057-source-page.png",
+      "source_pdf_page": 57,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 57 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0058-source-page.png",
+      "source_pdf_page": 58,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 58 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0059-source-page.png",
+      "source_pdf_page": 59,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 59 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0060-source-page.png",
+      "source_pdf_page": 60,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 60 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0061-source-page.png",
+      "source_pdf_page": 61,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 61 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0063-source-page.png",
+      "source_pdf_page": 63,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 63 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0064-source-page.png",
+      "source_pdf_page": 64,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 64 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0065-source-page.png",
+      "source_pdf_page": 65,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 65 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0066-source-page.png",
+      "source_pdf_page": 66,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 66 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0067-source-page.png",
+      "source_pdf_page": 67,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 67 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0068-source-page.png",
+      "source_pdf_page": 68,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 68 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0069-source-page.png",
+      "source_pdf_page": 69,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 69 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0070-source-page.png",
+      "source_pdf_page": 70,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 70 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0071-source-page.png",
+      "source_pdf_page": 71,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 71 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0073-source-page.png",
+      "source_pdf_page": 73,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 73 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0075-source-page.png",
+      "source_pdf_page": 75,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 75 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0076-source-page.png",
+      "source_pdf_page": 76,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 76 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0078-source-page.png",
+      "source_pdf_page": 78,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 78 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0079-source-page.png",
+      "source_pdf_page": 79,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 79 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0080-source-page.png",
+      "source_pdf_page": 80,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 80 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0082-source-page.png",
+      "source_pdf_page": 82,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 82 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0084-source-page.png",
+      "source_pdf_page": 84,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 84 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0085-source-page.png",
+      "source_pdf_page": 85,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 85 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0087-source-page.png",
+      "source_pdf_page": 87,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 87 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0088-source-page.png",
+      "source_pdf_page": 88,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 88 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0089-source-page.png",
+      "source_pdf_page": 89,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 89 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0093-source-page.png",
+      "source_pdf_page": 93,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 93 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0094-source-page.png",
+      "source_pdf_page": 94,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 94 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0098-source-page.png",
+      "source_pdf_page": 98,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 98 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0099-source-page.png",
+      "source_pdf_page": 99,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 99 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0101-source-page.png",
+      "source_pdf_page": 101,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 101 از کتاب فلسفه (۱)"
+    },
+    {
+      "path": "assets/figures/C111226-p0104-source-page.png",
+      "source_pdf_page": 104,
+      "crop_bounds_points": [
+        0,
+        0,
+        462.0469970703125,
+        651.968994140625
+      ],
+      "crop_method": "full source-page render at 1.5x to preserve embedded figure and labels",
+      "caption": "تصویر/نمودار صفحهٔ منبع",
+      "alt": "تصویر کامل صفحهٔ 104 از کتاب فلسفه (۱)"
+    }
+  ],
+  "uncertainties": [],
+  "completed_pages": 104,
+  "status": "complete"
+}
