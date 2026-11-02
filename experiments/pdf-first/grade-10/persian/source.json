@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "status": "experimental",
+  "purpose": "Test agent access to original lesson PDFs on GitHub without full-book OCR",
+  "book": {
+    "code": "C110201",
+    "title": "فارسی (۱)",
+    "grade": 10,
+    "edition": "1399-1400",
+    "publication_year": "1399",
+    "printing": "پنجم"
+  },
+  "source": {
+    "publisher": "سازمان پژوهش و برنامه‌ریزی آموزشی",
+    "official_pdf_url": "http://chap.sch.ir/sites/default/files/lbooks/1399-1400/36/001-168-C110201.pdf",
+    "retrieved_date": "2026-11-02",
+    "sha256": "7c68d9a115f1bff296460fd13fa570031431d1a438c0bcc8414f1f706ffe8940",
+    "pdf_page_count": 168,
+    "edition_note": "نسخهٔ آرشیوی رسمی چاپ ۱۳۹۹، برای آزمایش؛ این پوشه ادعای چاپ جاری ندارد."
+  },
+  "split_method": "Original vector/text PDF pages retained with PyMuPDF select, preserving source document color profile; no OCR, retyping, rasterization or page cropping. Unused resources removed on save.",
+  "page_numbering_note": "PDF index is 1-based and equals printed page numbering in these selected ranges.",
+  "boundary_policy": "Each lesson starts at its title and includes its workshop and immediately following supplementary reading; no next lesson, preface, chapter separator or blank page.",
+  "lessons": [
+    {
+      "lesson": 1,
+      "title": "چشمه",
+      "directory": "lesson-01",
+      "pdf": "source.pdf",
+      "study_guide": "study-guide.md",
+      "source_pdf_pages_1_based": [
+        13,
+        17
+      ],
+      "printed_pages": [
+        13,
+        17
+      ],
+      "page_count": 5,
+      "included_sections": "متن شعر نیما یوشیج، کارگاه متن‌پژوهی و گنج حکمت «پیرایهٔ خرد».",
+      "sha256": "7424f83bc7abcb6c67782d577f1f99e9a64cf1ef667597edd917ba68978984c8",
+      "size_bytes": 674654
+    },
+    {
+      "lesson": 2,
+      "title": "از آموختن، ننگ مدار",
+      "directory": "lesson-02",
+      "pdf": "source.pdf",
+      "study_guide": "study-guide.md",
+      "source_pdf_pages_1_based": [
+        18,
+        27
+      ],
+      "printed_pages": [
+        18,
+        27
+      ],
+      "page_count": 10,
+      "included_sections": "متن قابوس‌نامه، کارگاه متن‌پژوهی و روان‌خوانی «دیوار» با پرسش‌های درک و دریافت.",
+      "sha256": "b27407acfb4639ef7c224a46c3bf29b56d980e90718b18584c9caed96bb220d3",
+      "size_bytes": 816318
+    },
+    {
+      "lesson": 3,
+      "title": "پاسداری از حقیقت",
+      "directory": "lesson-03",
+      "pdf": "source.pdf",
+      "study_guide": "study-guide.md",
+      "source_pdf_pages_1_based": [
+        31,
+        36
+      ],
+      "printed_pages": [
+        31,
+        36
+      ],
+      "page_count": 6,
+      "included_sections": "شعر سیدعلی موسوی گرمارودی، کارگاه متن‌پژوهی و گنج حکمت «دیوار عدل».",
+      "sha256": "3ee4f444a8c0ca7af34c3e39dca361a9bb245916f94407a89cab2ea6385f8e9b",
+      "size_bytes": 699009
+    }
+  ]
+}
